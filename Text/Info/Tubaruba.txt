@@ -1,0 +1,27 @@
+THE GAME
+At school you have an infamous reputation for truanting, never doing homework, getting into fights and sticking gum in all sorts of strange places. For some curious reason you have acquired the nickname - Tubaruba, and whenever the teachers come across the slightest bit of trouble, you can bet that Tubaruba will be behind it.
+Up until now, you have been quite lucky in avoiding the teachers, but getting caught smashing a window by the headmaster means trouble.
+The headmaster has given you an option, either you collect £50 to cover the cost of repairing the window, or you will be expelled. He also says that your end of term grade will now be based on the amount of money you do collect and then feeling very confident with himself, the headmaster bets you his Ferrari sports car that you will not collect all the money in time!
+
+LOADING
+SPECTRUM 48/128 OWNERS
+1. Connect a suitable cassette player to your Spectrum according to the User Manual. THEN FOLLOW INSTRUCTIONS 3, 4 AND 5 BELOW.
+SPECTRUM 48/128 AND PLUS 2 OWNERS
+2 Put the 128 and Plus 2 systems into 48K mode.
+3 Place the rewound cassette into the cassette player.
+4 Type LOAD "" on your Spectrum and press ENTER
+5 Press PLAY on the cassette player.
+
+NOTE: Full loading instructions can be found in you Spectrum manual.
+
+PLAYING THE GAME
+Tubaruba can be played either using a joystick or with the following keys:
+
+Q = to thrust up
+A = to drop down
+O = to move left
+P = to move right
+Z or M = Fire
+BREAK = Quit game
+SHIFT = Pause on/off
+ENTER = Music on/off

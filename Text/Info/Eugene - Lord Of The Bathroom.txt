@@ -1,0 +1,68 @@
+**************************************************************************
+                           Manic Miner Mythologies                                             *
+                        Eugene - Lord of the bathroom                 
+**************************************************************************
+                        Manic Miner Technologies 1999
+                   http://members.xoom.com/erix1/mm/mm.htm 
+                           e-mail: erix1@online.no
+**************************************************************************
+          Game design/ gfx(*1) and some additional code by Erix1
+     Original game and game engine(*2) by the marvellous Matthew Smith
+**************************************************************************
+
+
+THE STORY:
+Earth's destiny lies in the balance. Rumours has it that mad scientists 
+are developing a new weapon so dangerous it makes the a-bomb look like a 
+firecracker. Reliable sources confirms that it's got something to do with 
+Miner Willy's DNA, some radioactive components and a fairly large sausage. 
+Eugene, the most evil being in the galaxy, ain't to happy with people who 
+go out and do evil stuff without letting him in on it, so he has decided 
+to find out what's going on, kill the bastards responsible and possibly 
+destroy the entire universe. Well, that's what happens when one writes the
+plot after the game's all done... But then again, we all know that Manic 
+Miner games don't have to rely on sophisticated plots. It's all about 
+the thrill of jumping up and down... 
+So, take Eugene (That toilet drinking, four eyed bugger from Manic Miner 
+part one) and guide him through 16 levels of unspeakable 48Kb glory!
+
+
+INSTRUCTIONS:
+       Q-P: Move left and right
+Bottom row: Jump
+       A-G: Pause
+
+
+WHAT'S NEW?:
+-16 Levels instead of 20. (Due to the compulsive act of including a
+                           full-screen Sub-Zero... (5Kb!))
+-No music (Made room for more code and gfx and room for a more 
+           pleasant gaming experience...Sorry Matthew...)
+-A Jet Pac-like interlude (Level 9)
+-A huge animated mutant Manic Miner (16'th Cavern)
+-New end of game sequence
+-And a bunch of minor details not really worth mentioning...
+
+
+THANX AND CREDITS TO:
+-Matthew Smith for the mother of all platform games!
+-Andrew Broad (Broadsoft) for the Manic Miner Screen Editor and
+ room format document!
+-Richard Jordan for his Spectrum Graphics Editor
+
+**************************************************************************
+
+(*1) Except!: the following images by Matthew Smith: 
+           Level  5 (Flying pigs, Miner Willy and Portal)
+           Level  7 (Items, Portal and Miner Willy)
+           Level  8 (The handle)
+           Level 11 (Crumbling floor, items, portal, vertical bad guys 
+                     and poisonous items)
+           Level 12 (Most graphics from Jet Set Willy),
+     ...+ portal gfx on level 6 and spaceship gfx on level 9
+(*2) Bug-Byte version (Cheat code: 6031769)    
+
+
+FINAL NOTE:
+You may of course rip or manipulate any parts of the graphics (or code)
+done by me...

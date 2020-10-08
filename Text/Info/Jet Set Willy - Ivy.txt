@@ -1,0 +1,295 @@
+Jet-Set Willy Ivy
++++++++++++++++++
+
+By Philip Bee (c) 1998 Filsoft
+
+
+PLEASE NOTE:
+
+This text file has been hurriedly put together so that I could release JSW Ivy before I lose Internet access.  Thus, it isn't all it could be; there may well be errors in this file - I simply haven't had the time to work on this document as much as I'd have liked.  The game itself (which is what really matters) HAS NOT been rushed in any way.
+
+
+The plot
+========
+
+After a non-too-successful holiday, Technician Ted arrived home to find a package waiting for him.  A label affixed to the package simply read "With love, Gertie".
+
+Surprised that she still remembered him (sometimes it felt that nobody remembered him), Ted took the package indoors and opened it.  He found a laptop PC with Internet facilities.
+
+Ted hooked the PC up to his 'phone and, as luck (or mediocre plot devices) would have it, the PC had an Internet account set up on it, so Ted started to surf the 'net 
+
+Being of egotistical persuasion, Ted typed his name into a search engine but only found a "Technician Ted: Mediocre or Awful?" site.  Ted voted for "mediocre" and decided to do a search for Willy; his arch-enemy.  "At least I've got a site (albeit one that somebody made up)," thought Ted, "that bankrupt loser has probably died and gone to the same place as that mole!"
+
+Ted was amazed.  This Willy fellow had several sites devoted to him.  What was worse was that he was still starring in games when Ted took "voluntary retirement" years ago!
+
+"How can this be?" pondered Ted.  "I was in three games, the same as him; my games were admittedly inspired by his adventures, but they were good.  I even designed my loading screen where I had to play several different roles!"
+
+Bemused at this continuing interest in Willy, Ted downloaded a Spectrum emulator.  He spent the next few months playing Willy's new games, completing most of them by cheating, but got stuck on one of the seemingly never-ending Manic Miner sequels.
+
+Ted was hungry.  He wanted some of this fame and was yearning to star in a game of his own again.  He could still jump and make an annoying noise when he loses a life; what was stopping him?
+
+Ted had heard about programs that would let you edit Willy's first two adventures (he'd later found out that these are commonly known as "editors").
+
+He looked and looked for an editor for one of his games and, becoming more and more frustrated (he'd just received his telephone bill!), he decided to wreak revenge on Willy.
+
+Ted planned to write a new game for Willy to star in; a game where Ted would call the shots - a game where Willy was doomed to fail and Ted would be famous again!
+
+Ha!  This would teach that bloke a lesson!  Willy always seemed to do things bigger and better than Ted.  Willy had had better holidays, had costume changes, he'd even gone to outer space!
+
+The last time Ted spoke to Willy was through Willy's solicitors.  Willy sued Ted for copying his second adventure; Ted had copied ideas and didn't even credit Willy.
+
+Willy dropped the case when he was working on his performance for a remake of his "Jet-Set" game.  After all, he and Ted used to go drinking occasionally, and Ted seemed to be a nice chap back then.
+
+Ted needed help to write this game; he needed someone gullible enough to believe that a fictional game character was talking to him and making, oops, helping, him write this game.
+
+Ted found his man.  He offered him money and a bag of chips, but his friend didn't want any of this - the chance to use Ted's story as a plot for a JSW game nearing the end of completion was enough!
+
+Willy agreed to star in the game, making Ted sign a contract stipulating that if Willy finishes the game, Ted will go away and never bother him again.
+
+Ted wrote some of the rooms (with some "help"), and wanted a big part in the game.  He wanted Willy to look stupid, so made up a superfluous storyline about Willy having a nightmare and waking up as an old foe.
+
+Due to a "hilarious" mix-up, Ted's costume in the game was that of Willy's housekeeper!  Growing to like the idea, Ted decided to keep this in the game.
+
+Ted persuaded some folk from the "Retired Speccy Game Characters' Rest Home" to put an appearance in the game.  Not having a big budget, Ted used some of the sets and actors from previous Willy games, to confuse Willy even more.
+
+Before the release of the game, both Ted and Willy were being interviewed.  "So Willy," asked the interviewer, "do you think that Ted has a role to play in games nowadays?"
+
+Oh sure," replied Willy, "it's losers like Ted who determine the winners like me!"
+
+Needless to say, Ted got angry, saying "Oh yeah - well your third game wasn't a critical success was it?"
+
+Willy explained that, after the director of his first two games went missing, the production studio thought that a new game based on his "Jet-Set" days would be a good money-spinner.
+
+This new production promised a lot - faster action, more scenes, costume changes, new actors.  If was a failure - the original game's director was sorely missed.
+
+"Anyway, you did the same with your second game, and your last game was released by a different company," commented Willy.
+
+Ted was quiet; he was thinking how best to wreak revenge.
+
+"And then you had new directors, new to games, making your new productions - the "Miner Willy" franchise is grower bigger by the day," stated the interviewer.
+
+Willy smiled.  "Yes, over the last few years I've constantly been in work.  I'm fully booked up until after the millennium."
+
+Tell me about some of your forthcoming games, Willy."
+
+"Book adaptations seem to be popular at the moment; I'm set to star in a few over the next couple of years.  The director has a proven track record - he did my third Manic Miner sequel - I had a very hard time on set on that game, I can tell you!"
+
+"A couple of my old games are having extra scenes added and generally tarted up a bit.  I'm also breaking into the foreign market too - a few of my games have been made abroad."
+
+The interviewer leant forward, "what about the director of your recent space adventure?  Any plans for him?"
+
+"He's actually composing the score for this game; I'm in negotiations with him to direct a game or three in the future."
+
+"I'm very happy with all of my games so far - the directors are so dedicated and enthusiastic - they don't get money for their work, after all!"
+
+After the interview had finished, Ted left a bottle outside Willy's stage door.  Willy, hearing a noise, opened the door and picked up the bottle and went back inside.
+
+"Must be from a fan," Willy thought, drinking the bottle's contents.
+
+Willy felt a bit odd.  "I haven't felt like this since Maria visited her sister," Willy thought.  Willy staggered to the bathroom and fell, bumping his head on the floor.
+
+With Willy temporarily out of action, Ted hid the boot cassette under Willy's pillow; Willy needs this so he can change form and wake up!  Ted, stretching his acting skills to the limit, decided to stand guard by Willy's bed, not letting Willy enter until he has collected all the items in the game.
+
+After all, Willy has no chance, has he?  Has he?
+
+
+The shorter plot
+================
+
+Willy, changed into an old foe, he has to collect all the items and go to his bed.  This is the only way you can defeat Ted!  (Unless you cheat!)
+
+
+Some background info
+====================
+
+JSW Ivy was started back in 1996 when I first got a PC and had Internet access at work.  I downloaded Paul Rhodes' Editor and started to edit the original JSW rooms.  I then started writing a new JSW game and had written about 40 rooms when I left it for over a year.  I re-started work on Ivy in March of this year.
+
+The loading SCREEN$ has Willy and Ted on set from their unfinished epic "Way of the Imploding Peanut".  The in-game tune is Strauss' Radetzky March (as featured in Technician Ted); arranged by Richard Hallas.
+
+JSW Ivy is probably the only Speccy game to have been partly written inside a monastery!  When I went on retreat a few months ago I borrowed a friend's laptop and designed "Ted's Labrotory (sic)" whilst I was there.
+
+
+The rooms
+=========
+
+IMPORTANT:  I recommend that you play the game a bit before reading the following room descriptions, as they contain playing tips and spoilers!
+
+"A Bridge Too Far": JSW's Bridge made a little harder.
+
+"A Close Shave": Yes, I do think that those computer chips do look a little like razor-blades!  You need to jump 'into' the block to the right of the lowest object in order to collect it.
+
+"A Taxidermist's Nightmare": Oh dear!  The 'Pacipillar' seems to have died, and has been stuffed.  Nice hat, though!
+
+"Above the Beach": This is situated above the beach, funnily enough.  Note that the face and robot guardians are brighter than the background colour and thus have blocks around them.  Well, if Matthew Smith can get away with it in "On a Branch Over the Drive", so can I!
+
+"Access All Floors": Who let that irritating egg on set?!  This room has a conveyer crossing a ramp (or is it the other way around?).
+
+"An 'arrowing Experience": One of my first room designs and boy, does it show!  No guardians; just arrows and some platforms.
+
+"Attribution": A screen with nice use of colour, making some of the platforms difficult to see.
+
+"Banyan Tree Revisited": Mr. Lack Of Inspiration, we salute you!  The name says it all, really.
+
+"Bitter Late Than Never": This was quite a dull room until I added the "floating lines" effect; stand near the top of the ramp and see!  A new effect, and quite pleasing, I thought.
+
+"Bright Eyes": Help Willy collect the hand-crafted wooden bunny rabbits heads.  This room is harder than it looks...
+
+"Clement Time": So named after my habit of abusing the word 'clement' and saying things like "Have a clement weekend".  An interesting scene with a difficult-to-get object centre-right.
+
+"Completion of Garden Triptych": This room was originally called "The Allotment" until I remembered that allotments don't usually have flowers growing in them!  So, this is now the third (and final?) part of the JSW Garden triptych (JTJS and JSW2 also having a Garden).  Interestingly, the Dragon 32 version of JSW also has a Garden.
+
+"DANGER - RETROACTIVE": One of my favourite scenes.  Willy has to navigate the Manic Miner loading screen$ and two familiar sights.
+
+"Dizzy Heights": Oh dear.  That egg is has conned Ted into naming a screen after him.  To get the second spider you can't stand right on the edge of the platform and jump (which you would think would be the case); you need to be near the edge.
+
+"Double Your Money": So called because each pound sign is worth two objects.  Shame that they are quite difficult to reach, really...
+
+"Dullsville": A fairly routine screen, but how do you get that object?  Answers on a postcard to...
+
+"Firestarter": Simply collect the flame and exit.  Not inspired by the Prodigy - that was a rubbish 3D isometric game!  The flame made its début as a cuckoo is JSW's "Cuckoo's Nest"!
+
+"Halfway Hallway": Trying to collect the bottom object can be quite hard, as you need to jump onto the conveyor and then avoid a fast-moving guardian.  Walking non-stop from the upper left of the room and then pausing for a split second before jumping onto the conveyor makes it a bit easier to time.
+
+"Has Anyone Seen Andre?": This is based on the premise that the cooks in The Kitchen are Andres.  So, you get to see two photos of Andre on his day off.  There are effectively two ramps in the room, this is done by having a ramp go off the side off the screen.  Andre has lost his accent - all those years living in Liverpool, I'll bet!
+
+"Huh?": What's going on here?  A lift and alien from JSW2; Miner Willy and some other things?  Odd...
+
+"I >Know< I've Been Here Before..": Hmm, this scene certainly looks familiar.
+
+"Kitemark": To get the top-right object you need to jump left off the screen which leads you to the right.  Makes sense?  Good!
+
+"Let There Be Light": You need frame-perfect timing to pass the guardian in this room.
+
+"Life's a Beach": Well, it is in Miner Willy games, anyway!  Watch out for the black things.  Some unfortunate fellow seems to be very sunburnt, and has dropped his hat.  Why not be a pal and pick it up for him?  Watch out if you jump onto the rope!
+
+"Macaroni Bill": Introducing Bill - he auditioned for a role in JSW2, but apparently decided to wait for this game to make his début as an actor.  He's 84, likes Tiertex games and enjoys watching Daytime T.V.  He obviously needs psychiatric help.
+
+"Memorabilia": Get your Willy dolls here!  Sorry, he's not in this game in that form?  Ah...
+
+"'Mined' Your Step!": An awful pun for an unusual room.  'Simply' collect the objects while avoiding the mines.  Oh, did I mention that the entire 'floor' behaves like a ramp?
+
+"Minor Willy": Finally, we get to see Willy as a young boy!  Help Willy get his lollipops, avoiding the 'Space-ish Invaders'' bullets and the Pong game in progress, complete with dodgy collision detection.  Minor Willy's animation is meant to be jerky, by the way!  I think I've drawn Minor Willy quite closely to how Matthew Smith may have drawn him.
+
+"Money For Old Rope": What a terrible pun!  Grab that money and exit.  Oh, did I mention the 'teleport' feature?  This is possible by putting a conveyor or ramp in the path of a rope.  You can make Willy teleport to a completely different room by putting 'nastie blocks' at the top of the rope; Willy gets transported to the screen above.
+
+"Much Ado About Something": Ho hum.  The old 'lots of conveyor belts' routine.  Yawn.
+
+"Nomen Loony": A nice simple screen; just the job after having to pass the screens on either side of it!
+
+"paranoia": So, Ted is your friend after all?  Simply jumping off either side of the screen will tell you the answer.  This room makes uses of the non-printing control codes in the room description to make it look as if it blends in with the floor.  Quite a nice effect, and remember, you saw it here first!
+
+"Pet Shop People": A very odd-looking scene, with a difficult jump over the non-animating pigeon.
+
+"Playing With Knives" : Some tricky jumps to be done here.  The knives are taken from Heartland.
+
+"Poste Restante": Collect the flashing objects and avoid touching the guardians.  Similar to almost all of the other rooms, then...
+
+"Previously Untitled": I'd like to say that this room was previously called "Untitled", but it wasn't!
+
+"RAMPACK WOBBLE (CIRCA '81)": "Willy in ZX81 game" exclusive!  Here, Willy has to collect the 1K symbols (no rampack wobble on this screen, no siree), and avoid touching the hi-res graphics.  If you touch the graphics, 'FAST MODE' will be initiated, and we will never see the end of the game!
+
+"Red Alert": A fairly simple screen.  Collect the props while dodging the 'razor-blade'.  As a smart alec pointed out to me, this screen could also be called "Magenta Alert"!  :-)
+
+"Remember This Abbey?": Yikes!  Probably the hardest screen in the whole game.  One of my favourite JSW screens ("The Forgotten Abbey") made harder due to some more things to avoid.  Shame you need to go through it twice to get two objects!  :-)
+
+"Shepherd's Delight": A bizarre title for a room with no shepherds or delights (seemingly).
+
+"Software Backup": Oh no!  Willy's PC has broken down (sounds familiar) and he has to retrieve his only backup, a C90.  He, um, backups all his stuff onto tape; he only uses his PC to play Speccy games.  Yes, that's why it's a tape.  :-)
+
+"Styx and Stones": Hurrah!  Willy's old friend, Styx, is back, fresh from the Speccy Game Characters' Rest Home.  He's lost his laser, but has gained animated arms!  Can you help Styx complete his stone collection?  He can't move up and down like he used to, and his mum never taught him how to jump - aw!
+
+"Tax Haven - ": So named because Willy seems to think that he can just carry on spending his money without having to pay tax.
+
+"Ted - I Want My Bed!": Here Ted pushes his acting skills to the limit, playing himself portraying Maria.  Ted is apparently from the 'method' school of acting and has been seen wearing Maria"s costume outside of the studio.  If you manage to collect the last object in this room Ted will disappear before your eyes.  If you have collect all the objects and enter this room from the left, the 'run to the ending animation' sequence is enabled.
+
+"Ted's Laborotory (sic)": It seems that Ted has been experimenting with the guardian editor and created some freaks (with a little 'help', of course!)  Be sure not to hang around in this room for too long - there is a limit to your lifespan in this room!  Quite a tricky room; the time limit is quite generous, though.  The objects are left over from the previous scene, "The Lone Shark", which was cut out in the final edit.  The unusual spelling is partly due to the spelling in the game over animation in Ted's first two games.
+
+"That Megatree Gets Everywhere...": Quite an attractive looking room I think.  Not too difficult.
+
+"The Badly-drawn Room": "Unlike all the others?" I hear you ask, sarcastically?  Well, this one has purposely rubbish graphics, unlike my other graphics, which are 'unpurposely' rubbish!  This has got to be the most unaesthetically-pleasing JSW room ever.  I'd love to see an example of a worse one.  I think!  Trying to cross the room requires expert timing.
+
+"The Catacombs": Oh dear!  The chap from Roller Coaster seems to have got lost!
+
+"The Impossible Jump?": So called because Ted claims that there is something more to this scene than first meets the eye.  Willy may need 'special help' here, I think.
+
+"The Monks' Building Site": The monks are building themselves a new oratory.  The design of it looks a bit odd, though...
+
+"The Neglected Swimming Pool": Yuk!  It seems that Maria hasn't been doing her job!  This scene has the same bug as JSW's "Swimming Pool": the object is automatically collected when you enter the room.  This is intentional.
+
+"The Orchard": Collect all those lovely Golden Delicious apples.  You need to be careful where you jump!
+
+"The Pigeon and Flag": Willy's local pub, seeming occupied by flags and pigeons.  
+
+"The (Very Large) Drinks Cabinet": Collect the bottles and glasses ready for the end of game party.
+
+"The Waxworks": The actors are doing a great job in this scene - you can hardly see them breathing!  Quite hard to pass unless you are good at timing your jumps.  Keep on practicing!
+
+"Treasure Hunt": I'm unsure why I called this room "Treasure Hunt", but there you are.  Fairly routine stuff.
+
+"Trinketry": Help Willy pick up the trinkets so he can pawn them after filming has ended.
+
+"Two Heads Are Better Than One": This room has a variation of the effect used in "Bitter Late Than Never".  This time you can see the line.  The effect is made possible by laying a conveyor so it goes of the bottom-right of the screen.
+
+"W. C. Fields": Collect the loo rolls and dodge the man-eating toilets!
+
+"Was It Worth It?": You tell me.  You do get to see a new guardian, though.
+
+"What is a Quirkafleeg, anyway?": The very same screen from JSW, but with harder landings and a now superfluous pigeon.  Of course, all Matthew Smith fans know what a 'quirkafleeg' is...
+
+"Where It All Starts     Boot Me!": The first scene.  Three taps to collect.  You need excellent timing to get the tap to the right of the guardian without dying!  The boot is, of course, from Manic Miner.  When Willy has collected all the items he can 'boot' up the computer within the boot and wake up and thus become normal again (so he hopes)!
+
+"Willy's New Yacht": Willy's new yacht isn't completely new, of course; he's had his old one revamped.  Who's that familiar face?  Is Olly around?  Can you reach the Deserted Isle on this new yacht?  You know who it is, not telling, and no; in that order.
+
+"You, Robot": Ooh - a giant statue of Willy's first adversary, the robot from Central Cavern.  The unusual title is based on Atari's obscure polygon arcade game "I Robot".
+
+
+Game info
+=========
+
+I release this game into the Public Domain - you are free to do with it what you want.  You may use any ideas etc. in this game in your own games, but please give credit where credit's due.
+
+If you do use part of this game in any way, please email me and let me know; I'm interested in whatever arises from my games.
+
+Above all, enjoy the game!  I welcome any comments/technical questions about JSW Ivy; my email address is in the "Contacting me" section in this document.
+
+
+Acknowledgements
+================
+
+A big "thank you" goes out to the following people, without whom JSW Ivy wouldn't be what it is today:
+
+Matthew Smith for writing Manic Miner and Jet-Set Willy - two of the best games ever!
+
+Paul Rhodes for writing the superb JetSet Editor.
+
+Richard Jordan for the Spectrum Graphics Editor, with which most of the (new) graphics in the game were drawn.
+
+Richard Hallas for converting the Technician Ted in-game tune to MM/JSW format, and for his useful comments on the game.
+
+Lee Tonks for BMP2SPEC, his useful utility for converting PC graphic formats to Speccy format.
+
+Jezniakowsky Sergey for ZX-Converter, similar to BMP2SPEC but handles colour as well.
+
+Andrew Broad for his numerous useful comments on the game.
+
+
+Contacting me
+=============
+
+As I write, my last day at work is tomorrow.  I am moving to Newbury to test my vocation as a monk, and shall not have direct Internet access for the foreseeable future.
+
+However, the industrious Gerard Sweeney has set up an email address for me:
+
+P.Bee@french.arts.gla.ac.uk
+
+and will send me emails on a floppy disk.  So, if you do send me an email (I try to reply to all Speccy-related emails), don't expect a speedy response!  It may take a couple of months.
+
+You can find any new games from me (and more besides) on my site "I've Started So I'll Finish..."
+
+http://www.geocities.com/TimesSquare/Battlefield/8875/
+
+
+And finally...
+==============
+
+Remember - if it's not rubber, then it's a plus!  :-)

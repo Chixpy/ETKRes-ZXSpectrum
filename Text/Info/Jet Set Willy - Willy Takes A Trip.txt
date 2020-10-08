@@ -1,0 +1,329 @@
+Willy Takes a Trip
+==================
+
+AKA my third JSW game, following "J4" and contributions to "Willy the
+Hacker" and "J4". It's (hopefully) more coherent than J4 and more
+challenging than WtH, it makes much more use of patch vectors
+too. Like both of these games, there isn't a single consistent theme
+in the game; rather there are several groups of adjacent rooms which
+share a theme, albeit somewhat loosely.
+
+By now the basic JSW engine has been very badly jacked to support
+Geoff mode. Future games should feature it tidied up a bit, with
+extra features: diagonal sprites, for example!
+
+Important notice (to be read and understood before playing)
+-----------------------------------------------------------
+
+[asbestos garments ON]
+
+The title is inspired by "Granny Takes a Trip", a reference to the
+name of a shop in Swinging London in the mid-sixties. While the "trip"
+in this is doubtless a reference to drugs, I want to make it clear
+that it and similar drug references in the game are intended FOR
+HUMOUR VALUE ONLY and DO NOT promote, advocate or condone the use of
+drugs, legal or otherwise. If you are nevertheless liable to take
+offence at these, I can only suggest that you don't play the game.
+
+I don't think that taking drugs is at all clever, and - potential
+flamers please note - I don't actually "do" any drugs, except for the
+odd glass of wine or champagne. But I do rather enjoy the black humour
+which goes with some aspects of drug-taking, and some of this humour
+found its way into the game. I suspect that this is also true of the
+original JSW, which - so Matthew Smith claimed in his interview with
+YS - was written under the influence of certain unspecified but
+probably illegal substances.
+
+Flamage which displays no understanding of the above will be sent to
+the bit bucket. The rest of you, just enjoy!
+
+[asbestos garments OFF]
+
+"Enough preaching; get on with the GAME, Geoff!"
+
+What's the music?
+-----------------
+
+The title tune is, of course, "Greensleeves", and I defy anyone to fix
+the bum low note! The in-game tune is one half (the lower one) of the
+guitar riff from "And Your Bird Can Sing" by the Beatles.
+
+Room descriptions
+-----------------
+
+"Power Source": Every game should have one!
+
+"The Underground Laboratory": The first room which will be encountered
+in the subterranean section of the game.
+
+"The Store Room": Self-explanatory; could it be a refugee from
+_Technicial Ted_? SPOILER: From some angles the green thingee isn't as
+deadly as it is from others.
+
+"The Mysterious Passage": Mysterious for an unfathomable reason which
+is in itself full of mystery.
+
+"The Secret Cabinet Minister": Originally just a cabinet, but the pun
+was irresistible. There are many (some might say too many) such puns
+in this game.
+
+"Low Tonee": A particularly awful pun on the name of another
+room. Nothing to do with laser printers.
+
+"The Graveyard of Awful Jokes": All puns lead here, as they have to.
+
+"Downhill": Not as empty as it may appear! Linked to "The Store Room"
+by means both foul and devious. The sprite, by the way, started life
+as a type of waterfowl; the legs are Willy's.
+
+"The Garden of Forbidden Fruits": Mostly limes. SPOILER: There's a
+surprise at the bottom-left, if you're facing the right way...
+
+"The Room of Stippled Blocks": A tribute to rooms we've all known
+which betray a lack of inspiration for the block designs! Notice the
+rather lethal patch vector; it's there to ensure that the room isn't
+*too* easy.
+
+"A Quiet Corner to rest in": I thought of having a room with a moving
+gap in the floor or ceiling, but no room seemed appropriate. Instead,
+I found a rather better solution, which JSW conoisseurs should
+appreciate. It can be done; remember, as in _The Hobbit_, that barrels
+float.
+
+"Phew, That Was Lucky": See the Cliff room for explanation of the
+title. Dig the groovy conveyor while you're figuring it out!
+
+"Field": Precisely that. Remnants of the Megatree here, possibly. The
+start of the "outdoor" zone.
+
+"Manic Mushrooms": A legacy of Willy's fungal obsession from "Willy
+the Hacker", of course. It was originally called "Magic Mushrooms" a
+title which was later moved elsewhere.
+
+"Hi Toni!": This and some of the neighbouring rooms are a tribute of
+sorts to Toni Baker, a Z80 hacker who wrote several books and
+contributed to certain Speccy Magazines. One of her contributions was
+a UDG editor (YS #6, IIRC), to which a reader added a short
+initialisation routine; the last comment in the source for this
+routine was the name of this room. I suspect that the object should
+properly be "AB", but in the absence of further information I can't be
+sure.
+
+"Light Screen Designer": Another Toni Baker room. The source code for
+a drawing program of hers for the Speccy was serialised over several
+months in "ZX Computing"; the name of the program provides the title
+for this room. Whether or not the name was a joke - think "Lucy in the
+Sky with Diamonds" - I've never found out.
+
+"Up and down like a metronome": There was to have been a companion
+room called "Back and forward like a yo-yo", but it got lost in the
+cracks of the space-time continuum, whatever that is.
+
+"No Place Like Home": The name is Roslyn's suggestion. The objects at
+the bottom are collectible, but in a non-obvious way which needs a
+little extra-terrestrial help.
+
+"The Arches of Despair, I fear": Some sort of reference to Greek
+mythology, I think. Watch out for the conveyors!
+
+"Nineteen - Not out!": The title comes from a song by "The
+Commentators" (the comedian Rory Bremner under an alias), which
+parodied both Paul Hardcastle's then-current hit single "19" and the
+ineptitude of the England Cricket team. (Nothing changes!) This is, of
+course, room 19, and the block designs each reflect this.
+
+"Iain's Stomach": A legendary bottomless pit. Ask him about the
+smorgasbord at the Holiday Inn at Hogmanay.
+
+"Up a tree": A companion to "Field". SPOILER: There's a hidden exit in
+this room, but you have to know where to find it...
+
+"Dense Undergrowth": A transition between the pastoral rooms below and
+the more urban rooms above.
+
+"Wherever you are...": Where is Toni Baker now, I wonder? She was
+believed to have been sighted on the cover of an early issue of YS,
+but apart form that, nothing...
+
+"Master Machine Code!!!!": Among Toni Baker's books was the classic
+text "Mastering Machine Code on your Spectrum". Those of you who cut
+their hacking teeth on the venerable ZX81 will doubtless remember
+screens like this! SPOILER: you have to clean this room for sympathy.
+
+"The Cloakroom Attendants": I think this is another subconscious
+reference to _Technician Ted_.
+
+"The Three Wise Men": There were to have been seven (or was it six?),
+as in the Government's economic advisors, but there wasn't room for
+them all.
+
+"Reception / Antechamber": The henious practice of getting two rooms
+for the price of one is exposed once again. (One of my earlier JSW
+games had three rooms in one.)
+
+"The Windowbox": Well, it had to go somewhere.
+
+"Oh no! CLIFF!": A reference to an episode of the comedy series "The
+Young Ones", in which the four intrepid heroes were IIRC stuck on a
+runaway bus. The title of the room comes from a comment made by one of
+them on seeing a sign advertising the film "Summer Holiday"; the bus
+promptly fell off a cliff and landed on a beach, whereupon a voice
+said "Phew, that was lucky" - hence the room some distance below.
+
+"What's This?": A reference to the unidentifiable sprites, suggestions
+for whose identities will be gratefully be accepted.
+
+"Doubleback Alley": The title of a song by the Rutles, a Beatles spoof
+band who featured on Eric Idle's "Rutland Weekend Television" and in
+the very fine spin-off film "All you need is Cash". The song itself is
+a rather effective pastiche of "Penny Lane", probably one of the
+greatest singles ever. (I'm showing my age here!) The objects are
+supposed to be milk-bottles, for reasons which are obvious if you've
+heard the song.
+
+"with sugar": Part of a wider original concept that originally
+included "Tea!" and two unused rooms "The Cow" and "With milk". This
+was abandoned when I realised there was no way I could draw a sensible
+cow with JSW blocks.
+
+"The Big White Telephone": Talking to God on this instrument of
+communication is an activity also referred to as "Driving the
+Porcelain Bus" and "Going to meet Huey and Ralph". Said activity may
+be observed at the end of the game.
+
+"some sort of castle, I suppose": From an entry in "The Deeper Meaning
+of Liff", viz: "PARROG: Could be some sort of bird, I suppose".
+
+"Don't Rest until Grandma's Sober": A reference to a song lyric in a
+short sketch in a comedy programme with Mel Smith and Griff
+Rhys-Jones, whose title I forget. The sketch was a take-off of the
+Beatles circa 1967 and revolved around the supposed drug references in
+their songs. Clue: think "Lucy in the Sky with Diamonds" again.
+
+"Alice in Acidland": A reference to a laughable film from 1968 which
+purported to be an anti-drug polemic but soon turned into what they
+used to call a "nudie", in which the eponymous heroine fell in with a
+group of "twilight hippies" who turned her on to LSD.
+
+"The Steno Pool (or maybe not!)": In a review of the aforementioned
+film on the Internet, most of the cast are described as looking like
+they came from the steno pool (= typing pool, but with
+stenographers). I don't know what that was supposed to mean, but this
+room probably doesn't look anything like a steno pool. SPOILER: The
+object is collected by jumping through a solid block in the room
+below; Andrew Broad suggested this.
+
+"The Penthouse Suite": There's a game in here somewhere. Hmm...
+
+"The Balcony": Hmm... this theme could indeed be quite promising - a
+JSW game set in a house?
+
+"The Leith Police": At the time of writing, I work in Leith, but I
+couldn't tell you how that relates to this room.
+
+"Willy's Drinking Licence": This comes from an idea of Andrew Broad's
+that people should be allowed at most one of a licence to drink and a
+licence to drive. Gnash your teeth at the deviously simple but
+devilishly cunning patch vector.
+
+"Tea!": Another, rather obscure, Rutles reference, and an excuse for
+further terrible puns (this is room 42). A rather frustrating room
+too.
+
+"Womflechompies": I don't know where the title came from!
+
+"The Hideaway": Not much happening here - SPOILER: hang on, what's
+that at the bottom-right corner?
+
+"The Custard's Last Stand": Pun-o-rama! The jumping-off point for
+several different directions (well, three actually).
+
+"Holy Floor!": Is this the only Batman reference in a JSW game? Or is
+it yet another bad pun? The jury's still out.
+
+"Twilight Hippies": See Alice. Harder than I'd intended it, thanks to
+a bug in the block-drawing code.
+
+"Health-food faggot": The opening line to King Crimson's "The Great
+Deceiver". Not the first King Crimson-inspired JSW room, either. The
+blocks are supposed to be wafers of something, and create a rather
+effective optical illusion, if I may say so.
+
+"Not normally baffling": Although it can be sometimes.
+
+"Crack City": A David Bowie reference this time, ultimately inspired
+by Andrew Broad.
+
+"The Promised Land (arctic)": Yes, the main part of the room *is*
+reachable, but you have to gain sympathy first.
+
+"The Promised Land (tropical)": A companion to the above. Strictly
+speaking, neither room is a proper Promised Land, but the titles have
+stuck nevertheless. and I can't think of better ones.
+
+"but no sympathy": A sort of free-association with the room below, via
+"rich tea and sympathy", whatever that is. A very difficult room
+indeed; one of my hardest ever.
+
+"Eeee, I think I can fly!": An obnoxious green duck puppet called
+Orville, who had Keith Harris's hand up its behind, had a hit single
+with this title in 1986 (IIRC). Orville's titular squeaks were later
+sampled on a dance record which celebrated Ecstasy. The irony of this
+was too good to waste.
+
+"Bike Ride to the Moon": The title comes from a song by the Dukes of
+Stratosphear, from their album "25 O'Clock", and was suggested to me
+by Alasdair of J4 fame. A very lunar room too, if I say so myself.
+
+"Oh no! SPACE INVADERS!!!": "Willy the Hacker" had a Pac-Man room, so
+here's another room celebrating one of the original computer
+games. Enjoy the use to which the patch vector is put in this room!
+Those who remember the original Space Invaders may, rightly, insist
+that colour is provided solely by coloured strips across the room; but
+for lack of memory, this would have been implemented in a patch
+vector.
+
+"Psychic Bread and Butter": A line from the fine song "Soul Food", by
+the sadly now defunct band Cud.
+
+"Magic Mushrooms": Here it is, the most garish patch vector of them
+all!
+
+"Weeds": The upper levels are reachable in non-obvious ways. The title
+introduces the zone which pertains to a certain recreational herb.
+
+"Don't Inhale, Billy": This is, of course, a reference to Bill
+Clinton's solitary drug-related experience. The title was also used as
+a sample filename in an example of a Linux command in a book.
+
+"Good Skunk": Credit goes to Andrew Broad for suggesting that the
+liquid blocks be made into stairs, a la "Out on a Limb". The patch
+vector didn't turn out quite how I'd wanted it - Willy wasn't supposed
+to turn white when he fell - but the effect makes some sense all the
+same.
+
+"Gettin' Really High": Who knows where lies the only way out? Can you
+stay straight for long enough to find it?
+
+"...": AKA "My Drugs Hell by Miner Willy". Screaming paranoia and
+unpleasant flashbacks. What happens if you overdo it.
+
+Credits and others
+------------------
+
+I am indebted to Andrew Broad for his comments and suggestions during
+the gestation and creation of this game, and have no hesitation in
+heartily recommending his JSW games to JSW conoisseurs all and
+sundry. Alasdair Swanson gets a mention for suggesting certain room
+titles and patch vectors.
+
+This game is in the public domain: share and enjoy! If you want to
+copy any parts of it, feel free - but give me a mention.
+
+Emails with comments, suggestions and bugfixes to:
+
+geoff@morven.compulink.co.uk
+
+"Bugfixes"? There shouldn't be any bugs - it should be possible to
+comlpete the game without losing any lives - but I can't be sure. Any
+which are found will be credited.

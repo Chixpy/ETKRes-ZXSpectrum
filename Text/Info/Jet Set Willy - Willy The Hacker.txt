@@ -1,0 +1,387 @@
+Willy the Hacker
+================
+
+At last, here is the much-longed-for documentation for Willy the
+Hacker. The reason I didn't provide it in the first place was simply
+that I wanted to retain an air of mystery about the game, but
+evidently this resulted in *too much* mystery for some people! So, in
+response to requests, here are the secrets of the game laid
+bare. (Well, most of them; I may have left a few out by mistake...)
+
+Why "Willy the Hacker"?
+-----------------------
+
+Why not? ;-) The game was originally conceived as a sort of "Willy
+does cyberspace", but the concept was lost over time; some remnants
+remain, though. Another design concept was to use at most three or
+four colours (not counting black) for many rooms, although this has
+little if anything to do with hacking.
+
+--------------------------------------------------------------------
+
+Room explanations
+=================
+
+Some of these may be less than exciting, since most of the titles are
+self-explanatory.
+
+
+The start of Willy's travels
+----------------------------
+
+The starting room, boringly enough!
+
+Up in the Sky
+-------------
+
+Nothing to do with Oasis, just the uppermost room in the game.
+
+It's the Room with No Name!
+---------------------------
+
+There has to be a room with no name somewhere...
+
+Willy plays Tarzan
+------------------
+
+It is possible to get all the objects without losing a life; I've done
+it myself, honest!
+
+The Yellow Room
+---------------
+
+I wanted a room for each of the Speccy's 8 colours. Here's the first
+of them, and no, there isn't a yellow sprite.
+
+The Yellow Room's partner
+-------------------------
+
+This room is to the preceding as "West of Kitchen" is to "The Kitchen"
+in the original JSW.
+
+Willy goes colour-coordinated
+-----------------------------
+
+Should be obvious, don't you think? How long does it take before your
+eyes start to hurt?!
+
+I've just had a <<deja vu>>
+---------------------------
+
+Inspired by the "It's The Mind" sketch from "Monty Python's Flying
+Circus". Better than having two rooms the same, at least.
+
+The Strange Plant of Mystery
+----------------------------
+
+OK, so I designed this nice sprite, and just had to use it somewhere!
+
+You Can't Get There From Here!
+------------------------------
+
+What Michael Stipe says when you ask him for directions, apparently.
+
+Not much seems to happen here
+-----------------------------
+
+Indeed not.
+
+The Cyan Room
+-------------
+
+No comment.
+
+The Mad Pig and the Worms
+-------------------------
+
+Named after its sprites, of course.
+
+The Greek Room
+--------------
+
+This actually originated as a typo for "Green".
+
+The Green Room
+--------------
+
+Can't think what to say here! Not one of my best.
+
+Willy's inspiration sags a bit
+------------------------------
+
+A pretty room despite the title, which is probably more appropriate to
+the preceding room.
+
+Horticultural musings
+---------------------
+
+The plant puts in another appearance here, along with a sprite for
+which there is no name. Despite the simplicity of the block designs,
+the room looks very like a greenhouse.
+
+Some differently-coloured bricks
+--------------------------------
+
+Another descriptive title.
+
+It's The Pit
+------------
+
+My first "pit" room, named in the tradition of some certain Monty
+Python sketches ("It's the Mind", "It's the Arts", etc.).
+
+The Mating of the Wersh
+-----------------------
+
+Another Python reference, this time to a bookshop sketch in which the
+customer asks for books with titles which are similar to but not the
+same as classics. Another example is "Knickerless Nickelby".
+
+Bubbles from the deep
+---------------------
+
+Subconsciously derived from "Underwurlde", of course.
+
+The Triangular Thingees
+-----------------------
+
+The sprites were originally all triangles, but that was felt to be
+making it a bit obvious.
+
+The Marching Globules
+---------------------
+
+This shows what you can do with wraparound sprites (cf also "Terminus"
+from J4).
+
+The Waxdripper
+--------------
+
+Inspired by a work of art called "The Honeydripper", via candles.
+
+Willy's latticework
+-------------------
+
+A sort of block-design-in-search-of-a-room sort of room, this one.
+
+Willy's Bright Idea
+-------------------
+
+Well, what else could you call a room with lightbulbs in it! A case of
+Geoff's inspiration starting to sag a bit.
+
+The Right-hand Edge of the Map
+------------------------------
+
+Geographically accurate, and a bit of a difficult room to do.
+
+Willy or won't he?
+------------------
+
+Another room in search of a decent title.
+
+Purple <hic>
+------------
+
+"If a buttercup is yellow, what colour is a hiccup?" So goes a very
+bad joke from my youth.
+
+The Passageway
+--------------
+
+Err... pretty, isn't it?
+
+Hey kids, shake a leg
+---------------------
+
+"Nobody tells you where to go" - "Drive" by R.E.M., more or less. So
+named because of the slow sprites.
+
+The Four-Way Crossing
+---------------------
+
+Also the central room in the game.
+
+This used to be the bathroom
+----------------------------
+
+Indeed it did. Watch those sprites at the end of the game!
+
+Willy meets his strange friends
+-------------------------------
+
+AKA an excuse to show off some of the stranger sprites.
+
+Willy's defence mechanism
+-------------------------
+
+Maria still hasn't retired yet.
+
+a maze of twisty passages
+-------------------------
+
+"You are in a maze of twisty little passges, all alike". - Room
+description from ADVENT, the original text-based adventure.
+
+Just Say No
+-----------
+
+If I had my way, this is what would happen to all Micro$oft
+software. It sucks! It costs too much money!! It keeps crashing!!!
+It's produced by a company which is hell-bent on controlling every
+computer in the world!!!! Do yourself a favour - use Linux
+instead. It's much more fun.
+
+The Red Room
+------------
+
+Politically a bit out of date, but it allowed me to combine two
+different ideas. One of the more effective designs.
+
+Willy tries to avoid frostbite
+------------------------------
+
+Named for its colour-scheme, which actually looks quite snowy, I
+think, even if the snowflakes are pinched from the original JSW.
+
+The Room of Numbers
+-------------------
+
+Reductionism taken to its extremes!
+
+Roslyn's lampshade
+------------------
+
+The artefact in question, which looks very like the sprites in this
+room, sits on top of the chest of drawers in our bedroom.
+
+The Foo Room
+------------
+
+A room of foo. It's room 42, which should explain things.
+
+Willy decides to have a rest
+----------------------------
+
+But not a very long one, thanks to all the sprites which keep killing
+him.
+
+The Brickie's Day Off
+---------------------
+
+And just who laid all those bricks diagonally, then?
+
+Willy gets some 3D glasses
+--------------------------
+
+Of course, the two halves of this room should be red and green - which
+they are for one-eighth of pause mode - but budgetary limitations
+prevented this.
+
+It's a game of 2 halves, Archie!
+--------------------------------
+
+A stereotyped phrase from Scottish football broadcasting, in case
+you're wondering. "Archie" is Archie McPherson, a familiar name to
+many Scots of all ages.
+
+Alex Salmond's Room
+-------------------
+
+The leader of the Scottish National Party, in case you're wondering -
+not that I'm giving away any political preferences in this game :-)
+
+The Blue Room
+-------------
+
+Tasteful and unchallenging.
+
+An Fhaoileag Tuilichte
+----------------------
+
+Gaelic for "The Drowned Seagull", in case you're wondering. I wanted a
+room with a Gaelic title to confuse the Sassenachs among you.
+
+It's that damn CGA again
+------------------------
+
+CGA = Colour Graphics Adaptor, an early colour scheme for IBM
+PC-compatibles. Not a pleasant choice of colours!
+
+fairplay is turnabout
+---------------------
+
+This is, of course, a room with 180-degree rotational symmetry. Has
+anyone else ever done anything like it?
+
+The Sprite Selection Box
+------------------------
+
+This room is to sprites as a certain type of Christmas present is to
+bars of chocolate.
+
+Not Alasdair's room, actually
+-----------------------------
+
+Although it certainly looks like one...
+
+Willy's Recurring Fungal Dream
+------------------------------
+
+The apotheosis of Willy's mushroom fixation in this game.
+
+<-the place is too full to enter
+--------------------------------
+
+In the adventure of "The Hobbit", when you tried to do something
+equivalent to "ENTER EMPTY PLACE", you got this message instead. I've
+never found out why.
+
+You tread the Quad of Iniquity
+------------------------------
+
+Yet another adventure-related room title. In an issue of "Computer and
+Video Games" from back in 1983-ish. there was a description of how to
+build adventures, complete with a sample. This was the description of
+a square of four rooms which it was impossible to get out of.
+
+Twice as much happens
+---------------------
+
+A variant of "Nothing happens", a generic response to stupid commands
+in a certain popular type of text-based computer game.
+
+A More Appropriate Structure
+----------------------------
+
+"Dogmatic adherence to the supposed merits of a particular structure
+hinders the search for a more appropriate structure" - Robert Fripp.
+
+Throat-Wobbler Mangrove
+-----------------------
+
+From a Monty Python sketch featuring a man called Raymond Luxury
+Yacht. This, of course, is the correct pronunciation of his name.
+
+The Room of Strange Growths
+---------------------------
+
+More fungal fixations...
+
+The Room of Horizontal Fungi
+----------------------------
+
+Yet more fungal fixations!
+
+The Room with the Manic Pac-Man
+-------------------------------
+
+A sort-of reference to "Manic Miner" and a popular video game from my
+youth, at which I was very good (top score 184360)
+
+The End of All that is Known....
+--------------------------------
+
+The very bottom of the game..
+
+---------------------------------------------------------------------------

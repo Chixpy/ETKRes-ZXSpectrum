@@ -1,0 +1,452 @@
+This file describes "j4.z80", a redesign of the game "Jet Set Willy"
+for use with Sinclair Spectrum emulators such as xzx, z80 and
+vgaspect.
+
+
+About j4
+========
+
+j4 is an imaginatively titled version of "Jet Set Willy" by Geoff
+Eddy, Iain Eddy and Alasdair Swanson. The name signifies that this
+version is the 4th "remix" of the game, i.e the fourth (and most
+successful) time the designers attempted to redesign the game for
+their own satisfaction. For what it's worth, the previous remixes were
+the following.
+
+Remix 0: This was essentially a few designs on squared paper by Geoff
+         and Iain back in 1985 in the wake of _that_ article in _Your
+         Spectrum_. Without any knowledge of how the sprites or
+         objects worked, this never progressed beyond the design
+         stage. One room, "The Particle Accelerator", regrettably
+         failed to get beyond a title; this was mostly because neither
+         Geoff nor Iain knew what a particle accelerator looked like,
+         but also because mere mention of the title rendered them
+         helpless with laughter for several minutes afterwards. Any
+         takers out there?
+
+Remix 1: Designed during the summer of 1988 by Geoff and Alasdair,
+         incorporating some of the rooms designed by Iain for the 0th
+         remix. The top 24 rooms were ultimately lost forever due to a
+         tape glitch; not such a bad thing since most of them weren't
+         much good. It was with this remix that the practice began
+         (started ultimately by Alasdair) of naming rooms after
+         songs. In the absence of a room editor (first used for the
+         third remix), the rooms had to be entered in hex bytes in a
+         BASIC program. Eugh.
+
+Remix 2: Designed by Geoff and Alasdair, time unknown. Each had 4
+         blocks of 8 rooms each; within each block all rooms had the
+         same border colour and took their titles from the same album
+         (at least, that was the original plan). It was never
+         finished.
+
+Remix 3: Designed by Geoff, Iain and Alasdair in summer/autumn 
+         1990. The original plan was for each designer to have 20
+	 rooms, with the remaining four "special" rooms being designed
+	 jointly. All but one of Iain's rooms were finished, as were
+	 most of Geoff's, but only a few of Alasdair's were.
+
+
+Remix 4 is essentially remix 3 with several of Geoff's rooms
+redesigned, some of Alasdair's rooms from earlier remixes included,
+and considerable editing to tidy up the entrances and exits. And some
+surprises too...
+
+
+General observation
+===================
+
+Whether because of the personalities of the designers, or for some
+other reason, designing JSW rooms became to be regarded as an artform
+in itself, a kind of aesthetic challenge to produce interesting
+results within a limited environment, as well as producing a working,
+playable and enjoyable game. It is hoped that players of j4 will
+regard the game with this in mind: it isn't as difficult as some of
+the other JSW redesigns out there, nor is it as coherent in concept,
+but it's hopefully at least as interesting for other reasons.
+
+It should be apparent that each designer has his own tastes and
+preferences regarding the design of the rooms; it was once said that
+Geoff's rooms were meant to be passed through, Iain's to be looked at,
+and Alasdair's to die in. To enhance the interested reader's enjoyment
+of j4, some comments follow about the rooms. "Geoff mode" refers to
+the fact that j4 was substantially hacked to be more flexible; the
+reader is referred to Geoff's "jclop" JSW room editor (downloadable
+from http://www.cix.co.uk/~morven/jsw.html) for further details.
+
+
+The Rooms
+=========
+
+Out In The Fields
+-----------------
+
+The starting room, which inadvertently also shows off some of the
+features of Geoff mode: watch those sprites move! This was the first
+"special" room and was designed by Geoff, Iain and Alasdair. Geoff's
+influence is obvious from the two-block platforms, Alasdair's from the
+design of the killer blocks, and Iain's from the other blocks.
+
+Look At Me
+----------
+
+The starting point for Geoff's section.
+
+Islands
+-------
+
+Geoff's "Soft Solid" room.
+
+One More Red Nightmare
+----------------------
+
+Formerly known as "Going Dotty" and "Blobby Blobby". Unusually
+difficult for one of Geoff's rooms.
+
+Outside the Wall
+----------------
+
+Together with the room above it, the only remnants of a strikingly
+original concept for the game. Now a home for retired sprites.
+
+The Quirky Room
+---------------
+
+No sprites, but fun to play around in all the same.
+
+Finest Hour?
+------------
+
+A link room, which marked the first appearance of a sprite known as
+the "Van Der Graaf Generator", despite not looking in the least like
+one.
+
+The Honey Tangle
+----------------
+
+One of Geoff's more effective and difficult rooms; it can be done, but
+not quickly.
+
+The White Room
+--------------
+
+No comment is felt to be necessary.
+
+Willy's Powder Room
+-------------------
+
+The title, suggested by Roslyn, inspired the design of the blocks. The
+room is a portal to the other two designers' zones.
+
+Willy's Blast Furnace
+---------------------
+
+The reader does not expect to receive an explanation about what a
+blast furnace is doing in the game, does he or she?
+
+A psychedelic nightmare
+-----------------------
+
+Exactly as it says... notice Willy walking backwards, another of the
+benefits of Geoff mode.
+
+Paths and Angles
+----------------
+
+Dating from as far back as the first remix; a collabaration between
+Geoff and Alasdair deemed good enough to replace one of the several
+unfinished rooms in the third. Betcha don't know where the title comes
+from!
+
+Secret Journey
+--------------
+
+Another nice atmospheric room by Geoff.
+
+Going Underground
+-----------------
+
+Watch out for the arrows! Nobody has yet explained what the 'E' stands
+for.
+
+Carpet Factory
+--------------
+
+Another of Geoff's interestingly textured rooms, and a bit of a
+challenge too.
+
+Willy's Inner Sanctum
+---------------------
+
+The flashing sprite is controlled by the Patch Vector; another benefit
+of Geoff mode. Another link room.
+
+Alasdair's Room
+---------------
+
+Designed by Geoff as a pastiche after Alasdair refused to let him have
+any rooms with black borders.
+
+The Extension
+-------------
+
+Another remnant of that rather promising original concept.
+
+Garden of Worm
+--------------
+
+A pretty, and thoroughly vicious, room by Geoff, designed to show off
+his new sprites. It *is* possible to get along the bottom, in both
+directions; you need to know the secret.
+
+The Swordbane of Runetroll
+--------------------------
+
+Inspired by Dave Barry and designed to hold as many of the "weapon"
+sprites as would fit.
+
+Non, Je Ne Regrette Rien
+------------------------
+
+Iain's starting room; the plasma blocks were intended to suggest tins
+of baked beans. Rather a difficult one to solve.
+
+Here Comes the Rain Again
+-------------------------
+
+Visually effective, and also very tricky to get right.
+
+Lovers' Leap
+------------
+
+Iain had a thing about taking his titles literally. SPOILER: you have
+to jump off at the correct place if you don't want to get repeatedly
+killed.
+
+Wuthering Heights
+-----------------
+
+While this room certainly has a point, it has been lost somewhere in
+the mists of time.
+
+I'm Mandy Fly Me
+----------------
+
+Amazingly, the first room to feature a rope.
+
+I'm Not In Love
+---------------
+
+Extremely nasty if you don't know how the invisible platforms work.
+
+Nights in White Satin
+---------------------
+
+Watch the arrows! The only way out of this Iain zone.
+
+Ice House
+---------
+
+A room in which all is definitely not as it seems, and unusually with
+black sprites.
+
+Stairway to Heaven
+------------------
+
+The second "special" room, and another three-way collabaration. Those
+are supposed to be angels, and that's Ursa Major up there (Iain's
+influence again).
+
+Tired of Sleeping & The Kick Inside
+-----------------------------------
+
+A pair of rooms by Iain, riddled with arrows.
+
+Pilgrimage
+----------
+
+Marking the first appearance of the rather nice double-headed eagle
+designed by Iain.
+
+Leaving Home Ain't Easy
+-----------------------
+
+The third "special" room, designed by Geoff and Iain as a gateway to
+their respective zones.
+
+Jacob's Ladder
+--------------
+
+Probably one of the nicest rooms ever designed for the game, conceived
+by Iain in a moment of divine lucidity.
+
+Heartbreaker
+------------
+
+The fourth "special" room. This is, of course, the Master Bedroom,
+later redesigned by Alasdair as a gateway to his zone.
+
+Night Scented Stock
+-------------------
+
+A pleasing, but difficult, room of Iain's, featuring some vertical
+sprites which are more usually used horizontally.
+
+Symphony in Blue
+----------------
+
+Eye, eye...
+
+The Infant Kiss
+---------------
+
+A companion room to "Night Scented Stock".
+
+Egypt
+-----
+
+Another literally-taken title from Iain, with a twist.
+
+Byzantine Cistern
+-----------------
+
+By Iain, inspired by a visit to Turkey; visually stunning and very
+difficult.
+
+Burning Bridge
+--------------
+
+Another eyecatching room from Iain, in which the rope was intended as
+a hinderance rather than a help. It definitely succeeded in this.
+
+This Must Be Thursday
+---------------------
+
+Ok, who _doesn't_ know what the title is about? The first of several
+Alasdair rooms originally from the first remix.
+
+Eternal Flame
+-------------
+
+By Iain, and in its original incarnation almost impossible. It's now a
+bit easier, now that the "water" or "liquid" blocks aren't also
+conveyors.
+
+Passing the Time
+----------------
+
+A classic Alasdair room - dark, seemingly innocuous (sp?), but
+actually deadly.
+
+Abbey of Thelema
+----------------
+
+Originally one of Alasdair's from the second remix, but far too good a
+room to leave behind. Note the jerky white monk; it's speed is an odd
+multiple of 16.
+
+Willy Ponders Perpetual Motion
+------------------------------
+
+Designed by Geoff at the last minute to fill an unused room.
+
+Found a Job
+-----------
+
+One of Alasdair's early rooms, left pretty much as it was in the first
+remix.
+
+The Waiting Room
+----------------
+
+Just that, and no more. By Alasdair, originally from the first remix.
+
+No Compassion
+-------------
+
+See "Found a Job"; the sprites are slightly different.
+
+The Supernatural Anaesthetist
+-----------------------------
+
+And why not! Also by Alasdair from the first remix.
+
+Take Me to the River
+--------------------
+
+Another Alasdair room from the first remix. The sprite-that-changes as
+it changes direction was a mistake on Geoff's part.
+
+Boris the Spider
+----------------
+
+Another classic Alasdair room from the first remix, marking the debut
+appearence of Boris (who is, of course, an amoebatron from Manic
+Miner). Nice and deadly.
+
+Swamp
+-----
+
+A lot of sprites for an Alasdair room, but typically tricky despite
+that. From the first remix.
+
+Book of Saturday
+----------------
+
+Probably Alasdair's most-respected room, originally from the first
+remix. Now rather easier than it was originally, but just as
+nice-looking.
+
+Three of a Perfect Pair
+-----------------------
+
+Alasdair's "metallic" room from the first remix.
+
+Planet Caravan
+--------------
+
+One of the rooms Alasdair designed for the third remix with the same
+block designs, four others of which survive.
+
+Fade Away and Radiate
+---------------------
+
+Heptaparaparsinokh
+------------------
+
+The Ups And Downs
+-----------------
+
+No Thugs in Our House
+---------------------
+
+The other four, which have had sprites and objects added and had their
+exits rationalised.
+
+My Ethereal SubGarage of a Skull
+--------------------------------
+
+Alasdair's first-ever room. Geoff's first room was called "Something
+Out of my Brain" and inspired, for the first remix, various other
+rooms with head-related names (e.g. "Right Eye", "Bald Dome"). This
+room replaced "The Forehead". [There's a game in there
+somewhere. Hmmm... Ed.]
+
+Brain Damage
+------------
+
+By Alasdair, from the first remix. Title says it all.
+
+Terminus
+--------
+
+Originally by Iain for the 0th remix; the last in a series of rooms
+which also included "Tube Stop", "Leatherhead" and "Blackout", some of
+which ended up in the first. This room was redesigned by Alasdair for
+the first remix, and imported into the fourth with new sprites by
+Geoff. It is thus a three-way "collabaration at a distance".
+
+
+And that's it! Email to geoff@morven.compulink.co.uk... and enjoy.
+
+====================================================================

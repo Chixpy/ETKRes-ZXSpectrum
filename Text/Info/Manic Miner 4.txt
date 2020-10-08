@@ -1,0 +1,89 @@
+MANIC MINER 4 (C) 1997 BROADSOFT
+=============
+
+For the Sinclair ZX Spectrum
+
+Written by Andrew Broad
+Email:     broada@cs.man.ac.uk
+Website:   http://www.cs.man.ac.uk/~broada/
+
+The Game
+--------
+
+Manic Miner 4 is a redefinition of the screens in Matthew Smith's classic Manic Miner, which I acknowledge as being the copyright of Bug-Byte (1983). It also uses a few bits and pieces from the second edition of Manic Miner (Copyright Software Projects 1983), Jet Set Willy (Copyright Software Projects 1984) and Jet Set Willy II (Copyright Software Projects 1985), as detailed in the notes below.
+
+Manic Miner 4 is written for advanced Manic Miner players, and the screens are intended to be outstandingly difficult, as a challenge to the experts. It presupposes that you can play Manic Miner - the controls are exactly the same, but the gameplay is much tougher, featuring some horrendous combinations of nasties which it takes good timing and pixel-perfect jumping to get past!
+
+Manic Miner 4 is also intended as an example of how far Manic Miner should be redefined for a sequel. Manic Miner 2 and Manic Miner 3 were a bit of a let-down in that the screens just looked like the original caverns gone wrong, with some of the platforms hacked up a bit but the graphics, positions of the nasties etc. unmodified. Manic Miner 4, on the other hand, has some genuinely new screens that are as novel as the Jet Set Willy rewrites currently doing the rounds on the Internet.
+
+The Caverns
+-----------
+
+Manic Miner 4 has some interesting caverns, based on various strange ideas and inspiration from eclectic sources. Here's a screen-by-screen commentary:
+
+ROOM 0: "The Divas Internet Shrine". A tribute to the tennis player Iva Majoli, of whom I am a big fan. That's Iva on the conveyor, hitting forehands and backhands - jump up and collect her tennis balls! A nice, gentle opening screen.
+
+ROOM 1: "Inside". Named for David Bowie's Outside album. When I wrote this in 1996, I thought there was going to be a sequel called Inside, but that will be called Contamination (see Room 7). This screen is actually a tribute to Bob's house from Ian Pratt's Artificial Intelligence book - you have to go from room to room collecting the atlases and then, in true Miner Willy style, jump in the toilet!
+
+ROOM 2: "The Challenge-Response System". I'm not altogether sure what a challenge-response system is, it's something that was mentioned in "Segue - Nathan Adler" on David Bowie's Outside album! This screen was inspired by the film Twin Peaks - Fire Walk With Me, the scene where David Bowie is seen on video walking down a corridor! The growing and shrinking circles are my own way of adding to the surreal atmosphere. Take the ring and exit through the lift doors (you must enter this portal from the side, not from above).
+
+ROOM 3: "Starting Fires". Another Twin Peaks - Fire Walk With Me tribute, set in a log cabin where mysterious forces hang out. Collect the rings to open the door in the wall. Watch out for the fires that appear out of nowhere and walk across the screen with you! The title "Starting Fires" comes from the chorus of David Bowie's "Telling Lies" (but not the version on Earthling).
+
+ROOM 4: "The Flapping Toilets". A tribute to the loos in "Eugene's Lair" from Manic Miner 1. My little sister always used to refer to this cavern as "the flapping toilets", so here's a special screen devoted to them. Climb up among the lavatory pipes, avoid the flapping toilets, pull the chain to make the cistern come down, walk past the hanging turds and into the bowl. This is the first screen in Manic Miner 4 that I regard as a masterpiece, if you like that sort of thing!
+
+ROOM 5: "Processing Plant (Version 2)". This is one of three screens from the original Manic Miner 1 that were changed when the second edition was issued by Software Projects. The idea of having it in Manic Miner 4 is that completists only need to get Manic Miner 4 and the first (Bug-Byte) edition of Manic Miner 1. This cavern demonstrates that much of Matthew Smith's inspiration for Manic Miner screens came from early 1980s arcade games, in this case Pacman. The difference from the first edition is that the graphics for the first static nasty and for the item have changed.
+
+ROOM 6: "The Brothers Grimm". One of my favourite screens, a tribute to the unfriendly staff at a certain railway station ("Your switch card's over the limit! We can't be bothered ringing the bank for verification at 8am in the morning, we're trying to run a railway station! You've done this to me before, you had 'em queuing out the door!"). Collect the guard's batons from up on the platform, avoid the camouflaged manholes at the bottom of the screen, and dodge the ticket-sellers to catch the train! This requires smart timing and good jumping.
+
+ROOM 7: "Contamination". Named for David Bowie's forthcoming (I hope!) album, which still hasn't been released yet, this screen was written about someone I hate so much that he ought to be hanged (hence the gallows), but renamed because I didn't want to risk the possibility of getting sued for defamation of character! An adaptation of "Miner Willy meets the Kong Beast", flick the left switch to open a way through the curtain, and then, if you want a lot of bonus points, flick the right switch to hang the bastard! To get to the items, you'll have to jump off the left of the screen (from the second step down), razz it across the conveyor with precision jumping, and take care not to touch the rope!
+	If you get white blobs appearing on this screen, it is because of a bug in Manic Miner that `contaminates' this section of memory when you jump off the top of a screen (as you have to do in Room 9) or fall off the bottom.
+
+ROOM 8: "Students Union". A simple but tricky screen, you have to keep jumping up and off the right of the screen until you get to the top. This requires precision jumping, often from right on the edge of the conveyors, and timing to avoid the papers (remember that when you jump /down/ onto a conveyor, you can hold yourself until it is the right time to go). The items in front of the doors of the union building are a red herring, as the portal is already flashing!
+
+ROOM 9: "At the Sound of Sawing Wood". Inspired by a quote from Twin Peaks, you have to collect the flashing apples around a cabin inhabited by monks from Jet Set Willy, much as Atlas had to do while Hercules held up the world, if I remember the Greek myth correctly. To get the apples buried in the earth, you'll have to jump off the top of the screen, avoiding the sun-god, before the wood drops away.
+
+ROOM 10: "Let's Rock". An obvious tennis tribute, in which you have to collect the balls that have been hit into the net. A peculiar exercise in spatial reasoning, to get across the net you have to straddle the top and bottom of the screen, blinded by chalk-dust. I had considerable difficulty naming this screen, as I didn't want to go for an obvious title. "Let's Rock" is a rather saucy attempt at a pun - I don't know who Let is, but that's his rock in the bottom-left corner!
+
+ROOM 11: "Purgundation". Another screen about the downfall of one of my enemies, again diplomatically renamed for the Internet release of Manic Miner 4. The battle-axes (no, they're not elephants' heads or whatever else you may have imagined!) are symbolic of her downfall, which you can bring about by flicking the switch on the right. An adaptation of "Return of the Alien Kong Beast" (c.f. Room 7), and a very difficult one at that - it takes some very clever jumping indeed to flick that left switch!
+	"Purgundation" is a word I made up myself, to describe a certain way that food or drink goes bad if you start to eat it and then leave it, or if someone else has had their mouth on it! I thought it went well with "Contamination" as a title!
+
+ROOM 12: "WARNING: Horrible". The hardest screen in this, or perhaps any, Manic Miner game, featuring a wicked combination of the ugly amoebatrons from Jet Set Willy and nasty, headachey ice lollies. Requires pixel-perfect jumping and frame-perfect timing. You don't have a lot of air, but that actually helps you to get the timing right! The jump over the yellow lolly is so hairy that it usually takes me at least three attempts at clearing it, hanging on the pause button!
+
+ROOM 13: "A Hole in the Ocean". Willy's poseidon adventure: collect the flashing items underwater, don't be mislead by the false portal, watch out for the seaweed (it crumbles faster than normal falling-away floor), and don't get stuck in the hole! If you manage all this, you then have a nerve-wracking trip across the sea ahead of you, avoiding the stabbing swords of Excalibur!
+
+ROOM 14: "Dotty". A bizarre screen in which you have to get to the portal at the left edge before the star crashes into the right end, which kills you! A surreal exploitation of the peculiarities of Manic Miner's collision detection algorithm, it requires pixel-perfect jumping across near-invisible blocks (depending on your monitor), and there's not a second to lose!
+
+ROOM 15: "Tales From A Parallel Universe". A gem for aficionados of the ongoing Manic Miner series, it is partly a tribute to Manic Miner 3 and partly a tribute to "Central Cavern" in Manic Miner 1 (observant viewers will notice that this screen is "Central Cavern" laterally inverted). "Central Cavern" appeared in an unplayable form at the end of Jet Set Willy II where, just before you think you're going to hit the toilet in "The Bathroom", you suddenly wind up in "Central Cavern" and start jumping forever. The graphics and colours for this room were pinched from there, and sure enough, this room starts with a jump!
+
+ROOM 16: "The Warehouse (Version 2)". The second of three screens from Manic Miner 1 that differed when Software Projects issued the second edition (the difference is that the graphics for the vertical nasty have been changed to Software Projects' logo, an impossible triangle), and, appropriately for Manic Miner 4, one of the toughest Manic Miner screens to crack until you've got the timing right.
+
+ROOM 17: "Amoebatrons' Revenge (Version 3)". The third of three screens from Manic Miner 1 that differed when Software Projects issued the second edition (the difference, again, is that the graphics for the vertical nasty have been changed). I further modified it myself (hence Version 3) by adding an escalator, as I could see that Matthew Smith had intended to have one - look ever so closely at the corresponding floor in Manic Miner 1 and you'll see the third row of pixels down moving!
+
+ROOM 18: "The Heimlich Manoeuvre". A tribute to the phenomenon in tennis known as `choking', where a player has a huge lead and looks like they're about to close out a match, but gets so nervous that they can't finish it off and end up losing (this screen was renamed to avoid reference to anyone in particular). It's all very well to be able to dodge the dreaded gremlins of doubt, collect the tears and get to the top, but can you make that last awful jump to the trophy or will you choke and fall right back down to the bottom? Chokers who play this on an emulator will probably cheat by making a snapshot when they get to the top ledge!
+
+ROOM 19: "Red Room". The grand finale, and a tribute to the red room in Twin Peaks. Although there are no moving nasties, it's full of invisible floors, walls and static nasties, so it's quite a challenge if you're going to finish Manic Miner 4! Collect the items and find a way to the golden chair - if you do, your reward will be an angel, unless you cheated by using level-skipping! Note that the air does not run out in this screen, even at the end (so the Spectrum locks up). This is intentional, as are the red blobs at the top that show through from Manic Miner's picture for "The Final Barrier", which is also the picture for the title screen.
+
+Version History
+---------------
+
+Manic Miner 4 was originally released on 30th September 1997, as a raw snapshot with an extra byte on the end (but no extra charge!). It was later refined to be a zipped snapshot of the correct length. However, in 1998 there is great popular demand for TAP files instead of snapshots!
+
+Lee Tonks (aka Blood), who wrote Manic Miner 3 (aka Tales from a Parallel Universe), kindly converted Manic Miner 4 into a TAP file for me (my emulator, Mac Spectacle 1.8, cannot create TAP files), with a BASIC loader and the machine code loading in a compressed format. I thus reissued Manic Miner 4 on 25th February 1998, along with these notes (Manic Miner 4 was originally released without notes). The game itself is completely unchanged.
+
+Internet
+--------
+
+I have a Spectrum page on the World Wide Web, at http://www.cs.man.ac.uk/~broada/spectrum/.
+
+There's a page dedicated to Manic Miner and Jet Set Willy games at http://www.cs.man.ac.uk/~broada/spectrum/willy/.
+
+Games I have written (such as this one) can be downloaded from http://www.cs.man.ac.uk/~broada/spectrum/download/. This page also has news and previews of any future games I'm planning to release, including projected release dates (which may change over time according to my progress).
+
+Whenever I release something, I announce it on the comp.sys.sinclair newsgroup, so Manic Miner and Jet Set Willy fans should regularly look through this newsgroup and/or periodically check my website.
+
+Copyright Notice
+----------------
+
+Manic Miner 4 is of course my copyright, but I don't mind you putting it on your own website, or reusing some of the screens, graphics etc. in your own games. However, such material must state that (the appropriate parts of) it are the copyright of Broadsoft - failure to do so may be construed as plagiarism!
+
+Please let me know if you do put Manic Miner 4 on your website or reuse bits of it - it's not that I'd have any objections, I'd just be very interested to know what follows from releasing my game!

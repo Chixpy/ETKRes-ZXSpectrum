@@ -1,0 +1,153 @@
+6/12/2000
+
+ARCANE DESIGN
+
+presents
+
+jet set willy in:
+WHERE'S WOODY?
+
+--------
+credits:
+--------
+
+original jsw engine		- matt from earth
+jsw128 engine and editor	- john elliott
+playing field/game		- sendy (alex cornhill)
+
+------
+story:
+------
+
+okay... we all know that maria was no good for willy, far too dominating and frigid and to be honest a bit frumpy. so finally seeing sense, willy leaves her, and his old (and quite frankly, rather impractical) mansion behind for a life of adventure with his best friend from school, woody. woody is not a square like maria and likes to go off and do different things, he has an interest in amateur archeology, and is often away, giving willy plenty of living space.
+
+all is going well, when during one particularly long period of abscence, willy gets a rather alarming call on his nokia cellphone. on the line is a rather distressed-sounding woody, who is all in a flap and claims that he has fallen into a spot of bother somewhere in an unexplored alien world underneath dartmoor, whilst searching for artifacts from the bronze age.
+
+so willy drops everything and catches the bus to dartmoor (as one does), only to realise that his mobile phone is extremely low on power and just about to cut out. his phone manages to survive long enough for willy to extrapolate the vital pieces of information. needless to say, woody has fallen under a curse for disturbing an ancient alien colony, and is now stuck near the fire escape (yes, even alien colonies have fire escapes), which seems to be jammed.
+
+apparently, the lair is littered with flashing 'useful magic matter' (or umm for short), which is capable of endorsing the collectee with limited special powers.
+
+woody claims that after collecting 255 flashing objects of umm, he was able to leap over a giant chasm; the problem being that the magic has worn off and now he appears to be stuck.
+
+although woody has taken some of the umm, he said he didn't take it all, and there might be enough left for willy to come and save him. he also mentioned something about a jump-pad, which enabled him to make a huge jump, and said something about bringing a tool to prize the exit open, because it's stuck fast.
+
+upon starting the game you will find willy alone in the moorlands, and the rest is up to you.
+
+-------------
+instructions:
+-------------
+
+guide willy to and through the multitudinous locations of the underworld, collecting 255 pieces of flashing useful magic matter, then jump the final uncrossable pit, hopefully rescuing woody.
+
+-----------
+background:
+-----------
+
+to play where's woody, you will need a spectrum emulator. it was developed on the zx32 spectrum emulator by vaggelis kapartzianis, and the jsw128 editor, jswed, by john elliott. if you hear a quiet ticking sound while playing the game, press 'enter' to stop it.
+
+----------
+locations:
+----------
+
+i have included, as a seperate file, a 'partial room list' for where's woody. listed there are most of the mainstream rooms, however there are hidden rooms tucked out of the way which are not listed. also it's worth mentioning that there are some helpful hints in the document, although no deep dark secrets are revealed: just some tidbits which i thought would help you get started (god knows this game is difficult enough!).
+
+-----------
+disclaimer:
+-----------
+
+IMPORTANT: by playing the game 'where's woody' you agree that if you are offended or troubled in *any* way by *anything*, including hairstyles, contained within the game and accompanying documentation, then that's fine but please don't contact me about it. i will however respond to positive comments and constructive criticism, bug reports, queries if you are stuck, or smut. beyond that, mind, i just don't care.
+
+---------
+thankage:
+---------
+
+big, lush thankage (or whatever you can stomach) is radiating from this software all over the following people:
+
+* matt from earth, for deciding on an uncompressed room format, and being one of the greatest game writers ever.
+
+* john elliott, for the editor, and technical assistance.
+
+* andrew and arsen, whose pages opened my mind to sticky and off conveyors, not to mention other mysteries of the room format.
+
+* andrew (again), firstly because i lifted alot of quirky features straight off of his list/games, and secondly because he's turned me into a jsw expert from playing his games.. my next game will be for pro's only and you have him to thank for this ;)
+
+* all the other mm/jsw authors worldwide for general inspiration, and in particular the members of the yahoo! mm/jsw club for providing a fertile breeding ground for this sort of caper.
+
+---------
+graphics:
+---------
+
+99.5% of the backdrops were drawn by me, many of the sprites were of my own devising, although i have ripped some from other games in my spectrum software collection.
+
+the sprites of my own devising are free for your use, provided you mention that i drew them, and let me know what you're doing with them (i'd be delighted to see them in other games).
+
+my sprites are:
+
+* bendy tube [what's that smell?]
+* magazine [exchange and mart land]
+* steering wheel [exchange and mart land]
+* jam jar [exchange and mart land]
+* circling rocket [guy forks night]
+* toasted pot bob [..but a tree nonetheless]
+* beaker [dungeon! (of course!)]
+* atomic socks [where the odd socks go]
+* moody cubes [attack of the moody cubes]
+* crates [way to go]
+* spikey pokey thing [chamber of horrors]
+* persontrap [chamber of horrors]
+* acid [clingon]
+* linked atoms [the asylum]
+* slaves [where the slaves are kept]
+* phallic robot [pleasure] n.b. my apologies for this. the more i look at it the more filthy it looks. truthfully, it was never intended to look like this, i just wanted a sort of pokey robot, but there you go. :)
+* froggy [quiet, isn't it?]
+* abstract thoughts [abstract thought vending machine]
+* ice lolly [have an ice day]
+* odd balls [a rather cramped tunnel]
+* band saw [saw loser]
+* boat [boat]
+* hearts [love is all around me]
+* various other gadgets and devices, including the crates, spikes, drills etc. if in doubt, ask me. i don't bite ;)
+
+all other sprites were lifted from commercial games, including jsw, jsw2, manic miner, and monty on the run. the only sprites lifted from other homebrew jsw authors are:
+
+* the floating ball with the robotic pincers - taken from adam britton's excellent 'jsw - the continuing adventures'
+
+* the spider in 'erix1's fucking room', which i lifted from the now abandoned 'maria vs. some bastards demo'
+
+if your sprite is used here without mention, then please email me and i'll make sure you get a shout, but i think i've got everything covered here.
+
+----
+web:
+----
+
+if you want to contact me, use this email:
+
+sendy@btinternet.com
+
+if you want to check out the jet set willy editing scene, there are two essential links:
+
+1) the yahoo! mm/jsw club (requires a yahoo! profile)
+
+http://clubs.yahoo.com/clubs/manicminerandjetsetwilly
+
+2) jet set willy remakes @ emulators unlimited
+
+http://jswremakes.emuunlim.com/
+
+more links will be available at these sites.
+ 
+--------
+finally:
+--------
+
+this is my first 'official' game and therefore this one is everything that 'willy to the rescue' should have been (wttr was just a warmup, you hear?). have fun exploring it!
+
+where's woody is PLUGWARE. if you enjoy it, you are encouraged to *consider* buying my music (loungecore and dance/listening experimental breakbeat electronica type stuff - nothing like the music in this game :) or listen to it at my website and/or sign the guestbook. just a suggestion though, not really a marketing ploy in any way. if i wanted to do that, i would do so by making sure my lyrics offended just about anybody who heard them so that i would be a hit with the kids. but then i don't have lyrics in my music (at the moment), so i guess that wouldn't work :>
+
+my apologies to those of you who played my warmup game - willy to the rescue - to completion, only to find quite possibly the most disappointing ending sequence known to personkind... (this time there is an ending, although it took me over 4 hours to reach it last time i tried :)
+
+also keep your eyes peeled for my next jsw game, entitled 'death tv'. this is around 1/3 finished and will feature more puzzles, harder arrangements, better graphics, more quirky features and engine freaking, and will all in all be one for the cult (and a real pain in the cult too! :)
+
+final final final note: "where's woody?" is to be freely distributed but *must* include this text file. the plot, characters, room design etc are my (alex cornhill) copyright 2000. i have a legal team of mutant ninja flying hamsters who you do *not* want to mess with.
+
+end of document.

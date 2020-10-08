@@ -1,0 +1,90 @@
+
+"Willy Comes Home", for the Sinclair Spectrum 128k.
+by Gary Pearce 
+Final release+ version 1.1 (8th April 2000)
+======================================================
+'Willy Comes Home' (c) Gawp! 1999
+======================================================
+Cheers:
+To Matthew Smith, 'nuff said.
+To John Elliot, for his excellent "JSWed128".
+To Andrew Broad, for his founding of the Yahoo Miner Willy / Jet Set Willy Club.
+To the people who wrote the ZX32 Emulator, as I don't have a REAL speccy.
+===============================================================================
+This is my first JSW game. It was designed using the 128k editor by John Elliot. 
+I'm not really a 'programmer' - I just use the editors to the best of my ability, 
+and try to get the best out of their confines.
+John's editor is the easiest to use of all the editors I've tried so far. 
+You can have teleporters and up to 256 rooms.('Willy Comes Home' has about 160).
+
+The idea with this version is "Willy returning (again) to his mansion - 
+but only to find that most of it has changed, or seems to be falling down! 
+On further investigation Willy realises that someone/thing 
+has/have been using his house for their own evil deeds. 
+Maria seems to be in hiding somewhere down below, 
+and strange lights have been spotted in the night sky... 
+maybe it's the builders, maybe it's something else..."
+
+ENJOY !
+
+let mw know what you think.... (see email/web address below)
+
+3-3-2000 :
+============
+Anyway, it should be done in the next month or so. 
+Work has slowed recently due to the birth of my first child .
+I've just got to finish the sprites (it still uses mostly the originals, 
+and some of Richard Hallas' from JTJS) and a few rooms, and then test it...
+
+Cheers for now...
+Gawp.
+---------
+
+21/3/2000
+=========
+adban_de_corcy wrote :
+"Nice work, Gawp!
+I have just downloaded and played around your new beta version of Willy comes Home!
+It's a nice piece of work, even if it's sheer size makes it still a bit difficult to finish.
+I love the new sprites, specially Willy's "rebel" hairstyle.
+
+
+28-3-2000 :
+============
+It's 99.99% done now. I'm just running through it to make sure I can't find any bugs...
+Just about on target for end of March release :-)
+
+30-3-2000 :
+============
+WCH released today.
+
+08-4-2000 :
+============
+Found and fixed a bug in 'wicked game' room.
+Re-issued file on website.
+
+CONTACT ME:
+==============
+http://www.geocities.com/gawp2000/JSW.html
+gpearce@gawp.freeserve.co.uk (no attachments without asking first please!!)
+
+Other JSW Web Sites and Descriptions:
+---------------------------------------
+http://clubs.yahoo.com/clubs/manicminerandjetsetwilly - Yahoo! ManicMiner & JetSetWilly club
+http://www.cs.man.ac.uk/~broada/spectrum/ - Andrew Broad's Spectrum pages.   
+http://www.cs.man.ac.uk/~broada/spectrum/willy/ - Andrew Broad's MM/JSW pages. 
+http://www.cs.man.ac.uk/~broada/spectrum/download/ - Andrew Broad's download page.
+http://www.the-good-stuff.freeserve.co.uk - Matthew Smith's site!
+http://www.pmella.freeserve.co.uk/specsite/ - Pete Mella's general Speccy stuff
+http://www.kendalls.demon.co.uk/cssfaq/ - The comp.sys.sinclair FAQ
+http://www.kendalls.demon.co.uk/cssfaq/emulator.ht... - To find a Spectrum emulator
+http://members.xoom.com/jetsetwilly/ - Arsen Torbarina's JSW Ultimate Fan Page   
+http://members.xoom.com/erix1/mm/mm.htm - Manic Miner Technologies (Erix1)
+http://www.cix.co.uk/~morven/jsw.html - Geoff Eddy's Jet Set Willy Page 
+http://www.seasip.demon.co.uk/Jsw/ - JSW128 (John Elliott)
+http://www.seasip.demon.co.uk/Jsw/jsw.html - John Elliott's MM/JSW/JSW2 tech.info.   
+http://www.void.demon.nl/spectrum.html - World Of Spectrum: huge download archive   
+http://www.retrospec.co.uk/index.html - RetroSpec - they do PC conversions 
+http://www.bigfoot.com/~AndyCadley - The place to go for info on JSW+
+--------------------------------------------------------------------------------
+ 

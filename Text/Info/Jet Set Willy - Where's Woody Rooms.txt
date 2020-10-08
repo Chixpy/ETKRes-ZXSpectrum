@@ -1,0 +1,375 @@
+WHERE'S WOODY?
+
+PARTIAL ROOM LIST
+
+greetings. here is a 'partial room list' for this release. it's partial because (a) it's from memory, and (b) i have not listed the hidden rooms and some other rooms which i either forgot or didn't think were worth mentioning or didn't want to mention for one reason or another. but most of the rooms are there. again, room names are from memory and so may deviate slightly from those in the tin.
+
+there is not much in the way of hints, although i have dropped a few clues. most of the information is merely incidental. if anyone would like to write a player's guide to the rooms, feel free.
+
+okay, here we go....
+
+AMID THE MISTY MOORLANDS - a nice atmospheric starting screen. but which way to go?
+
+CLIFF FACE - so early in the game and a promised land already! of course, the entrance is hidden, but you don't need to be einstien to work out how to find it :)
+
+AHA! 'TIS A SECRET PASSAGE - i love these split-level rooms. nothing much apart from walking to be done here, but it gives you a little time to wonder how to get to the top part.
+
+BRIDGE VERSUS JUMP - a continuation of the promised land above. as you can see, the bridge is easier than the jump, but there's not much in it.
+
+BABY STEPS - baby steps to the birdseed.... nice ostrich! the name is inspired by a stupid but funny film i liked called 'what about bob', although a while after authoring this screen, a track appeared on luke vibert's latest album with the same name. there is a little bit of problem-solving to do here on the bottom half, while on the top half, there is a shortcut to be found which enables you to bypass alot of trapsing around. you get a star for spotting it.
+
+A DAMP LANDING - a completely gratuitous hole in the wall full of water gives this room a damp feeling. and who's this old friend?
+
+QUIET, ISN'T IT? - when i named this screen, there were originally no sprites here, hence the name. however, later on i noticed that there are in fact some sprites that fit the screen quite well, so in they went. as the guardians don't make much noise, i decided to keep the name. then i had a drink. and scratched my head. the phone rang. it was a wrong number. i looked out the window. "what is the meaning of life?", i thought to myself. i saw a magpie outside. i'm not supersticious. i believe you make your own luck. if we all went around blaming magpies for things that went wrong, then fate would be an untamed monster. and what for the destiny of personkind then? *SPLASH*. ah, yes, thankyou. i needed that! now, where was i?
+
+ADVOCATE OF STUPIDITY - jump down the hole for a nice preview of some screens, and also to lose all your lives in the deal.
+
+FALL GUY - duh! take the spear on the platform without being, er, taken by the spears in the bottom of the pit :)
+
+A HOLLOW WOODEN STAIRCASE - does exactly what it says on the tin. note that if you come off the bottom of the stairs you can't get back on them. as for the lazer beams - you'll get used to them :)
+
+BELOW THE DIAGONAL HALL - a very pretty room methinks. also willy's introduction to the ice platforms, which send him skidding forwards. worth noting that if you enter this screen from the top and stay put atop the ramp, you can wait for the diagonal guardian without it touching you.
+
+A HALL ON THE DIAGONAL - originally a plain hall but i decided to put an obstacle and a funny tunnel to go through to make it more interesting. there's at least one deadly quirky feature here, but i'm not saying where, and a tricky jump at the bottom which puts you at risk of an infinite death. so what?
+
+AMOEBATRON CONFERENCE HALL - a fairly mediocre room, but it's colourful, so that's ok.
+
+CHUTE, DON'T SHOOT! - yes, that's a conveyor ramp to make the chute, a nice slit for the arrow to shoot through, and a double lazer and guardian combo. (which is actually very easy :)
+
+ELECTRIC TRICKERY - marks my discovery of one-directional guardians - achieved by having 4 blank sprites on one side of an 8 frame horizontal. at the time i thought i was the first to do this, until i noticed a room in gawp's 'willy comes home' which does the same thing with a bullet sprite. i asked about it in the club and apparently lots of other authors have used this effect beforehand, so really there shouldn't be a comment about it here, since it's run-of-the-mill. 
+
+TUNNEL VISION - a rather crap pun involving the eye guardians and the fact that the room is very tunnely. the graphics here were partly inspired by stuart hill's 'utility cubicles', i don't know how much it shows. take care when trying for the bottom object. it's easy to miss it and have to go round again!
+
+INTERFERANCE PATTERNS - to get here you have to jump across from 'tunnel vision', i hope everyone trusted me on that. i like these guardianless rooms occasionally, there is plenty to look at because of the funny patterns on the wall. just don't fall in the acid!
+
+TRY IT AND SEE - i dare you :) ..... maybe it's time to turn back.
+
+WHERE STRANGE DRAUGHTS MERGE - a simple split level, tunnel based room. nothing to write home about, or even write "home" about.
+
+ATTACK OF THE MOODY CUBES - one of my earlier self-drawn sprites, which is based on a doodle i used to do at school which is a cube with different facial expressions on each side. here, though, i made them smile and frown alternately to take advantage of the animation. i put a still one there too so you could have a proper look. personally i feel alot has been lost in the translation from notepad doodle to 16x16 sprite, but that's digitization for you.
+
+ENTRANCE TO THE SEWERS - a simple link to and from the sewers section. another jump/screen flick combo at the bottom right. great fun unless you get it wrong, in which case you would loose all your lives. but then it's easy, so that's not going to happen.
+
+WHAT'S THAT SMELL? - here we are in the sewers. that's a clean and perfectly usable toilet roll at the top. well, waste not want not!
+
+PIGS MIGHT... ERM...  FLASH - a pig flying is a fairly common sight. but a flashing one is quite extraordinary! just get out of the way, quick!
+
+MYSTIC DRAINAGE II - a rather cute effect, and it deserved to be repeated from wttr. this time sprites help out. that's the beauty of jsw128.
+
+WHEEEEEEE.. OR NOT - depending on where you enter the screen from ;)
+
+DINGEFEST - a nice dingey pipe. the rolling egg from jsw is a firm favourite. the jumps are quite tricky in this room, too.
+
+VIAGRA FALLS - quite what made me think of viagra, i do not know, other than it rhymes with niagra, and has sexual connotations, which makes it kind of funny. heheh.. yes. well anyway enough of that. the waterfall is of course spilling over from mystic drainage II above, creating a deadly divide between you and the other bottle.
+
+THE NOT SO GAPING PIT - i also happen to like the linked-balls-sprite which appears in the bathroom in jsw, so i put that in here (and countless other places). actually, it forms quite a challenge to take the object and drop down the hole without getting clobbered. yes it is possible. the spiky guardians are of my own devising.
+
+YELLOW PERIL - so called because of the yellow conveyor which can be perilous if you time it wrong. yes, the tiny promised land in the bottom right contains a teleport, obviously :)
+
+INSERT APPROPRIATE NAME HERE - even deeper into the sewers. and lacking inspiration for a title, clearly.
+
+AHH, BEAUTIFUL (STINKY) CASCADES - more waterfalls, and of course, they are deadly. you have to wait on the far left for the guardians to let you through, otherwise, they team up on you and send you running back :)
+
+THE JUNCTION WITH A FUNCTION - that funny blocked off place is actually a teleport destination, but that's not the only secret of this room. i'd love to see someone mistake a purple ceiling spike for an object (as they are identical apart from they don't flash).
+
+AN AFFINITY WITH HOLES - yes, i know the difference between INfinity and AFfinity, ;) just a joke. the title comes from the way willy falls down from 'advocate of stupidity', straight through the only hole in the platform..... (and on to his death several screens below)
+
+MY FASCINATION WITH DANGER - falling off here could be deadly, so don't. also, don't forget the tiny object.
+
+THE T.V. ROOM - i had an idea of putting willy in a dress for this room, providing a double meaning to the tiltle. however, i decided against it because i needed the sprite memory for other stuff. okay, okay, i admit, i also had trouble drawing it, so gave in :) . still quite a nice room though, with lots of flashing tellys.
+
+PERHAPS THEY COLLAPSED - doesn't it look asif those blue sections have fallen away?
+
+ACTUALLY, HE WILL NEVER RETURN - a speccy game reference, quite obvious unless you never played the game in question. poor eddie *sniff*
+
+POSS TO CROSS - it takes a keen eye and good sense of timing to get across this screen, and a bit of caution to escape once you have. not really a promised land at the top as it's not far away enough. incidentally, this is what soa might call a 'dodgems' clone. i do it all the time :)
+
+CHAMBER OF HORRORS - quite a tough room, so you'd be advised to use the exits at the left and right just to re-register your start point in the room.
+
+THE MENAGERIE - some funky recycled animal sprites, with tricky jumping to boot. notice the telephone, which is handy for people who like to talk to the animals. what is it about animals? i watched a disaster movie with my mum the other day, we saw several people crushed, impaled, and melted in lava as a natural disaster wreaked havoc on an american city. no sign of emotion from my mother until suddenly a dog is comfronted by a spreading fire, at which point my mother becomes highly agitated and distressed. needles to say, the pooch escaped, but mother, what gives?!
+
+THE ROOM THAT GOES 'ZING' - the conveyor ramp is a trap, and a rather predictable one, so i don't feel guilty. a fairly uneventful room providing a rest after the room below.
+
+CLINGON! - originally, jumping onto the short rope here was nigh on impossible (i could do it maybe 1 in 30 attempts), so i finally decided to raise the level one brick higher. now, of course, it's pish easy. oh well :)
+
+THE ONE WAY EXIT - the passageway leading up to the top of the mountain.
+
+OUTSIDE THE TOWER OF BABEL - that's a flashing willy on the bridge, walking backwards. "don't go in!" he says. (subliminally of course). if you do go in, don't expect an easy time of it!
+
+THE N-TRANCE HALL - warning, it gets pretty tricky in here, although this first screen is probably the most trickyest. perceverance *will* be rewarded, though.
+
+PLATEAU - a flat screen with a very, very evil combo consisting of a vertical, (the cute moon face from jsw - another one of my faves), two persontraps, a bunny dancing across some deadly stones (a rare occurence of a block taken from jsw), and a bird flying across the whole lot. needless to say, it's tricky.
+
+THE VALLEY OF THE BLOWN MINDS - a reference to the deadly green liquid which is presumably acid, hence the blown minds. ahem. well, it's unusual to see a cluster of objects but they serve well in this screen, because it's hard to catch them all (whoops! pokemon!) with all those verticals flying about.
+
+A VERY WOODEN PERFORMANCE - this room was inspired by having the builders round.
+
+STUFF ON THE ROOF - another triumph in my conquest for pleasing colour-schemes (i have a reputation to live up to ;). it's just a bunch of stuff on the roof, and lots of objects to collect.
+
+NOPE ------------------ MAYBE - here i used the title line to indicate that entering the hole on the left is probably a bad idea, since it leads to certain death below. yes, even i have a conscience!
+
+CLIFFTOP. HINT: LONG DROP - collect the signpost and then continue, onto the clouds? (you can always turn back!)
+
+A DELAPIDATED PASSAGEWAY - no guardians, but some tricky jumping! that's a spider nestling in a crack in the wall.
+
+WILLY'S OLD HAT - there it is - might as well collect it!
+
+OUR INSATIABLE SWITCH FETISH - my first switch room. note that the switch is a little rusty and doesn't always respond, but usually it does. the manner in which you throw the switch determines your path forwards into the game (down, or across, respectively). be weary of falling to the far left of the shaft, you'll miss a much needed rope.
+
+I GOT A ROCK - "what did you get, charlie brown?....... i got a rock!". should you turn back, you turn into the pump. not what i had intended but surreal enough to be amusing.
+
+DETATCHED - a rather strange room. i always think the coloured backdrops give a strange edge to a room. the diagonal bird flying so close to the ramp is a particularly tricky bit. how are you going to get past?
+
+TOIL IN THE SOIL - a fairly simple but effective room. easy.
+
+RETURN TO WHATEVER - a tribute of soa's 'time hole' room called 'whatever', it's sheer lack of inspiration alone is a source of humour. just follow the 'maze' around. in my version there are some invisible platforms to help you up the vertical passageways.
+
+AN AMOURPHOUS JELLY-TYPE MAZE - as many a willy-watcher will know, a solid block may be passed through by a guardian if there are no pixels on it. it does create some strange side effects though, as you can see.
+
+EXCHANGE AND MART LAND - the first of my 'jsw author tributes' rooms. this is soa's (aka chkkn's) room, first to be completed because of the obvious puns. the socks floating on the acid are a corruption of 'sex on acid', a band he was in (and which gave him the anacronym soa), and exchange and mart land, the room name, is a humerous corruption of his 'real' name. to reinfoce this, we have: jam jars (cars.. heh), a steering wheel, some money, and of course a magazine. all sprites were designed solely for this room but they turned out so good (for me anyway) that i decided to use them later on in other stages of the game :)
+
+TELEPORTATION MANIFESTATION - again a kind of 'cosmic nod' in soa's general direction, because it's a similar name to 'teleportation station', a room in 'time hole'. however, this room is slightly harder than the minimal time hole room. notice how this room forms a horizontal loop with 'exchange and mart land', so the only way out is through the teleport.
+
+YOU CAN TELL I'M BORED, CAN'T YOU? - a themeless room, but not bad at all.
+
+THREE HARDLY-GAPING-AT-ALL PITS - another mindless reference to 'the gaping pit'. the 'Q' at the top should make you think 'quirkafleeg', which was 'the gaping pit's final namesake upon release to the public. something to think about as you use your jsw skills to dodge the skulls.  now you can go down the middle hole with the flashing arrow but be warned - it is quite a drop and you need to minimize the impact otherwise you'll enter the next room with a multiple death as a welcome.
+
+ABSTRACT THOUGHT VENDING MACHINE - i had the idea of transferring some random thoughtforms into guardian sprites and this is the result. a small snippet of sendy's thought processes coded into a jsw guardian! this has to be a first!. be warned - when climbing the vertical shaft on the left, one slip and it's infinite death. by now you should be a hardened jsw player and used to this kind of pressure, so get on with it and quit complaining!!
+
+YOU THINK TOO MUCH - definately a little reminder to myself in the room title. here i loosened up and actually put the rolling stone guardian in mid air - something i would never normally consider doing for aesthetic reasons. the minus signs are all right conveyors, and the equalses are deadly blocks: willy meets his match you could say.
+
+WHERE THE ODD SOCKS GO - everyone has heard the story about the place where all the odd socks go. well, this is it! it's a shame none of them fit willy - far too big!
+
+THE KILLER ROPE - a tip passed on to me from soa about a certain technique to make the rope deadly was employed here to good effect. one touch of the rope and it's curtains, so don't say the title doesn't warn you! thanks again soa!
+
+STAIRCASE OF DOOM (CAREFUL!!!) - i love this screen. conveyer-ramps-a-gogo! study this room carefully and then choose a staircase wisely. the wrong choice will result in multiple death, i'm afraid.
+
+EUGENE'S LAIRY! - if you chose the right staircase you land slap bang in eugene's lair. eugene was the guy who thought miner willy would never meet realisation. so as you can guess he's pretty pyssed that not only has he met realisation, but he's appeared in more games than you could possibly count with all available digits and other pointy things your body may have on it put together! here he tries to foil willy's plans by duplicating himself in the sprite copier, and waiting to pounce!
+
+SEND YOUR MIND ON A RIVMIC TRIP - the name of a dillinja track i was listening to at the time. so called because of the hypnotic way this screen flashes.
+
+ONE FOR THE BROAD MINDED - guess which jsw author this is a tribute to? the 8x8 blocks were copied straight out of the first room of 'we pretty', and that's kari's head as the object. in addition, this room is an assault course of quirky features. have fun, andrew! (i'm sure you'll sail through ;o)
+
+DON'T GET KARI'D AWAY - another room inspired by 'we pretty', the upside down crosses taken from kari's lair from said game. more quirky features, taken directly from andrew's catalog on his homepage (the dollar sign being a tip of the hat here, since he used $ to signify items in his diagrams) but organised in a unique and interesting way. in fact, i think i covered nearly all of them in these two rooms! naturally, that makes these probably some of the hardest rooms in the game!
+
+A BI-DIRECTIONAL MASQUERADE - occasionally i like to pretend i'm stupid, and come up with dumb room names like this. it was supposed to be mindless until i realised that it did in fact have a hidden meaning.
+
+SIDE CAVE - an interesting little room which also forms part of the long deadly drop from 'advocate of stupidity'. so don't go down the hole! the name comes from a track by an idm group called 'e voice p' whom i had the pleasure of remixing!
+
+ENTRANCE TO THE MINESHAFT - this room, is, the entrance to, the, mineshaft.
+
+SO.. THIS MUST BE LIMESTONE - here the mineshaft leads straight through some limestone. i don't know if limestone is really grey and green. but it looks nice like that. the object was supposed to be a lime. these 8x8 graphics have their limitations, you know!
+
+BUSY MINESHAFTS - the heart of the mine, and those busy carts stop for no-one. if you enter from the top, you get chased by one, and knocked down instantly if you don't react quick enough!
+
+P R O P S - for some reason, this room needs little props to stop the whole thing caving in, and yet the other parts of the mineshaft don't. well who gives a damn! get on with it, your time is running out!!
+
+THE COAL CRUSHER ----------- CAVE - i must say that the conveyor arrangement was lifted out of andrew's documentation again, but it's a clever effect and i like it. cut the jump too close and willy is carried to the certain doom of the coal crusher. too far away and you miss the platform, fall through to the screen below and have to find your way back up.
+
+THE PIPE ROOM - quite a cramped and tricky room, made harder by the deadly nature of the vertical pipes - presumably they are boiling hot or something. either that or i only had a -fire-type- block left and was forced to use that ;)
+
+SAFETY LAST - it's name is taken from the way victorian mines were run on a policy thereof. this is a particularly dangerous room where you are chased by a runaway minecart and must avoid stepping on the electrified parts of the track!
+
+MINER'S REST ROOM - the miner's rest room. it's a place for the alien miners to hang out, watch waveforms on the telly, and there's even a basic toilet consisting of a pool of acid. you can see the miners resting (well, pacing up and down). there used to be four but one of them got a bit relaxed as he took a dump and fell backwards into the acid. it wasn't a pretty sight!
+
+AT THE TOP OF THE LONG STAIRCASE - the entrance to the underground alien colony. there's a pretty good promised land effect here, and this also marks the top of the waste disposal chute, which is where willy ends up when he jumps down into 'advocate of stupidity' (which he does at least once in one of his many reincarnations, because, let's face it, it's tempting!)
+
+THE CLINIC - a place where the workers can come if they have any troubles. how a conveyor belt and a few monty on the run sprites are supposed to help them is anyone's guess, but it all looks quite good, so that's enough to please me. who says any of this has to make sense?!
+
+WILLY ON THE RUN - obviously a tribute to monty on the run, one of my favourite games ever. unfortunalely, the motr-style water is not possible within the jsw game engine, but my trademark water effect looks cool here, so it's all good.
+
+THE WASTE DISPOSAL CHUTE - the chute spells certain disposal, so don't go down it. however, you do need to cross it to get the objects and progress. but how to get that bottom object in safety?
+
+FURTHER DOWN THE CHUTE - what can i say? fairly predictable stuff, this...
+
+OUTLETS - an attempt at adding one more building block to this already wobbling tower of surreality. by falling down a hole in the ground you eventually come out in the sky!
+
+[ PART II - a remix of the room '[' from the original jsw. i thought it was fairly perfect as it is, so i just changed the colours.
+
+THE LAKE OF ETERNAL YOUTH - as you probably know, you can get here by falling down the chute, although ironically you will lose all your lives. however, i pose the question - is there another way?
+
+COMPRESSION METHOD NUMBER ONE - more alien territory. actually inspired by a similarly-named level in 'lemmings', where you have to get the lemmings past a series of crushers. in this room there is some heavily compressed matter being pounded by a weight which you must collect, without being walloped yourself .. also in this room there is a tricky arrangement of lasers which takes a bit of getting used to (but soon becomes banal).
+
+PROTECTION - a series of nasty traps provide adequate protection for the single item nestling in the corner of this room. still got a nice alien feel here.
+
+SECTOR 4-3 - "mind source frequency overload.... transfer from sector 4 dash 3, quadrant six, six, six, six, six, six"
+
+THE SHAPE OF THINGS TO COME? - similar in concept to 'willovsky's private chapel' in adban's recently released 'bulgarian requiem'; however, this was concieved before i saw the room, so what we have here is a nice coincidence :).
+
+THE GARDENS - some artificial gardens presumably for recreational purposes. part of the alien conoly.
+
+MIS-SHAPES - ooh! pulp! a similar arrangement of uni-directional lasers as seen in 'electric trickery', but this time with some deadly pits.
+
+IT HAS FIVE LAYERS - a ripoff of a room soa was contemplating, which was to be titled 'it has seven layers'. there are not enough room for seven horizontal layers in a jsw room so i decided on a parody with only five. careful with those flying pigs, they have a habit of teaming up on you when you least expect it.
+
+THE EXCERCISE ROOM - you have to admire the stamina of these aliens. they just keep on going and going and going! hint: the rolling balls thing at the bottom doesn't go all the way to the right.
+
+NOT-SO-ANCIENT MINCEMEAT FACTORI - so what differenciates a factory from a 'factori' eh? there's not much in it really. this room can easily make mincemeat out of you, as can it's twin, 'ancient mincemeat factori', which you get a star if you find!
+
+SPACE - a sort of 'top of the staircase' kinda room, and a roomy one at that, hence the name. okay, so it's fairly dull, and the conveyor/guardian combo is rather unforgiving.
+
+GENERIC - just a generic screen. totally generic, hence the name 'generic'. truth be known, the day i wrote this, i had the word 'generic' in my head and the only way to get it out of my head was to do a room called 'generic'.
+
+MODULAR - yay! legoland!!
+
+YOU SAW IT COMING - the rope, that is. especially if you entered from above, because you know i wouldn't put a multiple falling death scenario, didn't you. dig those slippery ice platforms, and feel the power of 'sticky' (or in this case, slippy) conveyors!
+
+SAW LOSER - this is not the deathtrap it at first seems... well, not quite :)
+
+CUTTER'S CORNER - notice a theme here?
+
+CUPID'S OBSERVATION TEST - a strange room, which reminds me of something i'm not going to bother explaining here because it would take too much space and bore you. notice that the 'air' blocks have been decorated and because of this i had to use 8 arrows to supply the danger in this room. the 'observation test' comes from the way the fire and water blocks are almsot identical - but not quite.
+
+THE CONVEYOR OF DEATH - again, does what it says on the tin, so get that object and get moving!
+
+PLEASURE - a dubious room, with a yucky green backdrop, an ice lolly stuck to the roof, and a disturbingly phallic robot guardian. what would a psycho-analyst make of all this then?
+
+IF ONLY I HAD THE NERVE - complete the sentence: "if only i had the nerve to ......................."
+
+BOAT - i had a few sessions with a hypnotherapist this year, because i was getting insomnia. this whole 'boat / lack of boat' switching scenario is based on how i was 'cured' by my therapist.
+
+ERIX1'S FUCKING ROOM - sadly, vidar has taken an open ended leave of abscence from the mm/jsw community, but this is his room anyway, and i hope he plays it at some point in the future so he can laugh at my crap imitation of his trademark checkerboard style and general aesthetic approach.
+
+FUCK OFF - another vidar-inspired room (he was always swearing), and quite a tricky one.
+
+CRUDE OIL - the link here being the 'crudeness' of the language in the previous two rooms. the black stuff in here is however genuinely crude oil, so don't touch it! don't be fooled by the moving platform either, it's a guardian, and like all guardians, it would love nothing more than to see one of your lives go down the pan.
+
+YELLOWISATION - simply a very 'yellow' room. i spared you the agony of a yellow backdrop, mind.
+
+THE RED WEED - anyone remember the radio version of 'the war of the worlds'?. when i was little, my parents left me in the car one time with this playing, and i got pretty scared by it. the narrator was talking about a 'red weed' which engulfed everything around it, and for some reason i have always made a connection between that and the weeds from manic miner. so here is a room full of them, to celebrate!
+
+I N E R T I A - you'll need a knowledge of quirky features to climb the left hand side here. other than that, this is a fairly inert screen. do you see how i name screens depending on what they are? clever, isn't it. *ahem*
+
+IT'S HARD TO ADMIT - getting into the asylum is made harder by conveyor belts leading away from it. entering this screen on the right side will cause an infinite death because of the conveyor. your intuition might have told you this, but i thought i would, just in case it didn't.
+
+THE ASYLUM - a truly insane screen. note the wrap around exits.
+
+ADMIN - we've all spent time looking for admin and waiting around in admin, so here is admin for your waiting and seeking pleasure. there is a strange puzzle encoded in the positions of the office furniture.
+
+TOP: COLD STORAGE, BOTTOM: LOBBY - does what it says on the tin. again, don't expect to be able to turn around on the ice. and be *very* careful with the flick screen jumping!
+
+DOOR - a door.
+
+OUTSIDE WITH HARMFUL HILL - childish? - yes.. enigmatic? - er, nope.
+
+OUTSIDE THE GOLDEN PALACE - yes, this is a more developed version of the golden palace from 'wttr'.
+
+THE GOLDEN PALACE - inside, your eyes are bombarded by untold shinyness!
+
+THE THRONE ROOM - i'm not actually home at the moment, but i have left a message.
+
+LACK OF POLISH - the slaves missed a bit. you just can't get the staff these days...
+
+DUNGEON, OF COURSE - a dark dungeon, with some boxes which are annoyingly in the way. split level rooms ahoy!
+
+WHERE THE SLAVES ARE KEPT - it's the best place for them, honestly! in other news - there are actually two completely seperate promised lands in this room (in the corner).
+
+SLAVE'S ENTRANCE / EXIT - the mortality rate was high amongst the slaves.. not because their work was particularly hard, but because of the deadly traps which have been put in their path here. just see for yourself!
+
+THE LITE SWITCH - who turned the lights out?!?! it was you, dummy!
+
+A RATHER CRAMPED TUNNEL - what it says on the tin. my apologies for a most gruesome conveyor belt and guardian combo in the bottom tunnel - your timing must be immaculate to get past. also, look out for the *very* quiet killer blocks.
+
+SO CLOSE AND YET SO FAR - awwwww, there's woody, helpless little lamb that he is. i think he's tried to open the door, but it must be a little stiff - either that or he's waiting for someone to open it for him :-)
+
+FIRE AT WILL(Y) - i have a punning plan! look out for the sneaky booby trap, which even i forget about sometimes.
+
+4OUR - a pysstake of that stupid 'band' with the name '5ive', which i always deliberately say as "fiveive", which is what it says really.
+
+MARBLE ARCHES - does what says on tin. i'm really at a loss for how to draw marble on a spectrum with only 8x8 pixels, and what i did manage to craft certainly lacks the 'archyness' that i would have liked, but then if you wanted arches you would be playing sonic, right?!
+
+KEEP YOU IN CHECK - a fairly attractive room, which is nice and easy going on top, and a little harder at the bottom route. this is one of the rare rooms where the conveyor has an ambiguous direction.
+
+THE N'TH ROOM - zool, that so called 'sonic beater', was a ninja ant (if i remember rightly) from the n'th dimension. this, similarly, marks a lack of inspiration all round on my part; but i had the n's from the n-trance hall and thought i could use one again here. i have no idea what the objects are supposed to represent, but they look like test tubes. [ n=99 ]
+
+CHOCK A BLOCK - another standard 'loads of platforms and some guardians'-type room, with a diagonal guardian patrolling the ramp. tricky.
+
+GUY FORKS NIGHT - another hysterical joke ;) , i'm very proud of the circling rocket guardians, and was delighted to find that they were compatible as verticals, horizontals, and diagonals with no changes neccecary. i'm also rather fond of this screen in general - i was feeling inspired at the time.
+
+THE DISASTER AREA - if you've ever played 'top hat willy' for the amiga you'll recognise the room name and room concept. in 'top hat willy', this room was simply a pile of randomly selected blocks, resembling corrupted room data. however, due to the fact that 'top hat' could have any number of blocks on the screen, and jsw can only have, at best, 3 (excluding air), a ramp and a conveyor; i feel a little was lost in the translation.
+
+THE DIFFERENCE THAT SIZE MAKES - as you can see here in this a/b test, the long one is just so much more user friendly!
+
+THE CARPET STORE - this solitary screen could be anywhere, since it isn't connected to any of the others conventionally. far from being a hidden room, though, this part is rather important as it is one of the only ways out of the lower parts of the underworld. to get here, you need to go down the bottom part of 'a bi-directional masquerade'.
+
+THE OTHER SIDE OF THE MOUNTAIN - what says on tin. beware of stray lazer beams - god knows where they come from.
+
+ATOP THE TOP OF THE TOP - the top of the mountain, and what a view! at least, it would be, if willy could see further than the edge of the screen!
+
+TAKEN AS RED - a rather surreal room, which doesn't really describe anything. it's just another piece in the puzzle.
+
+*NOT*... THE MEGATREE - i promise you, this *isn't* the megatree.
+
+BUT A TREE NONETHELESS - it's certainly a tree though.
+
+DOIN' THE LIMB THING - here's a limb.
+
+THE STRONGEST BRANCH IN THE WEST - thin limb, sarcastic title.
+
+HOLLOWOAKS - is it an oak tree? have i given the game away? no, it's a blocktree. you can tell by the way it's composed of squares. this room wraps around.
+
+TREE HOUSE - technically, a blocktreehouse. or supa-technically, a blocktreeblockhouse, since the house is made of blocks, too. but then everything is made from blocks in jsw-land. here in reality we split the atom (so i'm told), but in jsw-land you'd be lucky to split a block, let alone a pixel. in this house lived a scientist who built a particle accellerator with the sole purpose of trying to fuse three different coloured pixels into one 8x8 block. he succeeded, but never returned home that day, because he created a singularity and what happened to him next, sir clive sinclair only knows! as a side note, this room was written before i saw rob's room with the same name (and concept) in his 'jsw 1-1'. in fact, look out for some of his rooms in the 'utility cubicles 128' mass collaboration.
+
+ROUND THE BACK OF THE TOWER - self-explanitory, really.
+
+THE GREEN GLEAM ROOM, WITH ITEMS - <ab fab> *ghastly* colour scheme, sweetie! </ab fab> i do like the starkness of the black and white twotone platforms though. style? i'm positively saturated in the stuff :O) . this is a slight nod to a room in 'wttr'.
+
+THE DUAL POOLS - awkward this one, when entering on the left. just walk in confidently and press the space bar at a good time. is that *really* two conveyor animations in one room?! {of course not ;}
+
+> DEAD END > - some rather horrible invisible platforms here, but nothing unfair. as the title of the room suggests, you don't need to cross over to the right, which is just as well since the only way of finding the correct route is by trial and error. if you never visit the room to the right, though, you'll always be wondering what might be there... in fact, you may even carry it to your grave! (very bad joke)
+
+[unprintable] - originally called 'machine code', this is the room with the garbled room name, the garbled graphics, garbled room layout, and garbled objects. the effect was intended to be walking into a random memory location in a computer. i got the idea from a game on the amiga called 'drive iff'. in the game you could load an iff picture in and drive around it from a 1st car perspective, mariocart style (asif....), but with the added bonus of being able to drive off of the road, off of the picture and straight into the memory of the computer! incidentally, there were other games that would do this - let you stray off of the playfield and into the memory, but i can't remember them exactly. the alien here signifies how i feel sometimes when i'm dealing with computers. as a final note, the room name *is* printable, but i can't remember it.
+
+THE WHITE PLACE @ THE RIGHT TIME - another appalling room name, but that's okay, since i put a guardian in the wall, which makes everything cool again.
+
+TOTALLY UNINTELLIGENT - named after the track by jammin' unit which was remixed by luke vibert under his 'plug' project, and is one of my fave tracks ever. it just seemed to fit the room.
+
+REALLY RAMPANT RAMPY ROPE ROOM - those ramp platforms can be tough, so you are advised to be extremely careful. please note that this seems to be a one-way system, headed right, because you can't get down in the machine code room.
+
+DECOMPARTMENTALISATION - many men have a habit of 'compartmentalisation', which can be really annoying, so here is my protest room, composed of some tiny little compartments, and some crossed out 'c's for objects. exiting a certain way on the left of this screen *could* provide infinite death, if you're *very* careless, although it's hardly what i would call 'unseen danger' or unfair in any way. unless you're a goldfish that is.
+
+KAMIKAZE - this room was inspired by a conversation in the mm/jsw club, on the multi-faceted subject of room design. apparently a 'kamikaze'-style room is one where it's easy to get the object but hard to escape with it. so i thought i'd make myself a kamikaze room right here. i did, and called it 'kamikaze'. you'll notice it's really easy to get the object, but hard to escape with it. in fact, you could say it does exactly what it says on the tin! you get a star if you can do it without cheating or losing a life.
+
+THE MODES OF GEOFF (ODD) - a phonetic remix of 'the nodes of yesod', which is that funny game where you can make your own platforms. when someone first described this game to me, i keenly interpreted 'make your own platforms' as 'has a level editor'. i was sorely let down, and poor lil old me would have to wait all this time to be able to finally make my own platform game. as for this room, it certainly is a tribute to geoff and his odd mode, and i've made an almost perfect replica of his trademark wrap-around guardians here. look! no hacking!
+
+THE GRASS / METAL COMBO ROOM - a very run-of-the-mill room, but certainly not a bad one.
+
+OH NO!...... STEPS! - just because i'm gay, doesn't mean i have to like steps, as this room clearly states.
+
+THE GREAT "HMMMMMM" IN THE SKY - hmmmmmmm, indeed....
+
+HAVE AN ICE DAY - more slippery ice than you could shake the official slippery ice shaking stick at! crossing the bottom is easier than it looks, but still quite hard (it looks impossible). the trick, like so many things in life, is to be paitient and wait for the right moment. if you don't panic, and you chose the right moment, it will be reasonably easy. how reassuring is that?! as a final note of help, you should endeavor to stop on the solid ground and jump over the horizontal on the right, otherwise you are at risk from the leftmost (and very rapid) vertical guardian. if you find it too difficult, simply visit this room last, and you won't even need to cross left, you can go right to the end game room (if you have 255 objects, that is!)
+
+THE FINAL CHALLENGE - designed to be tricky but actually rather easy, this series of lazers is the last bit you'll ever play. that's the superjump pad at the far right, which you will need to jump off the end of with all the objects collected, in order to rescue woody. note that to do this successfully you really need to jump as near to the edge of the screen as possible. to get an idea of the size of the pit, visit 'the other side of the pit'!
+
+THE OTHER SIDE OF THE PIT - here we see literally the 'ultimate' promised land effect. ultimate in the sense that it is the final passage you take upon completion, and that makes it look so much more scrummy! :)
+
+MALE CHEVRONIST PIG - this room has a male (willy), a chevron style wall, and a pig, so while thinking of a room title, this corruption sprang to mind.
+
+UNTITLED ROOM #198 - a curious room which (spoiler ahead - do not read if you like surprises) makes intriguing use of my new block type - the fallthrough blocks. they don't have hundreds of uses, but they are deployed rather craftily here.
+
+HE WORE BLUE VELVET - so how glam is that? this is a rather special room for me because i worked out how i could turn willy blue. originally i was going to make this room with invisible blue 'tinted' water blocks, but i found a much more devious way of doing it, details of which are now buried deep within the depths of the mm/jsw club (and in light of the effectiveness of yahoo!'s message browsing system, i'd say the secret's pretty safe there :)
+
+A ROOMFUL OF COOOOORDINATES - you have to know your stuff to get on that top right bit. i'm saying nothing, but i'm sure the beans will be spilt at some point in the future!
+
+MONOLITH - that's a scale model of the big monolith out of '2001 - a space oddyssey' (one of my all time favs). really, it is! don't touch it!
+
+WAY TO GO - i use these 'follow the path' rooms to break up the action a little. note that here are some odd room connections.
+
+OUTSIDE CASTLE SHASTOR - castle shastor is a castle in the sky which contains some odd rooms, including a part which rips off a broadsoft room, but adds a novel twist.
+
+FLY LIKE A BRRRRRD - there's something poetic about the way you are a bird in this room and yet must still climb carefully up the platforms to save falling into the pool of, er, stuff at the bottom.
+
+THE ANTI-WILLY CHAMBER - again, does what says on tin, although not very effectively, because i bet you don't even get killed here. thanks to philip bee for taking the time to beta test this part and inform me of a small error i made, which is now corrected, and hence you don't need to worry about!
+
+BAD COMPANY - a donkey-kong style climb-the-platforms level. instead of putting holes in the floor, i put in my magic slippery fallthrough blocks, which should just be visible. they used to be invisible, but too often this lead to unfair loss of life; i started to lose sleep and couldn't bare it, so made them visible again.
+
+FURTHER COMMENTS
+
+stuart hill, adban de corcy, and all other jsw game authors i did not include a tribute to, this was simply because i ran out of memory before i got any ideas, rather than a reflection on my opinion of your work - although i hope that was obvious. hopefully something can be worked into a future game.
+ 
+to re-iterate, there are more rooms than listed here. when seeking hidden rooms, don't complain if you find one, only to loose all your lives becasue they are hard (actually, most are easy and amusing). they are tucked out of the way, and with no reward apart from from the joy (? :o) of discovering them, and the possibility of being teleported to another section of the game (which may or may not be useful, although to an experienced player who knows where everything is, it can be thought of as a sort of warp thingy).
+
+each screen has been lovingly crafted for your enjoyment. if you are dissatisfied with them for any reason, please send the game to my headquarters on the moon for a full refund!
+
+end of room documentation.

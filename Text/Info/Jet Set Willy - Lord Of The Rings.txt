@@ -1,0 +1,104 @@
+JET SET WILLY: THE LORD OF THE RINGS (C) 2000 BROADSOFT
+====================================
+
+For the Sinclair ZX Spectrum
+
+Written by Andrew Broad
+Email:     broada@cs.man.ac.uk
+Website:   http://www.cs.man.ac.uk/~broada/
+
+
+	Three Rings for the Elven-kings under the sky,
+	Seven for the Dwarf-lords in their halls of stone,
+	Nine for Mortal Men doomed to die,
+	One for the Dark Lord on his dark throne
+	In the Land of Mordor where the Shadows lie.
+	One Ring to rule them all, One Ring to find them,
+	One Ring to bring them all and in the darkness bind them
+	In the Land of Mordor where the Shadows lie.
+
+
+The Game
+--------
+
+To celebrate the first year of the third millennium (or the last year of the second millennium, for those who prefer to count from one rather than zero), I release my long-awaited games Manic Miner: The Hobbit and Jet Set Willy: Lord of the Rings!
+
+Jet Set Willy: Lord of the Rings is a redefinition of the screens in Matthew Smith's classic Jet Set Willy, which I acknowledge as being the copyright of Software Projects (1984).
+
+It is based on J.R.R. Tolkien's equally classic novel The Lord of the Rings; I acknowledge the plot as being the copyright of George Allen & Unwin (Publishers) Ltd, 1966, 1974, 1979 and 1981.
+
+My idea was that The Lord of the Rings would map quite nicely to Jet Set Willy as the former has 62 chapters and the latter has 64 rooms, so there is a room for each chapter in the book, plus a bonus room...
+
+In JSW:LOTR, Willy plays Frodo Baggins, a hobbit whose task is to unmake the One Ring that was made by the Dark Lord Sauron. This he must do by casting the Ring into the fires in which it was forged, in Mount Doom in the land of Mordor. If the Ring is unmade, Sauron will be vanquished forever; if Sauron regains possession of the Ring, he will rule Middle-earth forever and turn it all to evil and darkness. Frodo is the main character that you play, but you also get to play other characters in some of the later rooms!
+
+JSW:LOTR is intended to appeal both to Spectrum fans and Tolkien fans. I therefore set out to make it only moderately difficult, but once again my notorious talent for writing difficult Jet Set Willy rooms has surfaced, and this game contains some of the best I have ever written! :-> So I decided to release an easy version of the game (LOR-LITE.TAP) alongside the definitive 'hard' version (LORDRING.TAP). Good JSW players should play the hard version first, and LOTR fans should play the easy version first! ;-)
+
+To complete the game, you have to collect the 256 flashing items distributed across the rooms, which makes Sauron disappear. Then you can get through the Barad-dûr, and make for the Grey Havens. After you go over the sea, you can return to Mordor and unmake the Ring by running - not walking - into the fire of Mount Doom. I know this sequence of events is not faithful to The Lord of the Rings, but it's the best way I could reconcile it with Jet Set Willy. I have thoroughly play-tested both the hard version and the easy version, and I declare that it is possible to complete the games without having to sacrifice a life.
+
+I developed JSW:LOTR on a Spectrum +2, using my own Jet Set Willy Construction Kit (which has yet to be released). I wrote JSW:LOTR between May 1998 and October 1999, reading a chapter a week and writing the corresponding room. I finally declared it finished in November 1999. It was always my goal to release MM:Hobbit and JSW:LOTR together in January 2000.
+
+Many thanks to Richard Hallas for rescuing this game from tape and converting it to emulator format for me!
+
+ROOMS.TXT contains a blow-by-blow description of each room in JSW:LOTR.
+
+TECHNICA.TXT contains technical notes on how the JSW game engine was hacked to allow the player's graphic to be specified for each room, to add teleporters, and to allow accents in room titles.
+
+
+Loading Instructions
+--------------------
+
+To play JSW:LOTR, you need a Spectrum emulator that is capable of loading TAP files (I hope I'm right in thinking that the emulators you all use are capable of loading TAP files, as I don't want to complicate matters by also releasing snapshot files). To find an emulator for your particular computer, see the Emulators section of the comp.sys.sinclair FAQ [http://www.kendalls.demon.co.uk/cssfaq/emulator.html].
+
+A TAP file is an encoding of the files on a Spectrum tape (as opposed to a snapshot file, which is an encoding of the complete state of a Spectrum at the moment it was created). To load from a TAP file, you have to issue a loading command to the emulated Spectrum (i.e. select Tape Loader or type LOAD "" (in 48K mode, press J for LOAD and SYMBOL-SHIFT+P for ")). You also have to open the TAP file in the emulator (either before or after issuing the loading instruction). I speak only from experience with MacSpectacle, but I expect the procedure is similar for other emulators.
+
+LORDRING.TAP is the hard version of JSW:LOTR, and LOR-LITE.TAP is the easy version.
+
+
+The Music
+---------
+
+I would like to thank Richard Hallas for his music document, A Miner Triad (hosted on my website at http://www.cs.man.ac.uk/~broada/spectrum/willy/music.html), which was a useful aid to redefining the in-game music of Jet Set Willy, and an invaluable aid to redefining the title-screen music.
+
+The in-game tune is different, depending if it is the hard version (LORDRING.TAP) or the easy version (LOR-LITE.TAP). Both tunes come from a triptych of Norwegian folk songs which I played in an orchestra when I was a teenager, but unfortunately I can't for the life of me remember what it was or who composed it, despite a sincere search for it on the Internet. All I remember is that the piece I didn't use was called Saeterjentens Sonntag (Sheepgirl's Sunday), and the piece I use for the hard version is called Den Bakvende Visa (The Awkward Song). My Norwegian spelling is probably slightly erroneous there. I had to adapt Den Bakvende Visa from 3:4 to 4:4 time (the in-game tune has to be exactly 64 notes of equal duration) by converting the two quavers at the end of each bar to crotchets.
+
+The title-screen tune is the main tune from the superb BBC radio adaptation of The Lord of the Rings.
+
+
+Internet
+--------
+
+I currently have a website at http://www.cs.man.ac.uk/~broada/ (though it may disappear in the future if I lose access to the Internet). Some relevant pages within this website are:
+
+* http://www.cs.man.ac.uk/~broada/spectrum/
+Top-level index of my Spectrum pages.
+
+* http://www.cs.man.ac.uk/~broada/spectrum/willy/
+My Manic Miner/Jet Set Willy pages, including a list of Spectrum MM/JSW games (which I try to maintain as complete and up-to-date as possible - please inform me of any I have missed), my Manic Miner Room Format, Richard Hallas's music document, a list of some of the quirky features in MM/JSW which I use in my games, and links to other MM/JSW websites.
+
+* http://www.cs.man.ac.uk/~broada/spectrum/download/
+My download page. Currently contains my other games (Manic Miner 4, Manic Miner: The Buddha of Suburbia and Jet Set Willy: We Pretty), and my Manic Miner Screen Editor. Also has previews of forthcoming software (mostly MM/JSW games), including projected release dates (which may change over time according to my progress).
+
+* http://www.cs.man.ac.uk/~broada/spectrum/download/tolkien.zip
+The original source of MM:Hobbit and JSW:LOTR!
+
+I recommend the comp.sys.sinclair USENET newsgroup as a place for discussing MM/JSW and other Spectrum-related topics. It's worth at least browsing through the headers each day. I announce my releases on comp.sys.sinclair (though it's better to check my web pages periodically for MM/JSW news). The newsgroup is archived at http://www.deja.com/ for those who don't have access to a news server - in fact, it's worth surfing there even if you do, as not all news servers receive all newsgroup postings!
+
+I recently set up a Yahoo! club for Manic Miner and Jet Set Willy. Its URL is:-
+http://clubs.yahoo.com/clubs/manicminerandjetsetwilly
+It includes a message board for discussing MM/JSW, picture galleries which members can upload to, a Java chat room, a links page and a calendar. Anyone can visit the club and look around its public areas, but for full privileges you have to join the club as a member. This prerequires signing up for a Yahoo! account, which you can do, free of charge, over the web. The club will become what we, the MM/JSW community, collectively make it. The club needs members, so please join!
+
+
+Copyright Notice
+----------------
+
+Jet Set Willy: The Lord of the Rings is, of course, my copyright, but I don't mind you putting it on your own website or redistributing it otherwise, provided that no money is charged, and that you acknowledge that it is the copyright of Broadsoft (2000). This document should be included with all copies of the game. Modifications are discouraged but not forbidden, and you should state specifically what you have modified.
+
+I don't mind you reusing some of the rooms, graphics etc. in your own games, or converting the game to another computer (e.g. for JSW PC). However, the accompanying documentation must state that the reused material is the copyright of Broadsoft - failure to do so may be construed as plagiarism. I would like the documentation to be quite specific about this, e.g. "Graphic X in Room Y was taken from Jet Set Willy: The Lord of the Rings", or whatever.
+
+Please let me know if you do rerelease Jet Set Willy: The Lord of the Rings or reuse bits of it - it's not that I'd be likely to object, I'd just be very interested to know what follows from my releasing it!
+
+
+Version History
+---------------
+
+5th January 2000: Initial release of Jet Set Willy: The Lord of the Rings on the Internet, together with Manic Miner: The Hobbit.

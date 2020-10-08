@@ -1,0 +1,343 @@
+JSW:  The Time Hole: The Special Editon
+
+Plot
+
+  Willy was asleep. "Ah! NO! the FEET!!!" he cried out. In his dream he was in a dark place filled with feet (Willy, being a nervous child, was terrified of the foot on Monty Python, creating a permanent emotional complex). Though he tried to run away from them, he found himself pulled inexorably towards them. He kept falling lower and lower into the pit, approaching certain death at the toes of a particularly nasty white one. As he was about to be smashed, he woke up. "What the...?" he thought. "Why am I in the bathroom?" Looking around him, he remembered a comic book he had read once when he was seven "Oh Lord! I'm in a time rift!" Keeping calm, Willy thought what to do "I've got it! That machine I bought from that strange little market seller! That will fix this problem. But how to get it working? The last time I had a party its parts got scattered all over the house, and I'm really not in the mood for MORE running around picking up little bits of stuff. Especially while I've still got all those weird whatchamacallits running around in my house. Oh why did I let that scraggly looking pot head Matthew help plan my house? Well, I guess I've got no choice, I must get out of this time rift and get those bits before the rift consumes everything."
+  Well, you heard the man. Off you go.
+
+Behind the Scenes
+
+This ZIP file contains:
+This text (well DUH!)
+JSW game in .TAP form
+This game was made from mid '98 to Easter 2000, partly because I had seen other people's doings and wanted a go (I hate to be left out of anything, even if it's something I'd hate), partly because the idea of editing games appeals to me, and partly because there was nothing else to do. Many of the rooms (Munki, I DON'T KNOW, etc) are whimsy pretending to be part of a coherent idea. In my whacked out version of the world this seems like a great thing to do. I considered trying to change the music, but since I play with the sound turned off (I have two Spec Emulators - one has horrific sound and the other is fine but accompanies everything with a constant ticking beat that shouldn't be there) I decided not to bother. If you want to hack into the game and change the sound, you're welcome. Hell it's not like I'll ever get round to it. I really don't care if this thing is distributed as long as A) It isn't sold, for obvious reasons involving me, Matt Smith and armies of lawyers (maybe). And B) Nothing gets changed (Except that damned music) including this file. I worked long and hard on this. If you want to play game making do it from scratch. Believe me it's more satisfying. The graphics in this game which are my work i.e. which I didn't steal are free for use. I'm sure you can't get enough clocks and mushrooms-that-look-like-umbrellas in your game, so knock yerself out kid.
+The game was put together originally on Paul Rhodes' JSW Editor. Richard Hallas is right, it is the best for 48k editing. In 2000 I transferred it to John Elliot's non-Speccy JSW128 editor, so as to extend the game and be able to edit various other elements. As an unrelated note the biggest annoyance for me in this game is the number of rooms made purely to link one idea to another. Still, what am I gonna do eh?
+  If you want to use the rooms or those monsters created by me in a game of your own, ask me first - I'm bound to say yes. If possible send me a copy of your game. Frankly I only made about seven of the monsters anyway (Large Hammer, Mushroom, Clockface, Vacuum Cleaner, Cloud, Stomach Pump, one of the Static Bursts in "To the bedroom and Bathroom"). All other monsters are either from JSW or copied from other JSW games (Plus Manic Miner, the source of the Impossible Tribar, Dynamite Dan and Henry's Hoard). So you'd really have to contact their respective owners. I meanwhile must go and speak to Noel Gallagher, Richard Ashcroft and Justine Frischmann, who say I stole their "use other people's ideas in new combinations to give the semblance of originality" trick.
+  The theme of a time rift was not the original idea, (It came from hole in the space-time Continuum) but it is brilliant to explain the rather disjointed house layout, with all its teleporters and the like. It's almost possible to get every object in the game, but those in "To the Bedroom and Bathroom", "Decapitaire", "One Way Holy Rollers" and "The Bird's Nest" are very tricky. The one in "Martyrdom" requires the sacrifice of a life, hence the name. Also there are 255 objects in the game, so if you don't have 255 objects then you know that you've missed something. This knowledge will prove invaluable later...
+  Going through the game data you'd probably find most of the less interesting rooms in the latter half. This is because I used up a lot of my ideas when it was just a 48k game, and when I came to extend it I either couldn't think of a good idea or I couldn't be bothered. The teleporters are used heavily in a set of rooms below the Basement, which can be a little confusing plotwise.
+
+The Room Guide
+
+SPOILER: THIS COULD SERIOUSLY LIMIT YOUR ENJOYMENT OF THE GAME IF YOU LIKE TO FIND THESE THINGS OUT FOR YOURSELF
+
+6rege 5^%4554nv4v (something like that anyway) - This is easily the most complicated joke in the whole game, so here goes. When I first played Jet Set Willy, it was on the commodore 64 (being only fourteen at the time of starting production, I've never played an actual Spectrum) and it was only after playing Jet Set Willy II. JSW I didn't compare with JSW II, mainly because of the rather stupidly designed stairs. It had one redeeming feature though - A bug in my copy had screwed up the connections between rooms, and some of the doors now led onto rooms 61-63. This of course meant instant death, but it was worth it just for the floor show. The rooms were filled with feet, but they were stretched, enlarged, warped, and they moved in all directions. Sometimes the screen would be momentarily blanked out with fields of one colour. When you next restarted the game, all the guardians would be enlarged, stretched, some would change positions in the room. The game was of course total gibberish then, but to my twisted seven year old mind all this chaos was great. Of course I can't recreate all that here, but all this room is my tribute to that chaos.
+
+Abandoned Subway Entry - This is a dull room I admit, but it's abandoned, what were you expecting? Fairy lights? This leads straight to "The Subway".
+
+Above the East Bedroom - One of two rooms kept totally intact (or at least with negligible alterations). Maybe I should change the blue guardian. The static thing doesn't really look that good. There is one significant alteration though - The top ledge where you come up from "East Bedroom" has been lowered, since otherwise there is no way of jumping back onto it.
+
+A crack in the wall - This is where you go from the hole in the wall of "Basement with broken lighting." You drop down instantly to "In a cave," but if you go up the ledges in said room, you come up to the flashing object higher up in this room. Careful though, there's a teleporter there as well, and it'll probably take a few round trips to remember where it is and get to the object (I am such a bastard :)). This room is the start of a long line of teleporters that go all over the world. 
+
+Ahhhh! Bad Dream! - Purely for fun. Don't jump in this room or you'll just get yourself killed. This is Willy's dream before he wakes up, and the start of the game. I have Richard Hallas' personal assurance that this room is pretty disturbing.
+
+Alcohol and the Common Fungus - This sounds like an anti-alcohol statement doesn't it? Originally this was the Hall, and I kept the glasses because I like them. Also the deadly object in this room looked like a mushroom, and I thought that looked cool too. That's really the only reason I changed that guardians from amoebatrons to Mushrooms (For verily, 'tis what they are). I wanted to put a crashing car at the top to fit the suggestion of this level, but I'm too lazy. The hollow platform at the entry is part of a complicated bit of linkage about three rooms on.
+
+The Alcove - This room is way too simple to figure out. I've got to come up with less linking rooms.
+
+A Little Hard on the Eyes Huh? - Thanks to Sendy and his manic use of flash in several rooms of his game Willy To The Rescue for inspiring this one. That game incidentally is better than Sendy gives it credit, if unimaginative on the guardian front. It's probably better than this one at any rate [Doctors enter and inject Edward with his valium]
+
+An EZ 1 4 U - This room was going to be harder, but I wasn't really in the mood, and it was late. So I just made it real easy. The room got its title because it used to be called "An Easy 1 for You", and I figured I should go all the way and make it a Prince title
+
+An Office in Manhattan - This is one of the last stops on Willy's teleportation journey. God knows what's with the eye.
+
+Aqueduct - I love this room. Like half the rooms in the game, this is just a variation on one of St Matthew's originals. I spent half an hour trying to get those black dustbins just right. The first version of this game didn't have the water at the bottom, which was easier, but it's not exactly difficult to get across the room without dying. Just walk Willy as far right as he'll go without entering the previous room and turn him round so he's completely under the wall. Then when the first bin is high enough for Willy to get out, just let him walk. He'll make it just fine.
+
+Attack of the Mutant Dustbins - This was the title of JSW II's "Highway to Hell" on the Commodore. I probably should have made this room into a challenge rather than eye candy, but what the hell. There's only so many difficult rooms I can come up with.
+  This was going to be called Space Invasion, to match the New York Skyscraper theme, but I liked Attack... better.
+
+Back in the West Tower - The final climb before Willy reaches the time vortex. For the purposes of continuity, falling off the bottom of this room leads, eventually, to "Priests' Hole.
+ When I think about it, have you noticed how Matthew Smith twice equates priests with giant flying skulls? It all gets stranger and stranger doesn't it?
+
+The Back Stairway - There isn't really anything going on here, but I have to mention it.
+
+Back to Reality (Main Hall) - This is where Willy leaves the time hole. Note the green "nasty" blocks that make up part of the ceiling, 'cos they're fake!!
+
+Back to Willy's - This room is a weird grey floor, an invisible rope, a teleporter on a block and that's about it. If you get on the block you go back to "Entry to the Basement". I admit it's weird that this room is below "Attack of the Mutant Dustbins", considering the layout and nature of that room, but remember this game isn't all that rational at the best of times. If this sort of thing bugs you just imagine Willy fell all the way down to the basement.
+[Note: Since the first release of this game I have gone back and tarted up this room a lot. It needed it, you'll agree]
+
+Basement with Broken Lighting - This, if anything is an experiment in special effects. It's a shame that I can't decorate the blocks, but there you go. Notice there's a hole in the wall...
+
+Below the East Tower - You guessed it, it's a link room. Of all the linking rooms this is the closest to being any good. The guardian is the same as the penknife in the Chapel, in fact the one in the Chapel wouldn't be there if I hadn't seen the penknife equivalent of this in the guardian list. 
+
+The Bird's Nest - This was one of the last rooms I did. I didn't originally plan to use birds in my game, but whilst running through the guardian list I found a whole bundle of unused bird guardians, and suddenly felt rather sorry for them (sad, I know). So I cleared "the West Tower" and added all the birds that I could without them overlapping. This meant I had a rather chance effect with a lot of birds put in with no idea of what they would do, and the items from "West Tower" in their original places. I then put in some more items, ledges that let you reach them all, and made it so that if you missed any you'd have to kill Willy and restart the room (Look at the layout, there's no way back through the room). Nasty huh?
+
+*Bomb* - This was born as a sort of a conglomeration of the whole unreachable room thing, as found in JSW (Though I'd be amazed if [ really counts, considering it's empty) and Join the Jet Set. Everywhere in the game that I had considered having an unreachable room (Left of the graves, Right of the Window Box, Under Curse of the Cowboy Builders, etc) leads here. However, you can get here. The spikes at the top of "the Hallway" are actually the floor (The roof of the lower section is the nasty) so you can jump through it. You could easily wind up in trouble with this room, since the "spike" ceiling is the only viable way to get up there, and it's not very obvious. In case you're wondering, I have no idea why the nasties in here are ?s, I saw them in "The Continuing Adventures" by Adam Britton and copied them.
+
+The Catacombs - Whether or not the catacombs are actually under Willy's house is open to debate. Anyway, this room is the follow on from Henry's Home. It's a little uninspired, but what the hell, I like it. I went through merry Hell getting the guardian in this room to work properly, I can tell you.
+
+The Chapel - As I have already said, a lot of rooms in my games are remade from original JSW rooms. Here we see the chapel from JSW with a slightly different flock than last time. Why has no one asked why Willy has a devil and a gigantic skull in his private chapel? You have to drop down the hole at the back in order to grab the items at the top of "Alcohol and the common fungus". Note that this does not fall into the same category as "East Bedroom" and "above the..." because the alterations are so obvious
+
+The Chimney - The plan here was to form a complex trap with "The Green Room" (formerly "out of the void") and mINOR rIFT (Now replaced with "In a cave?"). Roughly, if two ropes are put in a room and their paths cross, the second won't move (true in all 2 rope situations whether they cross over or not), plus Willy will appear to hit a wall when ever he reaches the highest point of his jumps in that room, and moving certain distances in either direction will teleport him to the room above, at the bottom, in line with the centrepoint of the moving rope in the previous room. Now you just walk through the chimney.
+
+The Cloakroom - This is just a link. I wanted to have two of Matthew's original rooms in the game, for the simple reason that I like them, and this was the only link I could think of doing.
+
+The Collapsed Landing - This is very strange, because it's right next to the Janitor's office, and poses the question "Why is the janitor's office on the second floor?" In other words, I couldn't think of anything to write here.
+
+Cramped Staircase - I had a plan for this room, but to cut a long story short it didn't work, so here instead is a staircase that is cramped. My English teacher is surely being carried into hospital after suffering a seizure that I could write such a ridiculous sentence. Oh well
+
+The Crawl Space - This is a favourite room of mine for some reason. The objects are meant to be toilet rolls, but they look like broken plant pots. I quite like the vacuum cleaners, but as you can see I hadn't quite figured out the concept of sprite animation in JSW. The same thing happens in the Chapel, where the priest has become a killer sausage, and moves by suddenly appearing one place along.
+
+The Crossing - This room is easier than it seems. Just jump across the platforms avoiding the guardians. There were going to be more guardians but I decided it was better with just the two of them.
+
+The Cupboard - This is also easy to miss, being hidden behind a wall in "The back Staircase" (A very clever trick) basically this the smallest space you'll ever see in a JSW game, hence the giant writing. There are two objects here, but they are picked up immediately. The wall, floor and piece of roof are there because I was going to fill in the entire screen with blocks, but when I thought of writing, I decided that I liked the unfinished look they had.
+
+The Curse of the Cowboy Builders - A personal favourite. I never liked the colours in Entrance to Hades, so I changed them all (Well they weren't all that Hellish were they?). The joke is that Willy's mansion was built by Cowboy Builders, and they've left a hole that goes all the way down to Hell (Like you needed to be told that, you clever things you). Actually, while we're on the subject, I'll recite a fascinating (pronounced "boring") tale about JSWII on the C64. For I know not what reason, the programmer decided to put a secret section, reached by going down the toilet. When you fell down, you went along a winding path to the bottom, and just when you think you're going to have to jump over a guardian you fall through another secret passage, into another room which connects with "Dinking Vater?". I say all this because, if you jumped over the hidden hole in the first of the rooms, you would find yourself at the bottom left corner of "Entrance to Hades" (Don't think that you can reach Hades though - the top, bottom and right side of the room all wrap around, and the left leads back into the hidden rooms).
+ On a more mundane note, I first changed the writing to say BILL £150,000, but I didn't like it much and changed it back.
+
+The Deadly Ascent - This room is indeed a deadly ascent, though not to the extent that I would have liked. Really you should be able to hear a strong wind blowing as you climb, and see leaves blowing past, but this is a spectrum after all. I think by this point I had all but run out of guardian spaces, so I reused some of the previous guardians. Nothing special there.
+
+Decapitaire - This is a variation of a room from JSWII. I was running short of ideas at this point (this was about ten rooms away from having done them all) so I rehashed one of my favourite rooms for kicks.
+
+Decapitilla (Master Bedroom) - The joke here is blatantly obvious, I just want to point out what I consider to be one of my better puns. Once again Maria is guarding the bedroom door - doesn't she ever give up?
+  Notice that leaving the room skips the scrambly room. This was originally the other way around (you skipped the scrambled room when entering) but when Willy is running to the toilet he stops moving when on conveyor belts, and you have to move him along manually, so if I left it the original way around you'd think it was messed up. Actually I'm quite surprised Paul Rhodes or any of the others never mentioned that.
+
+Disappointing - I had this idea for blocks that resemble angry eyes, and I couldn't resist the idea of a room that had a cloud of them. This isn't a very good room, but it's there and I can't think of a better way to do it.
+
+Dodgems - Something of an extension of the idea in "the Bird's Nest" this one. I ran through the guardian list and picked out vertical guards that would be hazardous to a ground level Willy and put them next to each other. This room is possible to cross, which means it's possible to cross without losing a life, but I say to you now that it requires the timing of the Gods
+
+Down Below - Formerly "Cramped conditions". You drop down here from "The Drop" and grab the rope. Incredibly you won't hit any of the nasties unless you are on the very tip of the rope, in which case you'll probably go to far and fall off anyway.
+
+The Downward Spiral - Named after the Nine Inch Nails album. No reason, I just liked the idea and I needed some rooms to make the house taller, accommodating my new 128 version
+
+The Drop - This room is the only one to have a diagonal nasty, as I had a little trouble mastering them at first. The ramo is a conveyor by accident, but I like the effect because if you start walking up it too late you'll get wasted by the spinning disc (has anyone ever determined what that is?)
+
+The Dustbin - This room was something of a troublemaker for me. I don't quite know why, but in several rooms (including this one) the game doesn't allow you to have grey nasty blocks, which it took me several tries to work out (Presumably this is because Willy is also grey, but I can't say for sure). This is part of three rooms that form a large "wrap-around" journey. The other two are "HDYRTT is above..." and "Radiation Bay". You'll see the whole thing when you get there.
+The items are supposed to be flies by the way, even if they do look like they're meant to be bees.
+
+East Bedroom - The other room left unchanged. I don't know why I like these rooms so much, I just do I guess.
+
+Edward's Pad - I don't know why I chose this room as "mine", I just felt like it would be a cool idea. I think you can see where I adapted it from. As for the sky blue monsters, I just like blue.
+
+THE EGO CHAMBER - I love this room. What could be more egotistical than building a room in the shape of three of yourself? Talk about money going to your head! This is the room you teleport to from "No going back..." Not related to
+
+EGO INDULGEO - I was going to call this "top of the East Tower" when I had the idea of putting my EHM logo floating over the bridge. Whilst working on this room I learned you can only have 255 objects in the game, and I had to go all round what I had done so far and cut down on objects. Talk about learning things the hard way. The phrase "ego indulgeo" comes from a show by comedian Phil Kay. This one trick pony incidentally is the reason why rooms past number 63 are rather scarce on objects
+
+Entrance to the basement - This is just a link really, but I quite like the box in the wall, maybe it's a fuse box. Note that Willy keeps a kite here.
+
+For Francis Bacon - Not much of a room, but fun to do. The joke? The monsters are all screaming mouths! Falling out of this room leads to a nasty surprise
+
+Further Down The Spiral - "What the hell's with this?" I hear you cry. Well, the room above it is "the Downward Spiral" and Further Down The Spiral is the accompanying remix album, so this is a remix of the above room.
+
+The Gas Chamber - No not like in an American prison, like they have in some labs. Put that flame out before it blows us all up! This room is to the right of "The Gene Pool", "Loose Viral Swarm" and "Secret Germ Lab", hence the science reference. The gas chamber kills you if you go in too far, by the way (I expect you to do some thinking if you're going to play MY game). If you go down to the supports though you get teleported to the Loop rooms. 
+
+The Gene Pool - Here we see Willy crossing said pool, dodging a crazy computer and four mutant sausage/virii as he goes. The idea was that Willy would have to time his jump to clear the computer AND not hit the sausages. However those sausages go a lot slower than I remembered, and it's really quite easy. Oh well, just you wait 'til you get to "Martyrdom", then you'll see a difficult room.
+
+The Graves - Lord knows why Willy has a graveyard, maybe I could blame that on the time rift. Anyway, most people don't have all kinds of mutant knick-knacks flying about their two dimensional house, so suspend your disbelief a little eh? As you can probably guess from the graphics this was once "We must perform a Quirkafleeg". I was out of ideas at the time, and this just seemed a good thing to have adjoining the chapel.
+
+The Green Room - Very simple, one of the several rooms that simply reuses old guardians rather than making new ones, partly through laziness and partly because at the time I hadn't mastered how the guardian editor worked with JSWED.
+
+Hammersmith Apollo - Altogether now... GROAN!!! I quite like this room actually, stupid though it is. I had two hammer animations (my own and the JSWII hammer), and I just thought of doing this. Some people are easily pleased.
+
+Have Faith and go Forth - This is a very cunning trick. By putting a fatal grey block near to the entrance of the room the player gets the idea that grey clouds are deadly (the room was originally called the smog, and incidentally wasn't there a horror film called the fog?) I'm hoping that the player remembers the trick in the previous room (Leap of Faith) and guesses that you can walk through the cloud (the middle is made of floor blocks, but don't jump 'cause the rest is made of nasty blocks)
+
+Hay Fever - Come prance through the green meadows with us! But watch out for those pollen spreading flowers, they're everywhere!
+
+Hell - If you drop down from "For Francis Bacon" then you find yourself here. In true biblical fashion, there is no way out of Hell - all the exits wrap around. If you can't stand strong red and yellow then avoid this room (avoid it anyway - you're dead if you land in here)
+  Funnily enough (as you've probably already read) you can't reach this room from what was "Entrance to Hades"
+
+Henry's Home - This one is something of a pet project of mine. As we all (well most of us) know, Henry's Hoard is a 1985/6 game built from a copy of JSW's game engine (as t'were). Now, I quite like this game, so I reconstructed perfectly the first room, Henry's Home. The title is even lined up exactly the same. The only differences in fact are that Willy is grey rather than yellow, and the objects flash. This room is where you teleport to from "On a Cliff Suddenly", a room that only exists for the express purpose of getting you to Henry's original start point
+
+Hole in the time-space continuum - This room is the way out of the Time Hole; those little clocks are a staircase. The effect of Willy and the objects flashing is achieved by setting the background ink and paper to black, then setting it to flash. Not bad. Also, the objects were supposed to be watches, but admittedly they didn't turn out too well.
+  With the benefit of hindsight, I'm really rather proud of this as a Promised Land Effect. I mean, it's only the third room in, and already you're looking at what is technically the end of the game! In a game with 130 rooms as well!
+
+The House Computer - This is actually the name of two rooms which form one room between them. 
+1:	This idea wasn't stolen from JSW in Space, though it looks that way. Actually I just wanted to do a room with ROM chips in it. The deadly objects at the bottom are Commodore logos, which may or may not be read as a retort to the commodore owners who attacked Spectrum owners for playing a version of JSW with a bug in it, then found one in theirs (The Commodore version is inferior anyway - have you seen those staircases? Impossible).
+2:	Again this wasn't stolen from Richard Hallas, though the & was. I quite like this room, though I wanted to put more little computers in from several JSW games. Note that the blocks are And (walls) Or (floors) and Not (nasty) gates. The item is meant to say ZX, but it may not be clear enough
+
+The House Septic Tanks!!!! - This room is really not that noteworthy, but notice that little grille in the wall of the main tank? That's a staircase!
+
+The House Walls - This is just a transition room to get to "Willy's Bottomless Pit" Basically I didn't want a sudden leap from "Another Theft..." to the pit, since it's two down from "Another Theft..."
+
+How do you reach the toilet? - The title refers obviously to the question of "how do you get from the bedroom/control room/whatever to here. All will be revealed. Something about this room reminds me of Karl Marx. It must be something I read/heard about at the time I was making it.
+
+I DON'T KNOW - and I really don't.
+
+In A Cave - This room is reached via the crack in the wall of the "Basement with Broken Lights" The original idea was that seven arrows would shoot across the room, but that was dropped for reasons I shall endeavour to explain to you...
+  For the arrows I opened a new guardian table in the memory map (This won't really make sense unless you've used John Elliot's 128 editor by the way). Now, having put my arrows in, I transferred Willy's start position to this room (something I always do for testing) and made a .tap of the game. When I opened it in the emulator however, Willy kept dying instantly. After much fiddling I found the problem to be two more guardians that had been generated somehow, and which I could neither see nor remove on the editor. There's not even supposed to be nine guardians per room! Anyway, I deleted my new guardian table and tried to do the arrows on the second table, only to find I had accidentally removed one of the guards in Dodgems and replaced it with an arrow. Frustrated, I gave up and replaced the arrows idea with the two flashing guards now there, which are partly inspired by the two which appeared inexplicably
+
+In A Cave? - Named for my silly fiddling with the roof design. Nothing much here. See "The Chimney" for its history. The similarity between this name and that of "In a Cave" is a direct reference to "In the Flesh?" and "In the Flesh" from Pink Floyd's "The Wall", although techincally you should come to "In a Cave?" first for that to work properly
+
+In Case you're feeling sad - This is a really simple room. You just have to jump over the ball and grab the happy face, hence the title.
+
+In the Loop (Black Room) - This is the beginning of a suite of unrelated rooms that you teleport to from the Gas Chamber. You go left to "Over the hills and far away", up to "The Sandpit", right to "The drop", down to "Down Below" and left to "Out of the Loop". Hence a loop. This room is subtitled because when trawling the guardian lists for monsters I could insert to avoid more work (As I did in half the rooms in this game), I often found that the most suitable ones were black, so I cooked up a few more black ones and changed the hard blocks.
+  Incidentally, these rooms only exist at all because I wanted to use up all the rooms in JSW. However they were great fun to make, and I'm proud of all six as a chaotic whole.
+
+In the Pit (Sorry Craig) - This room is the bottomless pit, and naturally it loops. Actually it's two rooms. The top one contains two items that you reach via "An Easy 1 for You" and the one below that loops. For convenience's sake those birds are the rare subterranean pygmy ostrich.
+  The title is a reference to Craig Jardine, a games maker who produced a brilliant game called "In The Pit" sometime in 97, I think, on Klik 'N' Play. I can't remember his www address, but search for Virtually Real and you should find it.
+
+Into the Vortex - You get here from "Up into Space". Note (and this is very important) that only the right exit wraps around. The left exit leads to the scrambled room and then to the Master Bedroom. I put the arrows up there to make sure people realised they had to go back that way.
+
+Jellyroll Morton. - This room, as you can see, is a semi-mirror of "Hammersmith Apollo". I had this idea of a room full of jellies, called Jellyroll Morton, and suddenly this ridiculous idea came to mind. Well, what was I going to do about Jellyroll Morton?
+[NB this entry seems a little confused because previously the room was called "I didn't know what to do, sorry" as I didn't think Jellyroll Morton was a very good title. Blame Andrew Broad for the change of heart]
+
+Leap of Faith - This is the oldest idea for a room in this game after "How do you reach the toilet?" and "the House Septic Tanks". Very simply, there is an all-black conveyor belt there, which you have to jump onto
+
+Let me out! No! Go away! - Oh it's just a silly gag really. I needed a hole in the far wall of "In case you're feeling sad" to stop the ball crashing (I couldn't be bothered adjusting the guardian). I didn't want an extra room, so instead you come here. In the actual room, the first three words are at the left of the title bar, under Willy in a tiny box that you exit the way you came in. The last three words are at the right under a giant skull. There is nothing else in this room except the firewall on the left in which Willy is stood. 
+
+Loose Viral Swarm - You can't get across this room, so don't even try. Instead just walk out the door and find yourself transported to the other side. Easy really. I could have moved the nasties around so you could get across, but I just kept ending up with layouts that didn't interest me. Anyway, it's always nice to test the intelligence of people with really simple tricks (you just know someone will use up about a hundred lives trying to jump through all these nasties)
+
+Martyrdom - This room seriously lives up to its name. I have yet to get the object without falling to my death. It may not even be possible to get it WITHOUT losing a life. But do I care? Noooo. You've got eight lives, you'll get by with one less.
+  The room was never meant to be this way of course. The idea was that Willy would hit the wall and, upon reaching free space below it, move one pixel to the right, meaning he landed safely on the ledge. However, it seems the game just does not work that way, and Willy goes through it instead. I could lower it, but I like it better this way. So far as I know this is the only Willy game to do something this cruel on purpose, but Phil Bee's JSW Ivy might do. I'll ask him that when asking for permission for his boot graphic.
+
+Minor Irritation - I.E. the deadly whatsits right at the entry to the room. Nothing special here. Should've been, but isn't.
+
+More Clean Battlements - This is just a continuation of Very Clean Battlements
+
+Munky - This is a rather grisly inside "joke". You're probably better off not knowing what it is. Those things on the ground are meant to be razor blades.
+  For those wondering what the Hell Willy is in this room, he's a stomach pump, or at least part of one. This is all part of that grisly joke, and probably qualifies this as my "Nightmare Room". I'm warning you, the stomach pump is annoying to control at first because it keeps throwing out tube ends for guardians to bump into.
+
+NB: HDYRTT is above the Time Hole - This is my way of warning about the fact that "How do you reach the toilet?" is above "Hole in the Space Time Continuum", since if you go up the stairs into "How do..." then you will have to go all the way through the game again to get back to the master bedroom. This is built around "Top Landing" as you can see, and this and the two rooms above involve a lot of wrapping around. Remember that you can jump up through the hole in the roof.
+
+No Going Back - Which Way? - This room is only possible thanks to this game's transition to 128k. Roughly, each of the five alcoves goes to a teleporter. Two go to Hell, one goes back to the Main Hall (So I guess the room name's wrong isn't it?) one goes directly below the conveyor in "Leap of Faith", causing you to fall a ridiculous height into a bottomless pit, and one goes to another part of the house from which the game continues.
+
+On a Cliff Suddenly - Here is yet another link. Basically Willy teleports here from "A crack in the wall" and from here teleports to "Henry's Home". The question mark is there because I was looking at the room and realised that unless you're me, you may not necessarily realise that there's a teleporter in this room.
+
+One way Holy Rollers - An old trick is used in this room whereby the floor and conveyor belt have the same attributes. The last group of heads is very hard to get over and requires perfect timing. Actually this is a very good example of making something good out of a failure of a room, and was inspired partly by "Stardrive (Early Brick Version)" from JSWII and partly by "the conveyor room" from A. Britton's "the continuing adventures"
+
+On the Roof - This is the top of the chimney. Climb that smoke cloud dude!
+
+Out of the Loop - The end of the loop rooms, and very simple to boot (actually, most of my rooms are quite simple). Just get down to the bottom and there's a teleporter that goes to "Office in Manhattan"
+
+Over the Hills and Far Away - Not a reference to the Teletubbies, just that the platforms look a little like tree/mountain hybrids.
+
+Overused clone of the kitchens - This kind of room (i.e. several rooms strung together where you jump from ledge to ledge) has appeared in several JSW games now. I don't know how many exactly, but I've seen 'em plenty times before. I don't know about you but in my copy of the game the black wheel/platform guardian flickers purple, which whilst pissing me off in other situations in this game, actually produces what I think is a great effect visually.
+  This room is a fairly transparent rehash of Richard Hallas' "Off to Town" by the way. Sorry Richard.
+
+Palace of the Mind - A pretentious title I admit, but this room was fun to make and isn't as hard as it looks. The wall at the far right can be walked through at the bottom
+
+The Pornography Store - From "The A-Z of behaving Badly":
+"Current data suggests that 93% of males in [England] between the ages of 18 and 50 maintain a collection of pornographic magazines in the home. Some keep them at the back of their jumper drawer, some dip them in a special fluid that disguises them as the June issue of the magazine Practical Boat Owner, some leave them at their friend Keith's house." Well, I guess now you know where Willy keeps his.
+  This is the second secret of the back stairway, and was put in because Sendy (a regular of the MM/JSW message board) noted that you could ascend the rope all the way to the top, which led to "Whatever". I asked John Elliot how to make those ropes you can only climb so far, but I couldn't wait for his response and made this instead.
+  Think this is crude? Get Manic Miner Mythologies' "Eugene: Lord of the Bathroom" and check out some of the room names on that!
+
+Priests' Hole - The West Tower is built from the original East Tower because the room on the right of the Chapel is already the East Tower, so I just had to rework the rooms. I love this title too much, and I couldn't think of a better replacement, so there you are. Note that it may be a good idea to save often whilst in this room, since the last three platforms are hell on earth to get across (it can be done, but it requires perfect timing, and some waiting).
+
+Radiation Bay - This is obviously the attic in disguise. The caterpillar is another of my favourite guardians, so I decided to make an even longer version than the one in Decapitilla. It hasn't got the legendary attic bug in it, since I rarely use arrows (hate them, very fiddly little things). Notice that it wraps around, and forms part of a larger "wrap around" section of the game.
+
+Red Rum!!! Red Rum!!! Red Rum!!! - This room was going to be called the Red Room, but I thought this was a funnier title. Easy room really. Getting that one up top is a nightmare though, but if I can do it then so can you.
+
+Room 101 - Nothing to do with Orwell's "1984", it's just that this room is 101 on the editor. I don't think that red whatsit in the separate bit is much of a Big Brother, do you?
+
+The Sandpit - This room is nasty, because there's an almost unnoticeable nasty directly next to the platform you enter on. This entry is based on the theory that no-one is thick enough to jump to the right when leaving through the roof of "Over the hills and far away"
+
+Secret Germ Lab - It occurred to me to have a passage through this staircase, and instead of changing the nasty I just pretended it was a bacteria - I wasn't in the mood for drawing more guardians any way. I figured a flashing sausage was close enough to a giant disease to negate drawing new whatsits.
+
+The Secrets of the Back Stairway - This is directly above "the Back Stairway". In here you find a rope that lets you get to the other side. Except that the other side hasn't got anything there, or does it? I'm hoping that players will guess that there is a secret passage in the wall. Of course, if you're reading this text file, it's pretty much irrelevant. A late addition to the game was "The Pornography Store", a room above this that you wouldn't necessarily figure was there either (and neither, we assume, do Willy's parents - some things never change). That's why it's "SecretS", so that if you find the porn room, you'll hopefully still look for the other room. At one point this was also called "the Back Stairway", but I felt that it wasn't very clear that there was a hidden room behind the far wall. Or am I just underestimating my viewers' intelligence?
+
+sMALL fISSURE iN tIME - This is the top of the smoke cloud from "On the Roof." Collect that one paltry object (by this time I had to ration them out as I'd used them all up doing a stupid joke in "EGO INDULGEO"). There's a teleporter on that piece of conveyor that goes back to "In a Cave?" I'm worried that some of my teleporters aren't noticeable enough, particularly this one and that in "On a Cliff Suddenly" [Since then I've made the one in On a Cliff Suddenly more obvious]
+
+Somewhere above the Stairs - This isn't much of a room. I was bored and low on Ideas, and I wanted a link to the battlements. Don't ask me why the battlements are so close to the landing. As for the guardian, I added that in the remastered version. I was struck by how visually appealing that guardian is when only the last frame is showing, and I decided to bung one in somewhere.
+
+Somewhere in the Garden - Willy obviously doesn't take good care of his garden. Look, there's dead plants everywhere.
+  At first I planned a larger room, but I changed that when I saw the room as it was. This was hell to do, because at first I confused the blocks for spikes and floor, which rather made a mess, and I had to redo the whole thing.
+  Remember how I said I was too lazy to draw a crashing car? Well I'm not too lazy to redraw Richard Hallas' killer sausage from JSW in Space, because my emulator was dodgy and wouldn't run tape files so I couldn't simply upload them into the editor. All the guardians and objects taken from other JSW games are recreated in this way, by drawing them onto a 16x16 grid and then transferring them into this game.
+
+So near, yet so far away - You get here from "Which way, eh?" and have to get the objects by going BOTH ways. The rooms either side of this have "Which way eh?" on the far side of them. 
+
+The Spare Room - This room used to be ridiculously minimal, until I put in the platforms and the object. You have to jump through that hole to get the heart in "Climb Fast!" and then you can climb the ladder there to the other side of the hole (it can't be jumped.
+
+The Storeroom - This is the WORST room in the game. I couldn't think of a single thing to do, so I did this mess. Originally the way up to the next floor was to have been here, but it didn't fit anywhere.
+
+Style over Content - This room is just a link room, of which there are too many. Still, it looks pretty.
+
+The Subway - I was thinking of making this like a room I once designed for Manic Miner, but then I was suddenly struck by a minimalist phase, and I decided it would be better if Willy just walked over the train.
+
+Teleportation Station - This is part of the catacombs, and the teleporter in the annexed little room goes to the "Abandoned Subway Entrance." Nothing particularly special.
+
+To the Bedroom and Bathroom - Here's another of my collapsed rooms. The door to the Bedroom and Bathroom is blocked by the time rift. Notice that the top monster changes shape for the different directions. I just think that's cool!
+
+Tower Facilities - This room is where you rejoin the East tower after much running rounds inside the building. It was actually called "Return to the East Tower" but the presence of three toilets suggested a better title
+
+Tower full of fungus - Essentially a way to reach the new levels of the house when I transferred to 128. Notably many of the post-128 rooms reuse old guardians since many of the slots were already filled by then, and the ones that weren't being used were way more difficult to pick out than in the Paul Rhodes editor. 
+
+The Tradesman's Entrance - Here's what I did with the Nightmare room. I got the name from the awful pun "Apply/Appliers your trade". Apologies for printing said pun.
+
+Trip switch - When I first played (or rather watched someone playing) JSWII on the Commodore, I was obsessed by this room, partly because I couldn't get through the Wine Cellar to get here. So here it is, a near perfect reproduction. There are some differences though, i.e. there is now a Software Projects logo at one end, and the switch is a nasty and it's been moved one place along (otherwise you keep hitting it when you jump). So that's Trip switch then.
+
+TwoTone - The Janitors office - Macaroni Teds (I think they were called that - They were called that in JSWII) have started living in the janitors quarters. My all time favourite monster in any Jet Set Willy game are the Macaroni Teds from JSW2, as well as from Join the Jet Set and The Continuing adventures. So discovering that Matthew Smith had originally included them in his collection of Guardian sprites meant I was bound to do something like this. Really I just wanted to experiment with multicoloured Teds, and this seemed the best place to do so. I don't know why it's a janitor's office, or why he has those little coloured tiles in his office, but it is.
+
+[Untitled] - I just couldn't think of a good name for this room. All you do is climb up to the second door and get the item in "So near, yet so far away", then go back through the hole in the rock formation.
+
+Up into Space - The title of this room is misleading. It doesn't go up into space, it goes up into the Time Hole, and leads to "Into the Vortex".
+
+Very Clean Battlements - This and More Clean Battlements were an accident really. I changed the floating guard animation to a vacuum cleaner, and when I looked at these rooms I found vacuum cleaners floating up and down. I loved it so much I kept it.
+
+Was This a Good idea? - Here you're ascending the chimney, and I wanted to imply that you'd be climbing for a long time i.e. that the room looped. I should really have had a couple of rooms exactly like this so you'd get confused and give up, but then that would be mean.
+
+The Water Trap - Just a follow on from Dodgems really. To get up there you have to go into the floor and start jumping up and to the left, like you couldn't figure that out. 
+
+The West Tower - If you think this looks a bit like the East Tower, you're right. At first I planned to have a room behind the Chapel, but then I remembered that it's virtually on top of the battlements (above Somewhere above the landing, actually). If you somehow managed to jump down the side of the building (most easily done from the Window Box) then you would go through "Another Theft..." and into the pit. Originally it went to "Very Clean Battlements", but that was changed to facilitate a very silly idea
+
+Whatever - This room was originally part of a two room feature which was basically one long tunnel. This was originally called "...With many a winding turn". Predictably, the room before hand was called "the road is looooooong..." The room has no definite purpose except to wrap back to "Alcohol and the Common Fungus".
+
+Where are we anyway? - On account of the fact that you've teleported into a different part of the house. Paired with "Overused clone of the Kitchens."
+
+Which way, eh? - This room requires you to go through one of the openings in the roof into the room above, which is "So near, yet so far away" If you want to understand this section better you should read that entry.
+
+Whoops! - This is where you fall if you miss a platform in "the Crossing" or (out of necessity) "the Window Ledge". Basically just a floor at the bottom. You can also get here if you jump the wall at the left of "The Sandpit". Dunno why
+
+Willy's Bottomles Pit - Does exactly what it says on the tin.
+
+Willy's indoor Brick Mine - So called because the walls are brick, but the room looks like it's a natural formation of rock. It was the first name that came to mind basically. I replaced the original room ("The road is looooooong") because it was very dull.
+
+Willy's Trainset - I don't really know why there should be any connection between the layout of this room and a trainset; it only came to be because the items look a bit like trains, so I stole Richard Hallas' train sprite. Poor old Richard. I might as well have changed the credits on Join The Jet Set at this rate
+
+The Window Box - I didn't really plan it this way, but I had this item in the shape of a flower (from Adam Britton's JSW3) and I couldn't find anywhere else to put it. All the same I quite like this room.
+
+The Window Ledge - This was originally part of a larger group of rooms reached via the window in "Tower Facilities", but at the timer I didn't understand that even if you aren't using guardians in a room you mustn't leave the guardian table set on 0000 (the default for previously unused rooms) as that crashes the emulator. Anyway, very simple - just leap from cloud to cloud and get that glimpse of sunshine.
+
+Yet another theft from M. Smith - This is just a reworking of "On top of the house". I think this is the only room where I admit to ripping off the unofficial God of JSW fanatics, but there you go.
+
+You really should save here! - This room contains a rather nasty trick, bearing in mind that it's well over halfway through the game. At the top there are two platforms from which you can jump up into the next room. It makes sense to use the left path, since that follows the general winding direction that the platforms in this room take, but if you do then you'll jump up into a bunch of nasty blocks. The right platform is safe to jump from though. Since you're on an emulator though (you must be, I made this game on one) you can save here, and thus restart when you hit the blocks (as you inevitably will), hence the name.
+
+You didn't expect that, did you? - It's quite easy to miss this room. If you try to go back into "A hole in space-time" from "the hallway (back to Reality)" you'll end up in this large and totally empty room, hence the name.
+
+You SO should not be here! - This is the true hidden room in the game, after my decision to make "*Bomb*" reachable. If you could get past the middle teleporter on the right of "No Turning Back" you'd get here. It's no big deal though, all you get is a tiny room surrounded by nasty blocks, and a single guardian (a cross-bar like the one in "Entrance Hall" if you're interested) approaching you, forcing you out of the room.
+  Oh come on, I just had to have a hidden room somewhere!
+
+	Right, think that's all of them then.
+
+"Borrowed" Graphics
+As I have said several times in the previous text, most of the whatsits guardian-wise in this game come from other people. The only original material is listed somewhere above. Anything not from the original game is taken from someone else. Since these people will do me harm if I don't credit them, here are all the monsters that I can remember stealing for this game:
+
+Tribar - Software Projects edition of MM
+Guillotine Blade - JSW II
+Microdrive Cartridge, Tape, Train, TV - Richard Hallas, JTJS
+Computer, Sausage, robot like a walking radiator - Richard Hallas, Willy in Space
+Boot - Manic Miner, by way of Phillip Bee, JSW Ivy
+Robot like a ball with eyes on top, Thing in "Edd's Pad", Second machine in "Leap of Faith", Showerhead - Adam Britton, The Deadly Mission
+Vertical Wheel/Platform - Adam Britton, Willy's Holiday
+Everything in "Henry's Home" is lifted straight from Henry's Hoard, that legendary rip off of the inner workings of JSW.
+Cross-bar thingy in "Entrance hall" - Dynamite Dan
+
+Don't even bother asking about block graphics, I have no idea how many of these I may have nicked. Richard Hallas naturally would have been ripped off a lot in this respect, 'cause JSW 128 uses JTJS for the second 64 rooms, and I just used a lot of the block graphics that were already there.
+
+The Credits
+
+Game designed by Edward H Martland
+Numerous rooms are Matthew Smith's originals, adapted to varying degrees (Cos I'm a lazy Sod).
+Thanks to:
+Richard G Hallas - For allowing me to use several of his guardian sprites, and for recommending Paul Rhodes' JSW editor. Also for pointing out that the A. in A. Britton doesn't stand for Andy.
+	Paul Rhodes - for making the above Editor
+Adam Britton - who kindly allowed me to use some o' his sprites, and who may or may not know that I previously thought he was called Andy. One day, he says, he's going to find an emulator and actually play my game!
+Phil Bee - Who with luck will be cool about my stealing his boot graphic (tho' it was originally from Manic Miner, so maybe it don't matter)
+Arsen Tobarina - For making one of my all time favourite websites, and thus allowing me to get my JSW stuff. 
+Stephen McMasters - For making the Amiga conversions of JSWII and Manic Miner that tided me over for all the years between losing my C64 and getting the internet.
+Andrew Broad - For his obsessive list of all the useful technical quirks in Willy games. Getting one of the objects in "In the Pit" is a direct steal from We Pretty.
+John Elliott - for his JSW128 editor, with which I extended my original 64 rooms and which was the answer to several problems. Also, I owe John a massive debt because he fixed a problem with the guardian table which was screwing up half the rooms. Thanks dude.
+The numerous bands in my CD collection, for providing sonic accompaniment in lieu of the crap sound systems on WspecEm and X128
+Sendy - Who very kindly pointed out all my failings and mocked me for them so that I would go change them. For those people who don't get jokes (and I know there are many of you) he pointed out a few bugs.
+And, last but not least, Matthew Smith, for making the game that was one of the brightest moments of my childhood, for being a legend, for disappearing into legend (then turning up again), and for having cool hair. I love your hair!
+
+And finally, go here and register: http://clubs.yahoo.com/clubs/manicminerandjetsetwilly Everyone who likes MM and JSW should at least check this place out. I'm soa1000, by the way.
+
+© Edward Martland, 1999, 2000 or thereabouts
+Report errors, bugs, comments, criticisms, flames, etc. to edward@manmart.demon.co.uk If I get spam mail I will hunt you down and kill your families
+Bare in mind that this is my first adventure into JSW editing, so go easy on me. We can't all be Matthew the first time.
+
+Version History: 0.5 - original pre-release version of the game
+1.0 - publicly released version of the game. Includes the Pornography Store
+1.1 - Lots of little alterations: Fixed a bug in Out Of The Loop. Added birds to The Sandpit, altered graphics in Over The Hills and Far Away... Added water to Aqueduct. Slapped Bells and Whistles on several other rooms. Altered the text file. Got radiation poisoning from my PC monitor. Keeled over and died.
+2.0 - Myriad little alterations. Re-released as Time Hole - The Special Edition, which I felt warranted going up to version 2.0
+
+Look out for JSW vs The Beatles, coming one day to a website near you. Or not, depending on how long I can sustain interest.

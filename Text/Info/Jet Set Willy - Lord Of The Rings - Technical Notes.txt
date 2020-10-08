@@ -1,0 +1,218 @@
+Technical Notes on Jet Set Willy: The Lord Of The Rings
+=======================================================
+
+For the most part, JSW:LOTR uses the original JSW game engine, and just the data for rooms, items, guardians, graphics etc. have been modified. I wanted to be as faithful as possible to the original game engine. However, I saw fit to hack the JSW game engine in three major ways for this game:
+
+* Each room specifies the sprite page of the player's graphics;
+
+* John Elliott's teleporter extension has been incorporated;
+
+* Room titles can have accents in them.
+
+I would also like to thank John Elliott for his disassembly of the JSW game engine [http://www.seasip.demon.co.uk/Jsw/jsw.mac], which was an invaluable aid to me.
+
+
+Playing as Different Characters
+-------------------------------
+
+In order to let you play different characters in different rooms as the narrative divides, I have hacked the JSW game engine to use Offset 237 of each room to specify the sprite page of the character that you play in that particular room (Sprite Page n holds eight 16x16 horizontal guardian graphics (four left-facing, four right-facing) at addresses 256*n to 256*n+255). Whereas the original JSW game engine is hard-wired to use Sprite Page 157 for Willy in every room except Room 29 ("The Nightmare Room"), which uses Sprite Page 182 instead.
+
+The game engine has been hacked to use the value in Offset 237 as the sprite page not only for the player, but also for the remaining lives. Whereas the original JSW game engine always uses Sprite Page 157 for the remaining lives - even in Room 29 - the JSW:LOTR game engine uses the same sprite page for the remaining lives as for the player in the playing area.
+
+I have to credit Geoff Eddy for the idea of soft-wiring the player sprites in this way, because it was inspired by Geoff Mode (as used in J4, Willy the Hacker and Willy takes a Trip), which also uses Offset 237 to specify the player sprite page (although it specifies the sprite page for remaining lives separately).
+
+
+The original JSW game engine uses the following code to decide which sprite to print for the player:
+
+38480: LD E,A
+38481: LD D,157
+38483: LD A,(33824)  ; current room
+38486: CP 29
+38488: JR NZ,6       ; jump forward 6 to 38496
+38490: LD D,182
+38492: LD A,E        ;
+38493: XOR 128       ; toggle MSB of E
+38495: LD E,A        ;
+
+This code sets the sprite page for the player to 157 (Willy), but if the current room is 29 ("The Nightmare Room"), it sets the sprite page to 182 (the flying pig), and selects the opposite half of the sprite page (because whereas Willy has his right-facing graphics in the first half of the sprite page, all horizontal guardians have their left-facing graphics in the first half of the sprite page).
+
+Register D holds the sprite page, and E specifies which sprite (0-7) within the sprite page in its three most significant bits (so the DE register pair holds the address of the graphic to draw). It is by toggling the most significant bit of E that the opposite half of the sprite page is selected.
+
+
+For JSW:LOTR, I replaced the above code with the following...
+
+38480: XOR 128
+38482: LD E,A
+38483: LD A,(33005)  ; Offset 237 of current room
+38486: LD D,A
+
+...and the contents of addresses 38496-38527 have been shunted down to 38487-38518 (leaving addresses 38519-38527 free).
+
+This code simply gets the sprite page for the player from Offset 237 of the current room (whenever you enter a JSW room, its 256-byte data block is copied into a buffer at 32768-33023).
+
+Note that the above code /always/ selects the opposite half of the sprite page, so /all/ horizontal guardians are now stored with their left-facing graphics in the first half of the sprite page. This explains why Frodo is facing left instead of right on the Game Over screen - I swapped the two halves of Sprite Page 157.
+
+
+I then further hacked the game engine to use the current room's player sprite page for the remaining lives instead of always using Sprite Page 157 (as the original JSW game engine does, even in Room 29). Instead of doing it in-line as above, I decided to use a subroutine:
+
+38520: XOR 128
+38522: LD E,A
+38523: LD A,(33005)
+38526: LD D,A
+38527: RET
+
+
+I replaced the original JSW code to select sprite page 157 for the remaining lives...
+
+35232: LD E,A
+35233: LD D,157
+
+...with a call to the above subroutine:
+
+35232: CALL 38520
+
+
+Ever since I made these changes, there has been a slight glitch in the player's graphics in Room 33 ("Mount Doom", formerly "The Bathroom"). I haven't put my finger on the reason for this, but it's not a serious problem. It's probably something to do with the fact that it's the room with the fire (former toilet) in.
+
+
+Teleporters
+-----------
+
+I have implemented John Elliott's teleporter extension [http://www.seasip.demon.co.uk/Jsw/jswtel.html] for the teleporter in "The Palantír", and the one in "The Lord of the Rings" in the easy version.
+
+In JSW:LOTR, the teleportation module is located at 49024 (the second half of Sprite Page 191). The teleportation subroutine is located at 49024-49097, 49098 holds the number of teleporters, and the teleporters themselves are held in contiguous blocks of four bytes starting at 49099:
+- the first byte is the source room for the teleporter;
+- the second byte is the vertical position of the teleporter, in pixels*2 from the top of the screen;
+- the third byte is the horizontal position of the teleporter (a character column from 0 to 31);
+- the fourth byte is the target room for the teleporter (where the player will be teleported to if he's in the source room and his vertical and horizontal positions match those of the teleporter).
+
+
+I shall now presume to disassemble the teleportation subroutine:
+
+49024: PUSH DE
+49025: PUSH IX
+49027: LD IX,49098   ; point to start of teleport data
+49031: LD DE,4       ; 4 bytes for each teleporter
+49034: LD B,(IX+0)   ; get number of teleporters
+49037: INC IX        ; IX now points to first teleporter
+49039: LD A,B
+49040: OR A
+49041: JR Z,48       ; jump to 49091 if no teleporters
+
+; loop starts at 49043
+49043: LD A,(33824)  ; does current room...
+49046: CP (IX+0)     ; ...match source room of teleporter?
+49049: JR NZ,36      ; if not then jump to 49087
+
+49051: LD A,(34255)  ; does player's vertical position...
+49054: CP (IX+1)     ; ...match that of teleporter?
+49057: JR NZ,28      ; if not then jump to 49087
+
+49059: LD A,(34259)  ; does player's horizontal position...
+49062: AND 31        ; (just the 5 least significant bits)
+49064: CP (IX+2)     ; ...match that of teleporter?
+49067: JR NZ,18      ; if not then jump to 49087
+
+49069: LD A,(IX+3)   ;
+49072: LD (33824),A  ; set current room to target room
+49075: PUSH HL
+49076: NOP
+49077: NOP
+49078: NOP
+49079: POP HL
+49080: POP IX
+49082: POP DE
+49083: POP BC
+49084: JP 35090      ; enter and draw destination room
+
+49087: ADD IX,DE     ; next teleporter (IX:= IX + 4)
+49089: DJNZ -48      ; loop back to 49043
+
+49091: POP IX        ; end up here if no teleporters match
+49093: POP DE        ;
+49094: LD BC,61438   ;
+49097: RET           ;
+
+
+The main game engine is modified to call the teleportation subroutine as follows:
+
+35696: CALL 49024
+
+
+The teleport data area can be relocated elsewhere in memory (the instruction at 49027 must be modified accordingly), and the subroutine itself can be relocated (the instruction at 35696 must be modified accordingly).
+
+
+Accents
+-------
+
+I have hacked JSW's character printing routine to allow the use of accents in room titles (and more generally, to allow user-defined graphics anywhere you can have text). My solution is adapted from the way Ignacio Pérez Gil did it for Manic Miner 5: Los Peligros del LSD - I have rewritten his solution to work in JSW and to use the particular accents I require.
+
+The LOTR room titles require four accented characters, and under my accent hack, these are mapped to ASCII codes as follows:
+	0: û (u-circumflex)
+	1: ó (o-acute)
+	2: í (i-acute)
+	3: é (e-acute)
+
+
+In JSW:LOTR, the code for accents is located at 48896 (the first half of Sprite Page 191), starting with the 8x8 pixel patterns in standard 8-byte format:
+	48896-48903: û graphic (CHR$ 0)
+	48904-48911: ó graphic (CHR$ 1)
+	48912-48919: í graphic (CHR$ 2)
+	48920-48927: é graphic (CHR$ 3)
+
+Note that the û graphic is slightly different in the hard and easy versions of JSW:LOTR.
+
+
+The machine code routine for accents then follows at 48928:
+
+48928: CP 32         ; if character code >= 32
+48930: JP NC,38545   ; then look up character in Spectrum font
+48933: ADD A,A       ;
+48934: ADD A,A       ; A:= A * 8
+48935: ADD A,A       ;
+48936: LD L,A
+48937: LD H,191      ; Sprite Page 191
+48939: JP 38553      ; jump into character lookup routine
+
+If the character to be printed has an ASCII code c which is less than 32, this code looks it up at 48896 + 8*c (48896 = 256 * 191).
+
+
+The main game engine is modified from...
+
+38532: CALL 38545    ; look up character in Spectrum font
+
+...to...
+
+38532: CALL 48928    ; call the accents routine
+
+So the accents routine is a wrapper for the existing JSW subroutine which looks up in the standard Spectrum font the character to print.
+
+The graphic data could be relocated by modifying the instruction at 48937 accordingly, but the base address has to be a multiple of 256 unless you alter the accents routine more radically! ;-) It could obviously be extended to more than four characters, given enough contiguous free space. The accents routine itself could be relocated (the instruction at 38532 must be modified accordingly).
+
+
+Other Technical Notes
+---------------------
+
+Here are a few other changes I made to JSW:LOTR, beyond the standard JSW information on the Internet (e.g. the technical specification page at Arsen Torbarina's JSW Ultimate Fan Page [http://members.xoom.com/jetsetwilly/tech.html]):
+
+* Address 34795 is the number of the room to start on (the operand of an LD A,n instruction).
+
+* Addresses 34800 and 34801 encode the player's starting position as a 16-bit word (the operand of an LD HL,nn instruction) of the form:
+ 34801    34800
+0101110Y YYYXXXXX
+where YYYY is the vertical position (a character row from 0 to 15), and XXXXX is the horizontal position (a character column from 0 to 31). I derecommend using row 14 or 15, because the player will just fall straight to the room below. I derecommend using column 31, as that causes the same wraparound bug as seen in Manic Miner rooms where the player can walk off the left or right edge of the screen.
+	The vertical position is also held at address 34790 (the operand of an LD A,n instruction), in pixels*2 from the top of the screen. This is the 'pixel' vertical starting position, and must agree with the 'colour attribute' vertical starting position in addresses 34801/34800. In other words, the value at 34790 can be thought of as an 8-bit word of the form YYYYyyy0, where YYYY is the vertical starting position in characters below the top of the screen and must be equal to YYYY in 34801/34800, and yyy is the number of pixels below that. I recommend always using 000 for yyy (certain other values can upset the falling mechanism).
+
+* Addresses 33876-33907 hold the message that is printed in yellow ink on the title screen, during the playing of the title-screen music.
+
+* Addresses 33908-34131 hold the scrolly message that is displayed after the playing of the title screen music. The last character is not printed.
+
+* Address 36018 is the colour attribute of the Ring (barrel) on the Game Over screen (the operand of an OR n instruction).
+
+* Addresses 38250 and 38251 are the colour attributes of the left and right characters of Sauron (Maria)'s upper body in Room 35 (the 16-bit operand of an LD HL,nn instruction).
+
+* Addresses 38256 and 38257 are the colour attributes of the left and right characters of Sauron (Maria)'s lower body in Room 35 (the 16-bit operand of an LD HL,nn instruction).
+
+* Addresses 38335 and 38336 are the colour attributes of the fire (toilet) in Room 33 (the 16-bit operand of an LD HL,nn instruction).
+
+For more information see the documentation for We Pretty [http://www.cs.man.ac.uk/~broada/spectrum/download/we_pretty.zip -> README.TXT], which has more of these little changes than JSW:LOTR.

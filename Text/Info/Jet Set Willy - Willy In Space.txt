@@ -1,0 +1,187 @@
+Jet-Set Willy in Space  starring Miner Willy
+-=-=-=-=-=-=-=-=-=-=-=-
+
+Created by Richard Hallas (Richard@hallas.demon.co.uk)
+
+Plot:
+-----
+
+Willy always was a glutton for punishment. What's more, he never seemed to be very good at learning from his mistakes. You'd think that he'd be wary of Martians and the like by now, after some of them added all those strange rooms to his mansion. But no; joining the upper echelons of society rather went to Willy's head, and a rich twit has a greater capacity for making big mistakes than a penniless one. When a passing Used TARDIS Salesman came by, Willy was gullible enough to be taken in. Needless to say, the old TARDIS that Willy bought was decidedly dodgy, and broke down upon arrival at a space station orbiting the planet Endor. So here he is, stranded in space and far from home. Willy can't even get back into his TARDIS to try to mend it, because it's permanently locked into its dematerialisation phase with him on the outside! But all is not lost: before Willy landed, his initial scans of the area indicated the presence of a powerful intergalactic matter transporter somewhere on the planet's surface. All Willy has to do is to find enough power packs to get it working. Once it's fully powered up, he'll be able to enter the rocket on the planet's surface, operate its computers, and set the transporter's destination coordinates so that it will send him back home.
+
+Game info:
+----------
+
+"Jet-Set Willy in Space" is the sequel to "Join the Jet-Set!".
+
+The in-game music is supposed to be the Star Trek: Voyager theme. If it doesn't sound recognisable, blame Matthew Smith's play routine!
+
+Fans of Join the Jet-Set! should be warned that this game isn't quite as good, and it's significantly more difficult, too. The reason that it's not quite as good is that it has a few slightly gimmicky features (like occasional invisible platforms, and at least one completely hidden room), and a less unified design. This can be partly excused by its history (see below if you're interested) and the way it was patched together from two different games. So, it doesn't have quite the same JSW atmosphere as my previous game, and it's much harder to complete; but that's not to say that it isn't OK! I'm reasonably pleased with it on the whole, and there are some very good rooms and nice touches, as well as a smaller number of less successful ideas. I hope that you enjoy playing it, even if the quality is slightly more variable than in my previous offering.
+
+Note that if you are to complete this game, you will have to be quite a skilled JSW player! I don't think that this is necessarily the hardest JSW clone, but it's certainly quite a lot harder than Join the Jet-Set! (which is actually the easiest JSW game). You will have to become very proficient on ropes, as this game make more extensive and imaginative use of ropes than any other JSW game I've seen so far. Elsewhere, there are some critical moves which involve both pixel-perfect positioning and exact timing.
+
+However, bear in mind that even if some things appear impossible at first sight, there is always a way! Although it would take tremendous skill, it is theoretically possible to complete this game without losing a single life. At no point is it necessary to sacrifice a life to get a particular object. It was one of my design goals to make sure that it's always possible to get the objects without killing yourself, even if it's occasionally very difficult! I have played the game to completion, and
+can verify that it is indeed possible.
+
+You are offered the chance for infinite lives when the game first loads, and I would advise taking up the offer! You are also allowed to enable teleportation (in other words, turn WRITETYPER mode on - since it's not possible to do this manually in the game).
+
+Background information:
+-----------------------
+
+This game was created using Paul Rhodes' superb JetSet Editor program, along with a bit of manual hacking to produce the new in-game music, the altered title page and the non-standard colours etc. for the status information. All the room designs are my own, except for two screens which came as example files with the JetSet Editor. I've edited them slightly, but they remain substantially the same, and were designed by Paul Rhodes.
+
+Join the Jet-Set! was released to some school friends in 1984 or 1985, and seemed to meet with general approval. Since its resurrection on the emulators ten years later, it has, of course, found its way to a rather larger audience, and I have been flattered by the number of people who have said how much they like it. Foremost among these is Arsen Torbarina, author of the superb 'JSW Ultimate Fan Page' Web site, who was particularly enthusiastic about it and devoted an entire Web page to the game, claiming it to be the best of the 'unofficial' JSW games.
+
+Jet-Set Willy in Space was a product of the initial pleasure expressed by my school friends, though its arrival has been somewhat delayed, to say the least! My friend Simeon Hartland once came over to my house during the school holidays in 1985, and we decided to design a JSW game set in space. Oddly enough, the game wasn't even going to feature Willy! Its central character was instead a sort of bouncing ball. We put together a few rooms and graphics, but didn't get very far, and there was never really another opportunity to go back to it. I suspect that I then mislaid the tape with our game on it, because the game stayed as we had left it for the next 12 years! At some point I started another JSW in Space game, entirely on my own, and got roughly half-way with it. This would probably have been in either late 1985 or summer 1986. Again, though, it got dropped long before completion. Both games had quite a lot of good rooms and nice ideas in them, but plenty of things that were left unfinished.
+
+In 1995 I managed to retrieve Join the Jet-Set! on an emulator, and at the same time I also resurrected Adam Britton's three JSW games. Then I remembered my two partially written JSW games, both of them set in space, and wondered if I could somehow stitch them together and create a complete new game. The stitching together process took quite a lot of time, as both games used a lot of common rooms, graphics and guardians, but I managed it eventually, which left a 75%-complete game. The game I designed with Simeon Hartland was set mainly on a planet's surface, and contained 15 screens; my later game was set on a space station, and contained 32 screens. I therefore had quite a lot of tidying up to do: several screens in both games were unfinished, and I had to create some more graphics, a further 17 new screens, and somehow link together the two maps/scenarios. I added several new rooms to both the space station and the planet, reordered the space station's internal layout to some extent, and created a set of linking screens to join the space station to the planet's surface. (These linking screens form a tribute to Roald Dahl's "Charlie and the Great Glass Elevator", one of my favourite books in my childhood.)
+
+So, this game dates from 1985/86 and the last few days of 1997. I don't like leaving things unfinished, and it was fun to design a few more rooms. I hope you have as much fun playing it as I did designing it.
+
+The loading screen was hacked up very quickly from a variety of elements. The picture frame border and everything surrounding it comes from the Join the Jet-Set! loading screen. The planets are taken from the in-game graphics of Gargoyle Games' Ad Astra. The planet surface at the bottom of the picture comes from Quicksilva's Timegate. The craters on the planet's surface are slightly touched-up versions of one from the loading screen of Ultimate's Lunar Jetman. Finally, the rocket is a touched-up version of the U1 rocket from Ultimate's Jetpac. I didn't have time to draw a proper picture myself, so I hope that this cobbled-together mish-mash will suffice! (It sort of matches the game itself...) The picture was created in Acorn's Paint program (the bitmap editor built into RISC OS machines) and converted into a Spectrum SCREEN$ using Lee Tonks' BMP2Spec program, which I compiled for RISC OS for this very purpose. That gave just a black & white picture, of course, so I inserted the attributes from the Join the Jet-Set! loading screen by editing the TAP file manually, then loaded it into Melbourne Draw and finished off by colouring in the bit inside the picture frame. I was quite pleased with the result, actually...
+
+Guided tour of rooms (in alphabetical order):
+---------------------------------------------
+
+*SPOILER!* If you want to 'preserve the magic' and discover all the rooms yourself, come back and read this section later, after you've spent some time playing the game! If you're stuck in a particular room, though, look it up here; there are playing tips as well as other notes.
+
+'Alien Highway Encounter' - a tribute to Vortex Software's Highway Encounter and Alien Highway. Highway Encounter in particular was one of my favourite Spectrum games of all time, and one of the few that I completed. In this room, jump around the barrels forming the giant Vorton, and collect the flashing Terratrons, whilst avoiding the animated Vortons. (The solid blocks are Vortex Software logos.) Move to the right very quickly upon entry to this screen, or you'll get killed! To collect the top left-most Terratron, you'll need to walk through the head of the giant Vorton from right to left. Watch out for the red aliens at the top.
+
+'Atomic Power Pile' - not a difficult room, but it has a few misleading design features which may fool you the first time you play it.
+
+'Bedpan' - to be found below the bed. Collect the - erm - flashing excrement, whilst avoiding all the other similar material that isn't flashing, and the manic sausage. (Yes, I designed this room in my teens, when schoolboy humour was running rampant. Actually, it's quite a well-designed screen.) The room is made more difficult by the fact that Willy turns into a bouncing smiley face.
+
+'Bottom deck' - this is room 0, where you will return when you press 9 if you have teleportation enabled.
+
+'The Bridge' - this 'Bridge' is both a bridge to jump over and the bridge of the space station, complete with computers and view-screen. Collect the control buttons.
+
+'The Bridge above Nowhere' - when I was very small, I used to like a story called 'The little bridge to Nowhere' in a book at my Grandma's house - and I also liked Nowhere Man in the Yellow Submarine film by The Beatles. Hence the appearance of Nowhere as a place in this game. Note that it looks as though you can jump across the bridge, but it's actually too wide, and you'll have to find another way around to get that other flashing object. Observe the tribute to Star Trek and Blake's 7 tribute in this room, with the combined Enterprise and Liberator graphics flying overhead.
+
+'Captain's Unready Room (Lounge)' - a tribute to the Captain's Ready Room in Star Trek: The Next Generation, complete with fish. A little work is involved with the rope here.
+
+'The Catwalk' - avoid the killer moggies when jumping around, and be careful not to slip; this screen is actually quite easy. Note that both soft and solid blocks look identical in this room (they're both yellow blocks), which allowed me to conceal an exit to a completely hidden room. Go to the centre of the top walkway, and jump up to get to 'The hidden room of many objects!'.
+
+'Computer room' - in Willy's universe, clearly Sinclair continued making computers and the PC didn't take over! Note that the computer is constructed from 5.25" floppy discs. Collect the cassette tape.
+
+'Costa Pan-handle' - the handle attached to Bedpan. The name is actually a play on the name Costa Panayi, one of may all-time favourite Spectrum programmers who wrote utterly superb games such as Highway Encounter and Cyclone, published by Vortex. The flashing object in this room is the Vortex logo, and the monsters are Vortons from Highway Encounter. This is a very tricky screen that requires precise and perfectly-timed jumping, but it is possible.
+
+'Countdown to Lift-off' - the bottom half of a rocket. The counting number graphic is actually taken from the software protection screen (which required you to type in colour numbers from a code-sheet) in the original JSW game.
+
+'Don't fall off' - a very easy screen; just be careful when jumping.
+
+'Earth Exit' - this was originally intended as the 'exit room' from the space station game; a bit of wall would materialise when you went up the ramp, blocking your way until you'd collected all the objects. The TARDIS was, of course, the means of departure rather than the reason you ended up here in the first place. That's why the room's called Earth Exit rather than Earth Entrance! I didn't want to change the name, though.
+
+'East Wing Dormitory' - it's possible to walk under the bed (to get to Bedpan), but only from right to left, not from the other direction. (This is actually a bug in JSW which I exploit in several other rooms.) Jumping up to the roof of this screen returns you to the bottom (to help people who can't work out that you can walk under the bed!). The animated teddy bear is my favourite graphic in the whole game. Collecting the object in this room is like collecting the lone syringe in Sick Bay, but this screen is very much easier!
+
+'The Engine Room' - a rather strange room, featuring two warp cores.
+
+'The Entrance into Nowhere' - it's actually very easy to get past the bottom-left Knid, but it may not be immediately obvious how to do so. Sit to its immediate left, facing it, and just jump vertically upwards. The killer blocks in this room have 'OUCH' written in them, if you were wondering... and there's a concealed exit at the left.
+
+'Even the trees are weird!' - see 'Heyyy! Weeeird!'. 'Even the trees are weird!' was the next line in the commercial. This is an easy room, although it's not instantly obvious how to get at all the flashing oranges.
+
+'Extremely Unpleasant Alien Goo' - this room forms a pair with 'Me Tarzan...'. It involves some quite tricky rope jumping if you're going to collect the objects. As for leaving the room at the right, get as close to the end of the rope as you can without falling into the goo, and leave it to the last possible moment to jump off. This room contains a small tribute to the 'Ludoids' text adventures, published first by 16/48 (the tape magazine) and later by Bug-Byte. The flashing objects are the Ludoid symbol, and the 'tree' structure housing them is the same symbol inverted.
+
+'Food Store' - you'll be a Silly Sausage if you rush headlong into this room!
+
+'Frankie Comes To Scunthorpe' - Mike Harding, a comedian who was prominent in the 1980s, used to make a lot of fun of Scunthorpe. This screen is a fun-poking tribute to Frankie Goes To Hollywood, a Crash Smash from Ocean which I bought and absolutely loathed. I gave (or maybe sold) the game to Simeon Hartland, who really liked it, so that was OK. The flashing object says "POP". This is the upper half of a two-screen puzzle formed with Yes Of Nosod.
+
+'Geoffrey's Tube' - a tribute both to Star Trek (Jeffreys Tubes are a feature of the USS Enterprise) and the London Underground (Tube trains)... and my middle name is Geoffrey (don't laugh!).
+
+'Half-way House' - half-way to what, I'm not quite sure at this stage! Quite an easy room, but be careful not to miss any of the tiny objects, as it's a long way round to get back here again! The room forms a pair with System Variables.
+
+'Heyyy! Weeeird!' - a very odd screen indeed. The name was taken from a catch-phrase of a TV advert for something or other (I think it was Cadbury's Curly-Wurly chocolate bar, but it may have been Wrangler Jeans or something else). It's very easy to get completely lost in all the blue stuff, but there /is/ an exit to the left. To get to it, just drop down to the third 'shelf' (so that Willy is roughly in the vertical centre of the screen) and walk in a straight line to the left.
+
+'The hidden room of many objects!' - the only completely hidden room in the game. It's essential that you visit it, because it contains about 20% of the objects in the entire game! Jump around the letters spelling TREE HOUSE and collect all the coconuts.
+
+'In the foggy region above stairs' - go and collect the dust from alongside the mini-snowman, avoiding the right-hand pudding-bird. The screen may initially appear impossible, but you can exit through the top of the snowman by making use of the 'walk through solid blocks from the right' bug. Watch out for the conveyor belt when leaving, or you'll have to go round again! (You need to jump onto the stairs from above to leave.)
+
+'Into the Inky Black Void' - it's cold in space. Jump among the stars to collect the icicles, and continue into Star Struck, another similar screen.
+
+'Keep in under your hat!' - another rather boring 'link' screen, accessed from 'Sh! Secret room! Mum's the word!'. The 'joke' (if you can call it that...) in this room is that the single guardian is a policeman's helmet, positioned over the 'it' in the room name... hence "IT" is being kept under the 'hat'. Doh!
+
+'Leap of Faith' - this was originally called 'Realm of the Pudding-birds', but I created a new room for the pudding-birds and gave this one a new title that reflects its contents better. Although it's apparently largely empty, the room actually contains both an invisible conveyor belt and an invisible staircase. You just have to venture into mid-air to find them (walk for the ramp; leap for the conveyor). Think of Indiana Jones and the Last Crusade...
+
+'Liquefaction of Julia's Clothes' - the odd title is actually a line from Shakespeare. Julia's skirts, jumpers and stockings are strewn all around this room, and you must collect her jumpers for washing. The emphasis really is on jumping; this room requires both perfect timing and perfect positioning (made worse by the fact that the skirts are actually conveyors), and altogether it's one of the most difficult rooms in the game.
+
+'Living Quarters' - the crew's recreation area. Collect the bottles and glasses. The get the left-most one, you'll have to enter the room by jumping up the stair blocks from the room to the left (Yes Of Nosod) rather than walking up the staircase in the usual way.
+
+'Me Tarzan...' - you arrive here by jumping off the rope from 'Extremely Unpleasant Alien Goo'. Collect the flashing monkey. My idea was to have a pair of rope-rooms, where the only way of getting from one to the other was by swinging from rope to rope, like Tarzan. Your performance on the ropes in both of these rooms is critical! If you've timed it right in 'Extremely Unpleasant Alien Goo', you should be caught by the rope in 'Me Tarzan...', but if you've got it wrong you'll miss the second rope, resulting in 'infinite death' (one of the few places in the game where this can occur - and it's very near the end, too!). If you've enabled the WRITETYPER teleporter, though, you might be able to rescue yourself. The final leap off the rope in 'Me Tarzan...' is also extremely difficult; and when you leave the room to the right (and arrive back in 'Planetfall: Return to Endor') be careful to stop straight away, or you'll fall off the ledge onto a man-eating plant.
+
+'Middle deck' - the flashing B7 is a tribute to my favourite British sci-fi programme (and my favourite sci-fi programme of all during the 1980s), Blake's 7.
+
+'Moon Craters' - be careful not to fall down the crater, unless you /really/ know what you're doing!
+
+'Nose Cone' - the top of the two-screen rocket. Note the concealed object. This is also the 'end of game' room in which you must activate the transporter. The materialising wall ceases to appear once you've got all 255 objects. Just walk up to the green control panel by the computers to complete the game.
+
+'Nowhere' - a tribute to The Beatles' film, Yellow Submarine, which I enjoyed when I was very small. My favourite character in the film was Nowhere Man, so here he is.
+
+'Observation Dome' - a nice, symmetrical screen which is quite easy. Collect the telescopes. The magenta bouncing ball guardian at the bottom left was actually going to be the central character in the game which I started to design with Simeon Hartland!
+
+'Photon torpedoes' - another Star Trek reference.
+
+'Planetfall: Return to Endor' - walk through clouds, avoid the wall of arrows and collect the hats. Willy has encountered inhabitants of this planet before, in Manic Miner (Endorian Forest).
+
+'Raymond Briggs fans everywhere..' - a simple tribute to Raymond Briggs' The Snowman.
+
+'Realm of the Pudding-birds' - the all-new room devoted to the pudding-birds (see Leap of Faith). This is again a moderately difficult room with some tricky jumps which require good timing. Collect the Christmas puddings (I designed this on 26th December!). The pudding-birds are so named because they're fat versions of the birds in JSW (well, the horizontal ones are based on the JSW bird graphics; the vertical ones are new).
+
+'See-link' - a completely pointless room, I'm afraid. I'd run completely out of ideas when I created this one all those years ago! I remember it being one of the very last screens that I designed, and I was really bored when I did it.
+
+'Sh! Secret room! Mum's the word!' - I was going to have a floating 'Mum' word in this room, but decided it wouldn't be very funny, and I was running out of guardian graphics anyway. There's nothing to do in this room; it's just a means of getting to the other side of The Bridge above Nowhere.
+
+'Shuttle' - the front half of the shuttle, forming a pair with the back half in 'Shuttle bay'.
+
+'Shuttle bay' - featuring the rear end of a shuttle, this is quite a good room which requires some careful jumping. Look out when you enter it from the ground level! Incidentally, I was particularly pleased with the corkscrew graphic.
+
+'Shuttle bay service tunnel' - The flashing B5 is the game's one and only tribute to Babylon 5, my all-time favourite sci-fi programme.
+
+'Sick Bay' - this looks quite easy, but in fact it contains one of the most difficult jumps in the entire game. It /is/ possible to get that lone syringe, but your timing and positioning has to be perfect.
+
+'Sky Hooks' - this is the first screen on the way down to the planet, and the name refers to the means by which the Great Glass Elevator (in 'Charlie and the Chocolate Factory' and 'Charlie and the Great Glass Elevator' by Roald Dahl) is suspended in mid-air. This is actually a very difficult screen, and requires really expert handling of ropes. It's possible to collect all the objects without dying, but hard to manage!
+
+'Solar Cells' - an easy room, but note that you have to walk onto an invisible conveyor belt (which takes you out into space) in order to collect the flashing cells.
+
+'...The Space Station...' - is one of two rooms designed by Paul Rhodes and slightly modified by me.
+
+'The Star-spangled Stairway' - named after the Star-spangled Banner. This is the final screen in the game (that's the transporter at the bottom-right), but it was originally the start screen in the game I created with Simeon Hartland.
+
+'Star Struck' - Willy is out in deep space now, with even more stars surrounding him. Collect the flashing star and return to the space station. This screen is very similar to Into the Inky Black Void (which you have to pass through to reach it).
+
+'Sterilisation Sector' - a decontamination room. If you play the game a lot, you may even learn to remember about the arrow that shoots you just after you enter the room from the left!
+
+'Suit up! Shooting Stars...' - is one of two rooms designed by Paul Rhodes and slightly modified by me. I also gave it a title, as Paul had left the room unnamed. Going down from here begins your descent to the planet's surface.
+
+'System Variables' - the right-hand half of a pair with Half-way House. Collect the flashing chip. I think I was originally planning to have several rooms based on the insides of a computer, but that idea never got any further, and this is all that's left.
+
+'Top of the Stairs' - be sure not to miss the concealed object, which will require some precision-jumping to collect.
+
+'Transporter 1' - the space station's internal transporter system; links to Transporter 2 on the left and Food Store on the right.
+
+'Transporter 2' - the space station's internal transporter system; links to East Wing Dormitory on the left and Transporter 3 on the right.
+
+'Transporter 3' - the space station's internal transporter system; links to Liquefaction of Julia's Clothes on the left and Transporter 1 on the right.
+
+'Unexpected Happenings!' - the unexpected happenings are the appearance of the two UFOs that fly by at the top of the screen, and the fact that you slide uncontrollably down the stairs. This room marks your first encounter with Darth Vader (and quite hazardous it is, too!).
+
+'Vermicious Knids!' - the evil Knids were space monsters in Roald Dahl's 'Charlie and the Great Glass Elevator', and feature here as an equally hostile foe for Willy. Collect the Wonka W letters, while avoiding the large and small Knids. Again, good rope handling is required in this room.
+
+'Willy & the Great Glass Elevator' - the tribute to Roald Dahl's book is obvious here. Collect the elevator's push-buttons.
+
+'Worse Things Happen In Space' - the name of this room is a tribute to Worse Things Happen At Sea, Silversoft's final game. This is room 63, and uses the same undefined/corrupt graphics to create a 'disaster/horror' theme for the room. In other ways, yes; it's /meant/ to look garish! Whatever you do, be careful when collecting the object from the bottom of the staircase! Don't get caught on the conveyor belt, or you'll die.
+
+'Yes Of Nosod' - a tribute to Nodes of Yesod by Odin, one of my favourite games at the time. The lower half of a nice vertical two-screen puzzle.
+
+'Zen & the Art of Oric-exploding!' - This room is a tribute to the TV programme, Blake's 7, and to the Tangerine Oric-1, one of the poorest (and least successful) home computers to appear in the 1980s. In Blake's 7, the crew's first ship was called Liberator (the most gorgeous spaceship I've ever seen in any programme/film!), and its on-board computer was called Zen. The room is designed to look like Zen; collect his flashing lights. The other computer on Blake's 7 was called Orac, and it was widely speculated that the Oric-1 was named after Orac (though Tangerine claimed that this was not the case). One of the Oric's few distinguishing features was the fact that it had a set of four built-in sound effects, produced by issuing commands. One of the sound effect commands was EXPLODE; hence the title of this room. (I think that the others were PING, ZAP and BEEP.)
+
+Distribution terms:
+-------------------
+
+I release this game as freeware, since its whole purpose is to be played and enjoyed, but I retain copyright on those parts which were created by me. Anyone wishing to make use of elements of this game in other ways (such as extracting some of the graphics, room designs or whatever) may do so as long as they attempt to ask my permission first. I will almost certainly grant permission; I would just like to know what's happening to my game. Copies may be distributed freely in an unmodified form (if you wish to make any modifications, please ask me first). If the game is to be distributed on a medium other than an Internet FTP site or Web page (e.g. a CD-ROM) then I would appreciate being notified of the fact, and if a copy of the relevant publication could be arranged, then that would be even more appreciated. The bottom line, though, is that this is a free game. Do whatever you like with it; but, above all, enjoy it!
+
+Richard G. Hallas
+31 Skelton Crescent
+Crosland Moor
+Huddersfield
+West Yorkshire
+HD4 5PN
+Tel./Fax 01484 460280
+Email Richard@hallas.demon.co.uk

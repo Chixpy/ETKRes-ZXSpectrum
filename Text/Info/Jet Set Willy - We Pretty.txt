@@ -1,0 +1,180 @@
+1.WE PRETTY (C) 1999 BROADSOFT
+===========
+
+For the Sinclair ZX Spectrum
+
+Written by Andrew Broad
+broada@cs.man.ac.uk
+http://www.cs.man.ac.uk/~broada/
+
+
+The Plot (in a nutshell)
+--------
+
+You have been sucked through a black hole in the 21st century, which has taken you back to the 17th century. As a result of your going back in time, the timeline has bifurcated, leaving you trapped in a parallel universe.
+
+If that wasn't bad enough, you have a doppelganger in this strange new world, the art-murderess Kari Krisnikova! Not only is she at large, but you are the spitting image of her (except that you are white and she is cyan), so everyone is going to have it in for you!
+
+You must explore the surreal world in which you find yourself, and collect all the flashing objects in order to turn the forces struggling for dominance entirely in your favour and defeat your evil alter-ego. You can then attempt to return back through the black hole to the 21st century, at the risk of being crushed to a point!
+
+
+Background Information
+----------------------
+
+See the file DIARY.TXT if you're interested in the storyline that underlies this game. It's written as a fragmentary, non-linear series of diary entries, jumping backwards and forwards between the 17th and 21st centuries. It's not really essential that you understand it completely, as you can always play the rooms autonomously, just as Jet Set Willy rooms!
+
+My inspiration for We Pretty comes from many diverse sources, ranging from personal experiences, dreams, television, computers, tennis, and music - particularly the works of David Bowie. It was his album 1.OUTSIDE that gave me the idea of writing it as a concept game, based on an underlying plot (documented in a diary) and characters, as well as influencing the theme (namely, the ideas of art as murder and utter destruction as beauty). I have taken my life's experiences and refracted them into surreality. I have let my imagination run wild - We Pretty is deliberately as surreal and esoteric as I can make it!
+
+
+The Game
+--------
+
+We Pretty is basically a redefinition of the rooms, items, guardians and graphics in Matthew Smith's classic Jet Set Willy, which I acknowledge as being the copyright of Software Projects (1984). Unlike all previous games based on the Manic Miner and Jet Set Willy game engines, however, We Pretty is not based on the world of Willy, but has its own plot and characters.
+
+I developed the game on a Spectrum +2, using my own Jet Set Willy Construction Kit (which has yet to be released). We Pretty has been in the pipeline since 1997, but the bulk of the work was carried out in 1999.
+
+We Pretty is written for advanced JSW players, and the rooms are intended to be outstandingly difficult, as a challenge to the experts. It presupposes that you can play Jet Set Willy - the controls are exactly the same, but the gameplay is much tougher, requiring both manual dexterity (a need for pixel-perfect and time-frame-perfect accuracy of movement) and lateral thinking (We Pretty liberally exploits all the quirky features in the game engine - you need to know all the tricks if you want to get at all far!). I have tried to be fair, though, by keeping multiple-death scenarios to a minimum. You shouldn't encounter infinite death unless you do something really stupid (such as jumping into an unfamiliar room when you should be walking into it).
+
+I have thoroughly play-tested the final version, and it /is/ possible to complete - in principle, you don't even have to sacrifice a life to collect all the items!
+
+A blow-by-blow description of each room is not included here - some of the meanings can be inferred from the diary, the rest of it is open to personal interpretation!
+
+
+Acknowledgements
+----------------
+
+* Matthew Smith, for writing the original Jet Set Willy.
+
+* Richard Hallas, for transferring the game from audio cassette to emulator format so that I could release it on the Internet without a lot of typing!
+
+* David Bowie, for being the biggest single source of inspiration for We Pretty. There are many others, but they are too many to enumerate here, and I also feel that to do so would detract from the audience's personal interpretations of We Pretty.
+
+* The in-game music is based on the riff from the Adam F Mix of David Bowie's "Telling Lies". The title-screen music is a super-long combined melody of "Brilliant Adventure" from the latest David Bowie album, 'hours...', and the Adam F Mix of "Telling Lies". Richard Hallas's document "A Miner Triad" (hosted on my website at http://www.cs.man.ac.uk/~broada/spectrum/willy/music.html) was an invaluable aid to redefining the music. However, I deviate from his advice by /not/ having 255 as the last note in the in-game tune (in order to terminate the super-long combined melody), because (a) bottom C is the wrong note to have at that point in the in-game tune, and (b) I actually like the way it plays the data following the tune until it hits a 255, because of my interest in random sound.
+
+* I used Leonardo (Thorn EMI Computer Software, 1984), a Spectrum program written by Mark Stoll, Clive Thomas and Peter Chandler, to draw the loading screen.
+
+
+Novel Contributions
+-------------------
+
+The game has several technical features which have not, to my knowledge, been seen in any previous Manic Miner or Jet Set Willy game before:
+
+* I am the first person other than Matthew Smith to release both a Manic Miner game and a Jet Set Willy game for the Spectrum!
+
+* We Pretty is the first JSW game to be based on the fall-without-dying 'cheat' (POKE 36477,1).
+
+* First JSW game to have 256 items (before that, the most was 255).
+
+* First JSW game to have a super-long combined melody for the title-screen music. Apologies to Richard Hallas for beating him to it!
+
+* First MM/JSW game to feature 'off' and 'sticky' conveyors.
+
+* First JSW game to have non-swinging ropes. This is achieved by having two ropes in a room - second and subsequent ropes are not animated. In fact, am I right in thinking that We Pretty is the first JSW game even to edit the length of ropes?
+
+* First MM/JSW game to have vertical guardians which move faster than eight pixels per time-frame, and to create the illusion of sixteen guardian instances in a room!
+
+* First MM/JSW game to have horizontal guardians which straddle vertical character boundaries - the vertical position of a horizontal guardian can be specified in pixels, just like that of a vertical guardian!
+
+* First JSW game to feature platforms which make the player skip - this is achieved by giving ramp the same colour attribute as background. Apologies to Philip Bee for beating him to it!
+
+* First JSW game to deliberately exploit jumping through overhead wall blocks from right to left (c.f. "Throat-Wobbler Mangrove" in Willy the Hacker by Geoff Eddy).
+
+* First MM/JSW game to deliberately exploit jumping over static nasties and landing inside horizontally adjacent platforms (c.f. "Eugene's Lair" in the original Manic Miner or in Richard Hallas's Join The Jet-Set!, "Mules Pong" in Join The Jet-Set!, and "The Hotel Gardens" in Willy's Holiday by Adam Britton).
+
+* First JSW game to deliberately exploit hiding from arrows by standing in non-background blocks (c.f. "Nights in White Satin" by Iain Eddy in J4). This works because arrows only collide with objects that have white ink (although other objects can collide with arrows if they are drawn after an arrow).
+
+* First JSW game in which the player is actually thin enough to walk through arrows (on the right time frame). It is not sufficient for an arrow to collide with white ink - it also has to hit some pixels!
+
+* First JSW game to feature an 'invalid' arrow (which straddles vertical character boundaries). Apologies to Philip Bee for beating him to it! However, my invalid arrow (perhaps I'll have to reconsider what should be considered valid!) has the special effect of wiping out a row when it fires, whereas the ones Philip Bee uses in JSW (Again) will have different effects.
+
+* First MM/JSW game in which white-ink guardians collect items for you!
+
+* First JSW game featuring static nasties in columns 0 or 31 which, when entering the room from the left or right, you can avoid by moving immediately (because at the start of a room, there's one time frame for movement before the screen is displayed and collision is detected). Apologies to Philip Bee for beating him to it!
+
+* First JSW game in which you have to leap a gap of six characters when entering a room from the left or right.
+
+* First JSW game in which you can make a long jump by jumping into Room 35 from the left, having collected all the items.
+
+I have not had time to check these as thoroughly as I would like, so please inform me if any of the contributions listed above are not novel, or if I have omitted to mention any that are.
+
+
+Technical Notes
+---------------
+
+Here are a few technical notes beyond the standard Jet Set Willy room format that is doing the rounds on the Internet (see, for example, the technical specification page at Arsen Torbarina's JSW Ultimate Fan Page [http://members.xoom.com/jetsetwilly/tech.html]):
+
+* Addresses 33876-33907 hold the message that is printed in yellow ink on the title screen, during the playing of the title-screen music.
+
+* Addresses 33908-34131 hold the scrolly message that is displayed after the playing of the title screen music. The last character is not printed.
+
+* Addresses 34132-34163 hold the text that is displayed on row 19 during play (obviously parts of this get overwritten as items are collected and the clock is incremented).
+
+* Addresses 34164-34171 hold the Game Over message (the first four characters are printed to the left of the foot, the other four to the right).
+
+* Address 36011 is the colour attribute of the foot and of the player on the Game Over screen (the operand of an OR n instruction).
+
+* Address 36018 is the colour attribute of the 'barrel' on the Game Over screen (the operand of an OR n instruction).
+
+* Addresses 38250 and 38251 are the colour attributes of the left and right characters of 'Karia's upper body in Room 35 (the 16-bit operand of an LD HL,nn instruction).
+
+* Addresses 38256 and 38257 are the colour attributes of the left and right characters of 'Karia's lower body in Room 35 (the 16-bit operand of an LD HL,nn instruction).
+
+* Addresses 38335 and 38336 are the colour attributes of the 'toilet' in Room 33 (the 16-bit operand of an LD HL,nn instruction).
+
+I would like to thank John Elliott for his disassembly of the JSW game engine [http://www.seasip.demon.co.uk/Jsw/jsw.mac], which was an invaluable aid to me in working out the above five points.
+
+* Addresses 38912-39423 hold the colour attributes for rows 0-15 of the title screen.
+
+* Addresses 39424-39679 hold the colour attributes for rows 16-23 of the playing screen (i.e. where the room name, number of items collected and remaining lives appear).
+
+* Addresses 33841-33872 hold the pixel patterns, in standard 8x8 graphics format, of four block types that appear on the title screen. Thanks to Philip Bee for this information especially, and also for the previous two points.
+
+
+Internet
+--------
+
+I currently have a website at http://www.cs.man.ac.uk/~broada/ (though it may disappear in the future if I lose access to the Internet). Some relevant pages within this website are:
+
+* http://www.cs.man.ac.uk/~broada/spectrum/
+Top-level index of my Spectrum pages.
+
+* http://www.cs.man.ac.uk/~broada/spectrum/willy/
+My Manic Miner/Jet Set Willy pages, including a list of Spectrum MM/JSW games (which I try to maintain as complete and up-to-date as possible - please inform me of any I have missed), my Manic Miner Room Format, Richard Hallas's music document, and links to other MM/JSW websites. Today I upload a list of some of the quirky features in MM/JSW which I use in We Pretty!
+
+* http://www.cs.man.ac.uk/~broada/spectrum/download/
+My download page. Currently contains my other games (Manic Miner 4 and Manic Miner: The Buddha of Suburbia), and my Manic Miner Screen Editor. Also has previews of forthcoming software (mostly MM/JSW games), including projected release dates (which may change over time according to my progress). Be sure to check back on 5th January 2000 for Manic Miner: The Hobbit and Jet Set Willy: The Lord of the Rings!
+
+* http://www.cs.man.ac.uk/~broada/spectrum/download/we_pretty.zip
+The original source of We Pretty!
+
+I recommend the comp.sys.sinclair USENET newsgroup as a place for discussing MM/JSW and other Spectrum-related topics. It's worth at least browsing through the headers each day. I announce my releases on comp.sys.sinclair (though it's better to check my web pages periodically for MM/JSW news). The newsgroup is archived at http://www.deja.com/ for those who don't have access to a news server - in fact, it's worth surfing there even if you do, as not all news servers receive all newsgroup postings!
+
+I very recently set up a Yahoo! club for Manic Miner and Jet Set Willy. Its URL is:-
+http://clubs.yahoo.com/clubs/manicminerandjetsetwilly
+It includes a message board for discussing MM/JSW, picture galleries which members can upload to, a Java chat room, a links page and a calendar. Anyone can visit the club and look around its public areas, but for full privileges you have to join the club as a member. This prerequires signing up for a Yahoo! account, which you can do, free of charge, over the web. The club will become what we, the MM/JSW community, collectively make it. The club needs members, so please join!
+
+
+Disclaimer
+----------
+
+I cannot accept responsibility for any mental damage caused either by playing the game or by reading the diary. I cannot accept responsibility for any real-world murders carried out by other people inspired by the fictitious murders described in the diary.
+
+The views expressed in this work are my own, and should not be construed as representing the views of, or having the approval of, my Internet service providers at the University of Manchester.
+
+
+Copyright Notice
+----------------
+
+We Pretty is, of course, my copyright, but I don't mind you putting it on your own website or redistributing it otherwise, provided that no money is charged, and that you acknowledge that it is the copyright of Broadsoft (1999). This document should be included with all copies of the game. Modifications are discouraged but not forbidden, and you should state specifically what you have modified.
+
+I don't mind you reusing some of the rooms, graphics etc. in your own games, or converting the game to another computer (e.g. for JSW-PC). However, the accompanying documentation must state that the reused material is the copyright of Broadsoft - failure to do so may be construed as plagiarism. I would like the documentation to be quite specific about this, e.g. "Graphic X in Room Y was taken from We Pretty", or whatever.
+
+Please let me know if you do rerelease We Pretty or reuse bits of it - it's not that I'd be likely to object, I'd just be very interested to know what follows from my releasing it!
+
+If by any chance you're thinking of writing a book, movie (David Lynch, perhaps?), TV series, music album or other adaptation of We Pretty, please email me to discuss it, as I am the only one to judge whether your ideas are faithful to the plot!
+
+
+Version History
+---------------
+
+23rd December 1999: Initial release of We Pretty on the Internet.

@@ -1,0 +1,31 @@
+HYPERTRON INSTRUCTIONS
+
+by B. Jones 1987.
+
+  Three important data retrieval robots belonging
+to an ancient interplanetary droid colony must be 
+resued from the old mine workings on planet
+Zennon.  You must pilot your Hypertron and
+descend into the perilous planet surface, risking
+your own life to save them.
+
+Use the following keys to control the Hypertron:-
+
+q = Left
+w = Right
+Space = Activate Boosters.
+
+Features include:-
+
+Alien Lifeforms
+Underground Caverns
+Asteroid Belts
+Explosion Detectors
+Several multi-screen caverns to explore
+
+
+                 Good Luck !
+
+
+To load Spectrum version
+type LOAD"" and press ENTER

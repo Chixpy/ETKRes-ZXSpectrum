@@ -1,0 +1,179 @@
+Adban De Corcy presents: "Bulgarian Requiem", for the Sinclair Spectrum.
+
+Thanks:
+
+To Matthew Smith, wherever you may be, writer and programmer of MM and JSW.
+To Richard Hallas, for his continuous help and tips on technical problems.
+To Andrew Broad, for all his support and patience.
+To all the people in the "Jet Set Willy / Manic Miner" Yahoo Club.
+To Paul Rhodes, for his incredibly useful "Jet Set Willy Editor".
+To the Development Crew of the ZX32 Emulator, the tool I have mainly used to design this game.
+To all those that enjoyed "Willy's Afterlife".
+And all those of you, you know who you are.
+
+Warning: This game contains what could be called "depiction of perverse sexual activity" in one of the rooms, as 
+there's a sprite that look like "a man raping a woman using a whip to submit her", so I suppose I should warn you.  
+This scene, I suppose, is NR-18. You have been warned!
+
+The Plot: It seems that Willy finished his tour around the Afterlife, recovered all God's lost relics, and was resurrected 
+as a reward for his good work. So, all was fine in Willy's life for a little while when, just two months after his 
+resurrection, an odd letter arrived at his front door:
+
+"To my dear nephew Willy:
+I have been recently informed of our ties of kinship and, it would be a pleasure to invite you and your servants to a 
+brief holiday at my castle, here in Bulgaria, to enforce those blood ties that should have never got snapped...
+
+Yours sincerely, your dearest uncle: Jetza Setov Willovsky, XVIII Count of Willovsky, Bulgaria."
+
+Bulgaria looked like an OK country, so Willy, Maria and André took their luggage, and got a flight to meet Willy's 
+enigmatic uncle. But as soon as they arrived at Count Willovsky's castle, odd things began to happen..." 
+
+Playing the Game:
+ 
+Willy begins the game in "Count Willovsky's Pipe Organ", after his uncle has finished telling him his plans to turn him 
+into a vampire. There are not many options for our hero, aren't there? "A Bulgarian Requiem" has 62 rooms and 220 
+items; you are going to visit the Willovsky Castle, and some other close places.
+
+Characters 
+And here is our hero again, Willy, as the main character in a Gothic tour around a Bulgarian castle.
+Maria and André don't appear in the game; they both run away as soon as the furniture began to move.
+
+The villains:
+Count Jetza Setov Willovsky: He's an ancient vampire, and he wants to incorporate Willy to the undead Willovsky 
+dynasty, and add the mansion to his possessions. He tells Willy his plans, and then lets him free to ponder his fate and 
+wander the castle, unable to escape.
+Marina Lezcanova: Marina is the castle Housemistress, the Bulgarian reflection of Maria. She is as wicked as her alter 
+ego, and she protects the gas can that Willy needs to fuel his car and run away from this horrid place.
+Lady Anathema Willovskova: The first vampire wife of Count Jetza. Anathema is a necrophagus (she eats human 
+corpses), and Jetza hates her. Andrei is her pawn, so the kitchens are near her bedroom.
+Lady Belladonna Willovskova: Belladonna is the only one in the castle that doesn't hate Willy; she's quite decent for 
+vampire standards. She is Jetza's true love, and she bore him a son before becoming undead: Matheos Willovsky, heir 
+of the castle.
+Lady Castratrix Willovskova: Lady Castatrix' marriage was a matter of politics, not love. She is absolutely mad (she's 
+obsessed with cutting down penises and feeding them to her carnivorous plants), so Jetza moved her bedroom away 
+from him.
+Lady Dominatrix Willovskova: Lady Dominatrix was quite in love with Count Jetza. But he betrayed her, and told her 
+that their marriage had been only a matter of political convenience. So, in spite, she hates all the inhabitants of the 
+castle, except the sex slaves she keeps for perverse entertainment (whom she despises).
+Lady Evilia Willovskova: Lady Evilia is the youngest of the wives, but she is also the most dangerous. She hates Willy 
+with a passion, and tried by every mean on Earth to destroy him during his first days in the castle, so Count Jetza has 
+forbidden her to leave her bedroom, and turned it into a cell.
+Matheos Willovsky: He is Count Jetza's only heir, and the son of Belladonna. The other wives hate him, but as he is 
+stronger than them, they cannot do anything. He despises Willy, and doesn't want him to become a vampire.
+Andrei Lezcanov: Marina's brother, Andrei is the castle's cook, a master of vampiric and necrotic gastronomy. His rule 
+over the kitchens is absolute.
+Also, there's a full cast of castle guards, carnivorous plants, bats, etc…
+
+The game music:
+Both game music pieces are of my own design; they are both quite simple, but useful for the mood of the game: the 
+intro music is called "Blood Sonata", and the game music is simply a pseudo-Bulgarian church song.  
+
+Room List (In alphabetical order):
+-	No spoilers in this list, just comments and notes about the rooms and their names. Go ahead, play the game, and 
+then return here...
+1.	A Bulgarian Requiem for Willy: All the Willovsky are here, attending to a "mass" in memoriam of Willy…  
+2.	A Family Meeting: All the Willovsky are attending a meeting, to take a decision about Willy. Will you be able 
+to evade their personal "touch"?
+3.	Abattoir & Charnel House: "Abattoir", old-fashion (that is, my style) word for "slaughterhouse". A charnel 
+house, a place where corpses were buried in the Middle Ages; in more modern usage, a place near a 
+slaughterhouse used to throw away the skin, bones and blood of the slaughtered animals. 
+4.	Above the Western Courtyard: Jumping over the clouds is a good idea?
+5.	Ancient Catacombs under the Road: What strong foundations do these ancient roads have!
+6.	Andrei's Ghoulish Kitchen: Here is the place where Andrei cooks his unhealthy meals for Lady Anathema and 
+the other inhabitants of the Castle. No, the items are not t-shirts; don't ask. He throws the remains into the 
+stream to the right.
+7.	Atlantean Warriors unchained: Up the Main Tower, Willy finds these hostile statues of Atlantean warriors.
+8.	Castle Willovsky's Back Gate:  The gas can Willy needs to escape from this hellish place on his car is here. 
+Sadly, Marina Lezcanova, the housemistress, protects it. Matheos is also here, to make things more difficult.
+9.	Castle Willovsky's Main Gate: a soldier blocks the main gate of the castle. Is there no hope for our hero?
+10.	Cold Chimneys, Hot Chimneys: It seems that the heating system is not fully operative in Willovsky Castle. 
+Which chimneys are hot, and which ones are cold?
+11.	Count Willovsky Worries about Willy: And is this the traditional Bulgarian hospitality?
+12.	Count Willovsky's Private Chapel: Is this a foreboding of things to come?
+13.	Count Willovsky's Pipe Organ: That guy in green is Willy's uncle, Count Willovsky. And that is his mighty 
+pipe organ.
+14.	Crypts of the Unknown Ones: Every castle needs some tombs of unknown heroes… or fiends.
+15.	Danger: Candelabra on Rampage! : It looks like Count Jetza's furniture cannot stand still…
+16.	Eastern Courtyard: Beware the suits of walking armour!
+17.	Feralia Genitalia/Sopor Aeternus: This room is named after the title of a song from one my favourite bands, 
+"Sopor Aeternus and the Ensemble of Shadows". The lyrics begin with the words: "I found myself in a room, 
+which resembled a bath. I saw my body reflected […]". Of course, these words had to be paid homage, sooner 
+or later, in a JSW game. You can take a look at Sopor Aeternus' work in his official site: 
+http://www.ebony-orchid.net/shadowsphere/
+18.	Hall of the Iron Maidens: "Iron Maiden", a torture device used in the Middle Ages; a kind of coffin with 
+spikes in the inner side, set to puncture non-vital organs only.
+19.	Lady Anathema's Bedroom: The bedroom of the first vampire wife of Count Jetza, Lady Anathema 
+Willovskova. The count moved her bedroom to this floor due to this lady's eating habits, which are quite… 
+eccentric, to say the least.
+20.	Lady Belladonna's Private Gazebo: Lady Belladonna comes to this room from time to time to take a look at 
+the Willovsky lands.
+21.	Lady Belladonna's Bedroom: The bedroom of the second vampire wife of Count Willovsky, Lady Belladonna 
+Willovskova, addict to poisons of rare vintage. Matheos, Count Jetza's heir, is her only son.
+22.	Lady Castratrix' Bedroom: Count Jetza moved Lady Castratrix far for him, just in case… Is it necessary that I 
+explain Lady Castratrix' hobbies?
+23.	Lady Castratrix' Garden: Lady Castratrix likes useful plants and flowers. Useful for her hobbies, that is.
+24.	Lady Dominatrix' "Pleasure" Room: This is the room Lady Dominatrix uses for her infamous orgies…
+25.	Lady Dominatrix' Bedroom: Quite close to the "Pleasure" room, of course.
+26.	Lady Dominatrix' Private Library: Lady Dominatrix is not much of a reader, so this room is infested with rats.
+27.	Lady Evilia's Access Corridor: her husband forbids Lady Evilia to leave her bedroom (which is isolated from 
+the rest of the castle). This is the only path…
+28.	Lady Evilia's Bedroom & Cell: Lady Evilia sits in her cell, unable to move around the castle without her 
+husband's permission.
+29.	Lord Willovsky's Bedroom: The bedroom of Count Jetza Setov Willovsky, quite close to his pipe organ.
+30.	Main Staircase: A dangerously quiet room.
+31.	Matheos' Private Observatory: Matheos uses this room to gaze at the stars.
+32.	Matheos's Bedroom: The bedroom of Matheos. Any questions?
+33.	Necrophagia / The Lady's Feast: "Necrophagia", Greek for "eating the dead". This habit was the reason Count 
+Jetza moved Lady Anathema far away from him. He's a vampire, yes, but even the undead find some things 
+disgusting… The relics, of course, are skulls in plates.
+34.	Quarters of the Castle Guard: The headquarters of the soldiers of Count Jetza.
+35.	Second Landing / Main Staircase: Any questions?
+36.	The Armoury: The coat of arms of Count Jetza, when he was still a defender of the faith, was a cross in an 
+empty field.
+37.	The Bottom of the Well: Uh… that's it, the bottom of the well.
+38.	The Eastern Ramparts: The Eastern Ramparts of Castle Willovsky.
+39.	The Entertainments of the Damned: Jetza Setov and Lady Belladonna dance to the tune of a Bulgarian song.
+40.	The Freezing Conservatory: Are those things ice gargoyles?
+41.	The Funeral Chapel: The main chapel of the castle, located in the basements as a protection against the rays of 
+the sun.
+42.	The Guardian Gargoyles: Gargoyles were thought in the middle Ages to be guardians of the churches and 
+buildings they were built on. Here it seems that they are guarding something from Willy...
+43.	The Main Hall: Are you ready to confront Castle Willovsky?
+44.	The Obstructed Well: A classical medieval trick to force the peasants to pay the lord for the water.
+45.	The Statuary Gallery: Admire the statues of Jetza Willovsky, his wife Belladonna, and Matheos Willovsky.
+46.	The Tower watches for Itself! : Willy discovers horrified that the main tower of Willovsky Castle is alive, and 
+that its eyes are looking at him in a menacing way!
+47.	The Willovsky Family Vault: The place where Count Jetza keeps his ill-gotten riches.
+48.	The Willovsky Village Town square: A church, a little house, the village priest and a farmer. Don't you love 
+rural life? 
+49.	Third Landing / Main Staircase: The Main Staircase only lets you full access to the first three floors of Castle 
+Willovsky. Don't linger here too long!
+50.	Trophies on Display: This is the room where Count Willovsky displays the heads of the animals he hunts…
+51.	Under the Bulgarian Moon: Out in the roof of the castle, under the moonlight… 
+52.	Under the sign of Sagittarius: What has happened to Willy? What an odd change, it must be something in the 
+air!
+53.	Under the Willovsky Bridge: It seems that the old moat has some leaks.
+54.	Well into the Well: An old and infamous word play. 
+55.	Western Courtyard: Count Jetza uses some radical methods to control crime.
+56.	What a strange bunch of cooks! : Andrei, master of necrotic cooking, is here with a bunch of friends.
+57.	What are these coffins for? : Willy wonders what business has his uncle with so many coffins…
+58.	Willy's Bedroom (Guest Bedroom): This is the bedroom Count Jetza Setov Willovsky assigned Willy the day 
+of his arrival.
+59.	Ye Olde Willovsky Bridge: Nobody has dared enter Castle Willovsky since many years ago.
+60.	Ye Olde Willovsky Forest: Willy left his car in this forest. Is it still there to run away? 
+61.	Ye Olde Willovsky Road: Anybody doubts that everything here belongs to the Willovsky family?
+62.	Ye Olde Willovsky Well: The place to go if you need water in the castle.
+
+Last words:
+This game is released as freeware, but I retain the rights to the graphics and the intro music, so even if I would be 
+flattered of you using any guardians, pictures, etc. in your own games, I would like to be informed about anything 
+anyone would like to do with these elements.
+
+If you want to use "Bulgarian Requiem" in any project (i.e. JSW for PC, etc.) feel free to do so, but please drop me a 
+line firstly.
+
+You can contact me at:
+
+Fabián Álvarez, aka Adban De Corcy:
+
+Adban@wanadoo.es

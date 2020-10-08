@@ -1,0 +1,108 @@
+Adban De Corcy presents: "Willy's Afterlife", for the Sinclair Spectrum.
+
+Welcome to "Willy's Afterlife 2.00": Some bugs have been cleared (no doubt others have surfaced), and some rooms have been slightly reworked. The Styx bug has been solved (you won't be trapped if you climb the rope to "The Mouth of the Pit", and some other minor facts have been repaired.
+
+Aknowledgements and thanks:
+
+To Matthew Smith, wherever you may be, writer and programmer of MM and JSW.
+To Richard Hallas, for his help and tips on technical problems.
+To Andrew Broad, for his founding of the Yahoo Miner Willy / Jet Set Willy Club. And all his work of behalf of creating new, better MM/JSW games.
+To Paul Rhodes, for his incredibly useful "Jet Set Willy Editor".
+To the Development Crew of the ZX32 Emulator, the tool I have used mainly to design this game.
+To all the members of the Yahoo MM/JSW Club.
+And all those of you, you know who you are.
+
+The Plot:
+Willy, finally, tired from being dragged from a place to another, tired of picking shiny objects, dies of exhaustion. After a painfully beautiful funeral, he's buried in the family crypt and left to rest until the Day of Judgement. But, two years later, when our hero is sleeping the rest of the dead,  the unbelievable happens, and, despite all the security, God's Museum of Relics is assaulted by unknown parties and it's contents are racked. Pursued by God's angels, the unknown thieves drop the bounty all around the lands of the dead, and depart for better horizons.
+
+	Uriel, Poison of God, is ordered to find the bounty; but it seems that he holds a grudge against our hero for some unknown reason, and so says to God: "I know the ideal guy for this job". So, Uriel kicks Willy out of his tomb, throws him to Hell (the last place where relics have been seen) and orders him to pick them all, or there won't be any eternal rest for him.
+
+	And there goes Willy, skeletal but with his hat on his head, ready to tour the lands of the dead to find Uriel, his tomb and the 200 relics stolen from God's Museum and win eternal rest (probably God will resurrect him for his superb job, but that's another story...).
+	We find him in "The Gates of Hell"; where will you go? Right, going deeper into Hell, or Left, to only God knows where?
+
+Playing the Game: 
+	"Willy's Afterlife" possesses 61 screens, which can be divided in thematic areas, more or less interconnected in a classical, mind-boggling way. These areas include Heaven, Hell, the Lands of Death and some other places.
+	
+	I don't think it to be an extremely difficult game; it's good, I think, for both novice and expert JSW players. Anyhow, I was more interested in designing beautiful, thematic-coherent screens that in hellish (no pun intended) screens, so maybe some of you will find it too easy. I don't think so, but go trying to find all the 200 relics, and let's hope you will enjoy it as much as I enjoyed designing it.
+
+	As a side note, Willy is an spirit, and so he cannot die from falls, but he can die from all other usual hazards in JSW games...
+
+The Characters and the Game music:
+The main character is, of course, Willy (skeletal due to the time passed on his tomb). His antagonist is no longer Maria, but Uriel the Archangel, and his enemies are all the other denizens of the Afterlife, unwilling to have a simple mortal walking around them before being judged. These include a complete set of gods and goddesses, angels, lost souls, devils and other metaphysical hazards. 
+The game music is a fantasy on the "Dies Irae" theme, from the Gregorian liturgy, and the intro game music is a short piece composed by myself, called "Nocturne".
+
+Room List:
+- There are no spoilers in this list, as most of the rooms are easy to resolve. However, I recommend playing first a couple of times, and then taking a look at this list to check the references I used to map the game...
+
+1. Asgard: In Norse mythology, the place where the Aesir lived. The two guardians in red are Thor, the god of thunder, and Freja, a goddess of battle.
+2. Audience with a Demon Prince: This room is, of course, the centre of the Hell area. The Demon Prince is Mammon (the demon of Greed, who surely would be interested in Willy's soul).
+3. Ave Maria Gratia Plena: The chambers of the Virgin Mary. The room's name means: "Hail Mary Full of Grace", the first words of the "Ave Maria" prayer.
+4. Black Sands Desert East: A desert of black sand lies to the East of the City of Brass, at least that's what I think.
+5. Black Sands Desert West: This is the other half of the desert of black sand.
+6. Desert Cacti: Nothing very interesting about this room. Cacti are those spiked plants usually found in deserts.
+7. Forcas' Study: The hooded figure in white is Forcas, a Demon Prince of Deceit and Dangerous Knowledge. The book besides him was said in medieval times to hold all the secrets of the universe.
+8. Halls of Damnation: A quite nice room, if I can say so (greet again your friend Forcas).
+9. Hel: The Norse Hell. The guy in green is Loki, rebel son of Odin and god of evil and deceit.
+10. Hel's Harbor: The girl in green is Hela, daughter of Loki and queen of Hel in the Norse mythology. The drakkar to the right represents the one that was forever being built in Hel to carry the infernal legions to battle the day of Ragnarok. It seems like it has sailed...
+11. Jotumheim: A land of ice and snow in the  Norse mythology, very close to Hel.
+12. La Dance Macabre: A skeleton plays the violin, and the dead come out of their graves to dance. Camille Saint-Saens, a French XIX century composer, wrote a delightful piece with this title. The screen is, of course, an homage to him. Don't fall for the withered charms of Rosita, the undead "bailaora" (Flamenco female dancer).
+13. Last Train for the Lost: A station for the departure of souls. This won't help Willy, however.
+14. Long hard road out of Hell: No relationship with that Marilyn Manson's song. You will understand the name of the room as soon as you touch the stair.
+15. Malebolge: In Italian, "Malebolge" means "bad cavities". In Dante's Inferno, Malebolge is the eight circle of Hell, above the Cocytum, and it's the place where fraudulent people of all kind are punished.
+16. Meet the Efreeti: In Islamic mythology, Efreeti are demons of the deserts.
+17. Midgard: The name of Earth in Norse mythology.
+18. Niflheim: A land of despair and darkness in Norse mythology, the place where dwell the dead who didn't deserve Valhalla. In Nifhleim were the gates to Hel.
+19. No man's land / Pyramid of Bones: This room is the frontier between the City of Brass and the Christian Hell area. So it's no man's land.
+20. Runaway Trains: The main hall of a ghostly train for the dead.
+21. Seven Archangels: In Christian angelic myth, there are seven angelic choruses. So, here we have Seven Archangels (And Willy, transformed into one). This room was originally named "Uriel's Pals". (see Uriel's Abode, below).
+22. Stairway to Heaven?: I think the references of this room are quite clear. If they are obscure, feel free to e-mail me.
+23. The Blessed Dead: A quiet, safe screen to rest. The Blessed Dead are those in Heaven or Purgatory in Catholicism.
+24. The Bone Chapel: Bone Chapels, that is, chapels with bones covering the walls, are common in Central and Eastern Europe. This room has been graphically reworked in 2.00.
+25. The Bone Fields: A field of bones with an enigmatic tree in the centre.
+26. The Brimstone Mosque: It's said in the Quram that in Hell there are innumerable mosques with walls of fire and brimstone.
+27. The City of Brass  West Gate: The City of Brass is a city of heretics in Islamic mythology. I have relocated it to Hell, where it belongs.
+28. The City of Brass East Gate: This is the East Gate of the City of Brass.
+29. The Cloistered Chamber: The top room of the Brass Palace. You cannot exit the way you entered.
+30. The Closed Gates of Paradise: Exactly what the name says: the closed Gate of Paradise. The angel here is Uriel, the one who dislikes Willy for unknown reasons.
+31. The Cocytum: A frozen lake in the depths of Hell, as seen in Dante's "Divina Commedia".
+32. The Crypt of Willy: The Crypt of Willy. Nothing to say.
+33. The Earthbound Paradise: Also from Dante's "Divina Commedia", but from the Purgatory chapter. The Earthbound Paradise is the frontier between Purgatory and Heaven; here, it's the frontier between Heaven and the lands of Death.
+34. The Forbidden Entry: An entrance to Hell from the very entrance to the House of God. Uh?
+35. The Forest of Suicides: In Dante's Inferno, suicides become trees when they enter Hell. They are still alive, and suffer much pain from the claws of demons.
+36. The Gates of Hell: The Gates of Hell. Any questions?
+37. The House of God: God lives in a suburban house? How queer... Also, a reference to Magritte's picture, "La Maison à Dieu" (The House of God).
+38. The Infernal Boiler Room: The heating room of the Phlegeton (right above)
+39. The Minaret / Sacred Verses: No guardians in this room, thanks to the power of the Sacred Verses (it's not real Arabic script, but surely looks like it)
+40. The Morgue: A morgue, but it seems that the dead are a bit restless...
+41. The Mouth of the Pit: A classical down entrance to Hell.
+42. The Palace of Brass: A palace of demons in the City of Brass.
+43. The Perilous Graveyard: A graveyard far from quiet, full of restless dead. Don't these trees look a bit like skeletons? (Of course they do!). There's also an anonymous XIII French century novel with this name.
+44. The Phlegeton: According to Dante, the Phlegeton is a lake of burning waters in the Inferno.
+45. The Poisoned Oasis: An oasis of poisoned waters in the desert, near the City of Brass. The classical trick of Arabic demons.
+46. The Rainbow Bridge: In Norse Mythology, this bridge joins Midgard and Asgard, the land of the Aesir. It will be broken down the day of Ragnarok by Balder, who just happens to be the guy on white in the right side of the screen. The girl in white is a Valkyr. In 2.00, this room is just tricky: in 1.00, it was pretty hellish.
+47. The River of Blood and Sperm: In Norse Mythology, this horrid river flows from Hel to Midgard.
+48. The Road to Samara: There's a classic Arabian tale about a merchant running away from Death: so he heard that Death was looking for him, so he run away from Damascus to Samara. And Death found him in the road, and the merchant said: They told me you were looking for me in Damascus. "Maybe", said Death, "but I had a date with you in Samara". (You die if Death kills the Merchant; this is not a bug!)
+49. The Soul Op: A wordplay on a "coin-op".
+50. The Styx: In Greek mythology, the Styx was a lake that deleted the memories of the dead. In Dante's Inferno, it's a lake that divides the Upper Hell from the city of Dis. The guy in dark blue in the boat is Flegias, a man who burnt the temple of Aphrodite in ancient Greece; Dante put him as a boatman in the Styx, and left Charon in the Acheron, the river that was the frontier between Hell and Earth.
+51. The Tabernacle: The Tabernacle was a temple of ancient Israel, where the Ark of the Alliance was kept.
+52. The Test of Faith: A test of faith. Inspired by many sources, including Indiana Jones.:)
+53. The Throne Room of God: So, here's is God in all his power and glory. Be careful not to come too close to him, however.
+54. The Tunnels of Jormungandr: In Norse myths, Jormungandr is the serpent of Midgard, a titanic snake who encircles the Earth. In "Willy's Afterlife", it lives on tunnels than can lead anywhere...
+55. The Vault of Dangerous Lore: A companion room to "Forcas' Study", and as dangerous as its partner. Remember that the salary of sin is death.
+56. The Void of Death: The lonesome, featureless void of death.
+57. Uriel's Abode: Here is Uriel, the guy responsible of Willy's plights in "Willy's Afterlife". In the Jewish Angelic Mythology, Uriel is the Archangel that cares for the dead souls. In "Paradise Lost", Uriel is the keeper of the Gates of Eden (and so is here, see "The Closed Gates of Paradise", above).
+58. Valhalla: In Norse mythology, the place where heroes go after a glorious death, carried away by the Valkyries. The guardians are, up to down, Odin (father of the gods), Thor, Balder and Freja. 
+59. Welcome to Death, Willy: A simple, passing-by room.
+60. What's this guy doing here?: This jumping guy is a merchant from a classical Arabic tale (see The Road to Samara, above). So, what is he doing up the battlements of the City of Brass?
+61. Yggdrasil: A titanic tree in Norse mythology, the branches of which were said to lead to all the worlds. The figures in black are two enigmatic women who watered everyday the tree with pure water from a nearby well, and protected it from the enemies of the Aesir (the Norse main gods).
+
+Last words:
+This game is released as freeware, but I retain the rights to the graphics and the intro music, so even if I would be flattered of you using any guardians, pictures, etc... in your own games, I would like to be informed about anything anyone would like to do with these elements.
+
+If you want to use "Willy's Afterlife" in any project (i.e. JSW for PC, etc...) feel free to do so, but please drop me a line firstly.
+
+You can contact me at:
+
+Fabian Alvarez, aka Adban De Corcy:
+
+Adban@interlink.es

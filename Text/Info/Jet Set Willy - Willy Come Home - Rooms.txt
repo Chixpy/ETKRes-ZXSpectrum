@@ -1,0 +1,490 @@
+Our Hero returns (again) to his mansion after one of his many adventures - but only to find that most of it has changed, or seems to be falling down!
+On further investigation Willy realises that something has been using his house for their own evil deeds. 
+Maria seems to be in hiding somewhere down below, and strange lights have been spotted in the night sky...
+maybe it's the builders, maybe it's something else..."
+
+Willy, sporting a new hairstyle, may have his work cut out on his return home this time.
+The entrance to his mansion is blocked by a multiple Telepod - and there seem to numerous others elsewhere in the grounds.
+To complete the game, you need to collect 170 objects, and return with them to the 'End Game'...
+And remember - Familiarity Breeds Contempt !
+
+
+000 Old delivery bay
+Originally 'The Off Licence'. Thought I'd keep the alcohol theme going in this one.
+
+001 Mountain Stream   
+The water is not so deadly now. Use the overhang to move up into the woods.
+
+002 Leafy Lane
+You're not 'Under the MegaTree' now - mainly because...
+
+003 Tree Stump
+…All that's left 'at the foot' is a tree stump !!
+
+004 Front Garden
+The Drive is now just an overgrown garden.
+
+005 The Jobsworths' Revenge
+Security Guards - you've gotta love 'em, eh?
+
+006 Hell hath no fury…
+Hades has a devilish guardian. Now a playable room.
+
+007 Tree House
+Someone's built a tree house on bird's nest. Doesn't sound like very good foundations to me. Not as easy as it looks.
+
+
+008 Sycamore Leaves
+No 'Mega trunk' to hide inside now. All that's left are the Sycamore leaves. This room marks the first of many room named after songs. 'Sycamore Leaves' was from a surprisingly good A-ha album called 'East of the Sun - West of the Moon'
+
+009 Olive Branch
+Extending the branch of friendship?
+
+010 Front Door
+You may be glad of that rope later.
+
+011 Hall
+Not much has changed except the 'secret' passage in the floor.
+
+012 Monkey see, Monkey do
+Willy gets that 'Gorillas in the Mist' feeling !
+
+013 One flew over the Cuckoo's Nest
+Just liked the film really. This is an easy room
+
+014 Winkie
+I don't know what a winkie is, but it could be connected to bear holes !
+
+015 We didn't start the fire
+After the Billy Joel song. This room was originally called Quo Vadis ? after the Cbm64 game, and still looks more like it than the current Quo Vadis room.
+
+016 Lay on your back…
+…and wave your legs in the air. From ' We must perform a Quirkafleeg' in JSW1.
+
+017 The thirteenth floor
+Named after an old comic strip, I can't remember from where.
+
+018 The Old Roof
+Exactly what it says on the tin !
+
+019 The Long Forgotten Abbey
+Slightly easier to find than the original Abbey.
+
+020 Ballroom East
+Just the odd new exit here.
+
+021 Ballroom West
+Subsidence has affected this one a bit though !
+
+022 Main Stairway
+A rickety old staircase. The centre of the mansion is definitely in dangerous condition.
+
+023 If you can't stand the heat…
+024 … get out of the kitchen
+The old kitchens have completely caved in. Where did everything fall in to?
+
+025 Thawed out
+Hmm. The old 'cold store' is not what it was. There's definitely something hot down below.
+
+026 East Wall Base
+I don't know about you, but I was always trying to jump across the void. Now there are platforms to reach the 'other side'
+
+027 Chapel
+I liked the idea of being able to jump from a purple bath into the floor less (flawless?) chapel.
+
+028 Familiarity breeds contempt
+Still the 'First Landing' though, isn't it. ???
+
+029 Nightmare Landing
+The 'Landing' bit only makes sense when you realise that the only way to get the object here (and in …breeds contempt) is to teleport in from above. Ticket to the moon anyone?
+
+030 Changing Rooms
+You won't find Lawrence Llooney-Blowfish of whatever in here. Just a few mad guards.
+
+031 The Swimming Pool
+- seems to have sprung a leek. Watch out for the drips.
+
+032 Halfway up East Wall
+- Like the East Wall Base, this side of the mansion has now been opened up.
+
+033 Bathroom (with purple bath)
+The purple bath bit is nicked from JSW2 (Cbm64 version). The toilet now contains an incredible shrinking ability, so just dive in !
+
+034 Top Landing
+Not a lot different here. Just the passage at the top, really. I like the colours the way they were, so I left well alone.
+
+035 End Game
+Obviously the Master Bedroom of old, but now you have access to...
+
+036 En Suite?
+…but watch your step. One false move, etc etc.
+
+037 Allergic to Chlorine
+Which I am ! That's why I made the pool slightly nastier than before.
+
+038 Priest's Hole
+As I said before, I always loved the east wall rooms of JSW1, and Priests always seem to have secret passages in their Churches…
+
+039 Wish you were here
+From the old Emergency Generator. A further tribute to Pink Floyd. The object at the bottom is only accessible from the bathroom top level.
+
+040 I'm a Barbie Girl…
+Dr Jones probably wishes he had showed a little more faith in Willy. Tassels, anyone?
+
+041 The Attic Y2K Bug
+The Attic was surely years ahead of it's time!
+
+042 Ammonia Storage
+Mix chlorine with another substance often found in swimming pools, and you have ammonia. This is the real root of my allergy to chlorine. This room is trickier than it looks.
+
+043 Mind the Broken Glass
+The Conservatory Roof has been destroyed, leaving some nasty shards of glass laying around.
+
+044 Up the Flagpole
+Not too subtle a hint, I know !
+
+045 Under the Drive
+Faithful to the original, only a few minor changes and an extra exit.
+
+046 Tree Root
+Not a dead end anymore. Looks like someone's been digging. Maria ?
+
+047 [Beet] Root
+This was the first room I ever designed for WCH. Maybe it shows. I do like the exit at the bottom - you can look but can't touch.
+
+048 Harry Who ?
+Harry Who / Nomen Luni. Harry Mooney was the Loony Mooney. Tenuous link, I agree. Harry Who? Is also a song an old band of mine (DadTV) used to perform.
+
+049 Wine Cellar
+This could collapse any second. No way through to the old Abbey from here anymore.
+
+050 Penthouse
+The Watch Tower has now been converted into a sumptuous penthouse floor.
+Well, not bad anyway.
+
+051 Tool Shed
+You know you're going to look down through the hole in the floor, whatever I say.
+Just be careful, OK?
+
+052 Back Stairway
+# Willy's house is falling down, falling down, falling down…#
+
+053 Back Door (splintered)
+Look up - there's something above the door frame, I can't quite make it out.
+
+054 West Wing
+Can't get the flashy thing from here….
+
+055 Spare Room
+Up in the penthouse, there's even a spare room.
+
+056 West Wing Roof
+Is this really the roof now? Most of the west wing seems to have been re-developed. Or is that demolished.
+
+057 Balcony
+I wouldn't try sunning yourself up here...
+
+058 Sandy shore
+Or the Beach if you prefer. 
+No sign of the yacht though, and someone's been building sandcastles.
+
+059 Harbour Lights
+Over on the east side, lays ye olde harbour. Luckily, Nick Berry is nowhere to be seen.
+
+060 The Docks
+I'm sure your parents have warned you not to go down the Docks on your own after dark. Listen to them. Berry could be lurking in the shadows !
+
+061 Stalactite Fright
+What was that 10cc said about rubber bullets ?.
+
+062 Into the Caves
+Ever been potholing before? No, me neither.
+
+063 Where's the Rope?
+Yes, it does, doesn't it !! haw haw !!
+   
+064 Journey to the Earth's Core
+The only way to get the bottom central object seems to be to drop out of the screen - dare you take the risk?
+
+065 Smugglers' Cove
+What on Earth could smugglers need Willy's humble abode for?
+
+066 Below the Shed
+Since the mass subsidence of the mansion, the old pirate's underground tunnels seem to be accessible again.
+
+067 Grape Vat
+Harder than it looks, and best approached from the right. I did want to have collapsing platforms (like the Vat in MM) for this, but I haven't figured it out yet.
+
+068 The Porch
+The object at the bottom looks impossible to get except from below. You need to explore a little further.
+
+069 My Karma just ran over my Dogma
+From a famous graffiti quote. I was going to have a car and a dog, but ran out of guardians.
+
+070 Jaspers' Machine
+James Jaspers was a great villain in the early 'Captain Britain' comic strip, then in 'Mighty World of Marvel'. Created and drawn by Alan Davis, this maniac nearly took over the world - until CB saved the day, etc etc.
+He also had a crap muzzy, one big eye, and one small eye.
+
+071 The Old Coal Cellar
+Tricky object to collect from the bottom, better from the top !
+
+072 Roof Garden
+Don't touch the leaves, and don't fall off the escalator.
+
+073 I you go into the woods today...
+You might well get lost ! The whole of the old 'Megatree' area is now a rambling forest, so it may pay to make a map.
+Alternatively, you could download my 'Microsoft Excel 97' spreadsheet map.
+
+074 Beneath the Atoll
+The thing about an atoll is that you know there's dry land nearby, and usually an oasis of some sort. Liam and Noel not included.
+
+075 The Deep
+Great film. Looking back, I should have put an electric eel in here or something. Never mind, eh.
+
+076 Bear Hole
+Watch out for bears. 
+And Winkies. Probably.
+
+077 Can't see the wood for the Trees
+But you can see the top of the 'Tree House' if that's any help.
+
+078 Corel Reef
+079 Ship Wreck
+Nothing too bad here. Nice and relaxed, like the seaside should be.
+
+080 Annex Loft
+Nothing to do with the Eurythmics, but there are arrows and a worm.
+
+081 Over the Balcony
+This one's trickier than it appears. Watch out for that nasty spider.
+
+082 Saviour's Day
+Just a pun on Cliff Face, really.
+
+083 Harbour Hangover
+Based on Richard Hallas' Ice Volcano, which I liked a lot.
+
+084 Cliff Face
+I was going to put a giant wobbly Cliff Richard face here. But luckily I couldn't bring myself to do it.
+
+085 Jolly Roger
+One of my favourite songs as a young lad. It's from the Kings of the Wild Frontier LP by Adam & the Ants. I thought that a pirate ship was needed in Willy's world.
+
+086 Kings of the Wild Frontier
+See above !!
+
+087 The Ottoman
+As we now have a nusery, I thought we could have an ottoman. Some quality timed jumping needed here.
+
+088 The Lab
+No mad professor, but more perfect jumping needed.
+
+089 Balcony Ledge
+Not too tough, although be aware of the arrows!
+
+090 Ftang Ftang
+Often uttered by the Viz character Roger Irrelevant.
+
+091 The Observatory
+Seemingly impossibe object? You'll figure it - just take a chance.
+
+092 Quo Vadis ?
+Where are you going now? Down down, deeper and down, I should think. 
+
+093 The Nursery
+Be my Teddy Bear!
+
+094 Essence of Floyd
+Keith, that is! down below the kitchens, he leaves his mark...
+
+095 Oubliette
+Just passing through ? But can you get back up ?
+
+096 Hotfoot it down
+Fire on the floor - take the plunge down below.
+
+097 In the Hall of the Mountain King
+098 Baby, You're a Rich Man
+This pair borrow heavily from Mr Hallas' originals. I liked them both, and wanted them to have the same feel. Cheers Richard !
+
+099 Ave Maria
+She's around here somewhere, you just know she is.
+
+100 The Land That Time Forgot
+Not much in the way of dinosaurs, but it is VERY hot.
+
+101 Forbidden Forest
+The 'megatree' is now a forest. This was also anexcellent old Cbm64 game.
+
+102 Lava Pool
+Speaks for itself really. Just don't let go of the rope.
+
+103 Achilles Heel
+It's supposed to be vaguely heel shaped.
+
+104 Under the Stairs
+What's in the cupboard under the stairs, Mr Wolf?
+
+105 Greenhouse Effect
+Too much humidity makes Willy mutate into the clockwork thingy!
+
+106 Harry the Mad Monk
+There seems to be a lot of monks in Willy's mansion, most of them quite mad.
+
+107 Dirty Saviours
+Just an old song title of mine. Never did put it on the LP.
+
+108 Eugene's Lair
+A glowing tribute...
+
+109 Ticket to the Moon
+Exactly what it says. Also a song by ELO.
+
+110 A bird in the hand...
+Is worth two in the bush or something. More forestry capers.
+
+111 Valley of the Dolls
+A crusty punk classic by Generation X.
+
+112 Into the Valley
+Valleys lead to mountain tops.
+
+113 Bichamite Sandwich
+Don't leave home without one. Especially if you're going to...
+
+114 The Outback
+Where Willy gets so excited, he turns into a 'Roo.
+
+115 Night Boat to Cairo
+"Just one more to the desolate shore, the boat along the river Nile..."
+I do love the old classics, me!
+
+116 A Day at the Races
+117 A Night at the Opera
+118 Innuendo
+A lot of jumping and preening here. Just what you'd expect from three Queen albums!
+
+119 Twin Peaks
+One of my fave TV progs from the 80's. Coffee anyone?
+
+120 Gribbley's day out
+Commodore 64 nostalgia time again. You are Gribbley!
+
+121 I think I'm Paradroid
+C64 game / Shirley Manson tie in. It'll never catch on.
+
+122 Blue Lagoon
+When every one wanted a deserted isle, I wanted a lagoon. Without Brooke Shields' eyebrows though.
+
+123 Manic Titanic
+124 Middle Deck
+The Yacht is no more. An ocean liner is now nudging the East shore.
+
+125 The Abyss
+Oh, you didn't want to end up here, did you?
+
+126 Don't Look Down
+Better still, don't GO down.
+
+127 (Get a) GRP (on Yourself)
+From RH's 'How on earth did you get here', but now the the title is a horrible pun on my initials and an old Stranglers effort.
+
+128 Telepod
+For more on where it goes, see the explanation (right).
+   
+129 Lunar Surface
+Less gravity on the moon, remember?
+
+130 The Blue Area
+According to Marvel comics, this was where the the Watcher (an all-seeing, all-powerful bald bloke), and the Inhumans (bunch of superhumans) lived.
+Separately of course. 
+
+131 We will be fine, Apollo 9
+"Even though NASA say way out of line". Another 'Ant classic'.
+
+132 Earth, Infinity and Beyond
+As Buzz Lightyear might retort. This room will get you back home for a nightmare landing!!
+
+133 The Watcher's House
+Where you won't find said bald bloke. But he IS watching you. Oh yes.
+
+134 Uncanny Inhumans?
+
+135 Jeepers Creepers  
+
+136 Vine  
+
+137 The Western lookout  
+
+192 Senses working overtime 
+
+193 Disused Dungeon ?
+
+194 Einstein a Go-Go
+
+195 Deathtrap Mine
+
+196 Entombed
+
+197 Maria on the Run
+
+198 Underwurlde
+
+199 Tomb Raider
+
+200 Down the Pipe ?
+
+201 A flash in the pan
+
+202 © Gawp ! 2000
+
+205 A Damn fine cup of Coffee
+
+206 A wicked Game
+
+207 Falling
+
+217 Iceberg
+
+218 Antarticulate
+
+219 The Plank
+
+221 Pungent Effulgent
+
+222 Cavernous Rumblings
+
+223 Abandoned Mine Shaft
+
+227 nights in the scullery
+
+228 A-void hare
+
+229 Led Zeppelin
+
+230 Stairway to Heaven
+
+231 Dark Side of the Moon
+
+233 Moondance
+
+238 Abbot's Lair
+
+239 Rabbit Stew
+
+   
+ 
+  
+ 
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    

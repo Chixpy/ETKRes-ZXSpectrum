@@ -1,0 +1,240 @@
+ICON GRAPHIX
+
+LOADING   INSTRUCTIONS
+
+Cassette Version: LOAD "G-CASSETTE" or just LOAD ""
+
+Microdrive Version:
+This version of ICON GRAPHIX allows you to set up a high-speed 
+Microdrive based system. Set up yourMicrodrive#1 with a blank, formatted 
+cartridge and LOAD the program G-MICRO from tape with LOAD "".  G-MICRO will 
+automatically save a version of GRAPHIX on the cartridge which can then be 
+quickly loaded by LOAD *"m";l;"GRAPHIX". This version will also save and load 
+pictures from Microdrive.
+
+USING ICON GRAPHIX
+The screen is divided into two main regions - the drawing window in the middle 
+and the option boxes around the outside. The boxes offer a selection of drawing 
+tools which may be used to create a picture in the drawing window.  Whichever 
+tool you're using, it can be moved about the screen horizontally, vertically or 
+diagonally, using the keys
+
+Z          X         C           V         (with KEYBOARD option)
+left       down      up          right 
+
+or via KEMPSTON joystick                   (J option)
+
+The tool will move over anything, option box or picture, without affecting it, 
+unless you actually 'touch' the screen with the tool by pressing the CAPS, SHIFT 
+key (or joystick trigger).
+
+DRAWING   TOOLS
+To select any drawing tool, simply move the current one over to the box 
+containing the new tool and press. The box will light up green to remind you 
+which has been selected and the cursor will change into the appropriate tool.
+
+ICON GRAPHIX starts up using the Felt Pen.
+
+Felt Pen (Tool = pencil)
+The Pen can be used to draw directly to the screen: pressing the Pen on the 
+drawing window will leave a spot and moving the Pen about whilst keeping it 
+pressed will leave a 'free-hand' line behind. The Pen (and also the Brush and 
+Spray Tin - see later) draws in the Current Pattern, which is shown in the 
+square box at the lower right of the screen. This is plain solid ink to begin 
+with; different patterns can be chosen by pressing the box of any desired 
+pattern
+around the screen.
+
+All drawing done with the Pen, Brush or Spray will be in that Current Pattern 
+until another is selected.
+
+The size and shape of the Felt Pen can be altered by pressing the Shapes box 
+(see later).
+
+Spray (Tool = spray tin)
+The Spray acts just like the Pen except it draws a fuzzy spray blob of current 
+pattern behind it when pressed. This effect is useful for things like trees, 
+clouds and shading, or just plain grafitti.
+
+Brush (Tool - paintbrush)
+When you press the middle bristle of the Brush onto a region of solid Ink or 
+Paper, that region will fill up with the Current Pattern. The Brush will fill up 
+any continuous region, or even the whole drawing window if desired. If you fill 
+a region by mistake, or in a pattern you don't want, you can put the shape back 
+the way it was with UNDO (see later).
+
+Box (Tool = pencil)
+Selecting Box gives you a pencil capable of drawing accurate squares and 
+rectangles. Put the pencil where you want one corner of the rectangle to be; 
+then, keeping it pressed, move it across to the opposite corner. The rectangle 
+is dragged out behind the pencil as long as you keep it pressed and remains 
+behind when you release the press.
+
+Circle (Tool = arrow)
+This tool is like Box, above, in that you form shapes by fixing one corner, 
+dragging, then releasing. However, this arrow will create circles and ellipses 
+for you. The ellipse formed is always proportioned to fit inside an imaginary 
+Box between the first fixed 'corner' and the current arrow position. A perfect 
+circle is obtained when the imaginary Box is square.
+
+Line (Tool - pencil)
+As with Box and Circle, this tool lets you drag out a straight line behind it 
+from a fixed point. This facility is useful for drawing diagonal lines, and may 
+even be used to draw curves. Due to the 'lumpiness' of any screen curve, it is 
+possible to form a reasonable approximation to a curve by joining together small 
+line segments end to end.
+
+Rubber (Tool - 'R' In a box)
+Pressing this over any unwanted piece of drawing will rub out a bit the same 
+size as the square rubber, or bigger regions can be erased by dragging the 
+rubber over them. Finer-detail erasure can be achieved by selecting a small Pen 
+and the white pattern, or using Magnify (see later).
+
+Note that, unlike all the other tools, Rubber won't let you choose a new Current 
+Pattern.
+
+Push Page (Tool = crossed arrow)
+Pressing the Push Page tool to the drawing window lets you move the whole 
+drawing screen around underneath it. This lets you are-compose a drawing, or get 
+at the bits previously hidden behind the option boxes, including the normally 
+'forbidden' two lines at the bottom of the screen.
+
+OTHER FACILITIES
+
+UNDO
+If you press this box, it will actually undo the last thing you did - it will 
+restore the screen to the way it was before you touched it last, meaning you can 
+undo rubbing out, drawing, boxes, circles, lines and mistakenly filled regions. 
+The only thing you can't Undo is a Pushed Page. but then you can always Push it 
+back.
+
+CLS
+Clears screen. This is also UNDOable, as above.
+
+NEW  (Skull-and-crossbones box)
+Clears screen, restores Current Pattern to black and re-selects Joystick or 
+Keyboard, Cannot be UNDOne, so it asks you if you want to 'Really NEW' first: if 
+so, press again.
+
+PRINT (Scroll of paper box)
+Pressing the Print box will send all 24 lines of your picture to the ZX Printer, 
+or any printer which can be directly substituted for it e.g. the Alphacom.
+
+SHAPES  (Tool = arrow)
+When you press this option you are given a tray full of 16 different pen shapes 
+to choose from, with the current shape ringed. You can either pick a new shape 
+by pressing it with the arrow and then exiting by pressing OK, or keep the old 
+one by pressing Undo in the tray. (Whenever you have a tray in centre screen, 
+the only options available are the ones in the tray - the rest won't respond.) 
+The next time you use the Pen it will draw with the new shape.
+
+MAGNIFY   (Tool = arrow)
+This lets you enlarge a piece of screen so that you can draw on it in single 
+dots at a time, for extra fine detail. After pressing Magnify, position the 
+arrow over the region of drawing window you want to blow up and press again. 
+Each large dot on the new screen may now be set or reset by pressing it with the 
+arrow. To save this new piece of picture press Magnify again.  The entire 
+subsection of screen can be erased by pressing the Rubber box, but to throw away 
+whatever you've done to the magnified piece, hit UNDO.
+
+EDIT PATTERN   (Tool = pencil)
+If you would like to create your own drawing or filling patterns, select any 
+unwanted pattern and then press the Current Pattern box. It will appear 
+Magnified in the centre screen tray with a life-size 'swatch' of pattern above 
+it.  You can then alter the pattern by pressing on or off the large pattern's 
+dots (as in Magnify). The 'swatch' will show how the new pattern looks normal-
+sized.  To save this pattern, press OK, pressing UNDO will restore the old one.
+
+COLOUR
+
+Normally, any picture you draw will be shown in black Ink on white Paper To add 
+colour to your picture, press the square COLOUR box-this will put you In COLOUR   
+mode. Any colour you may have previously added will re-appear on the black-and-
+white design. A palette of colour options appears across the top of the screen: 
+there are 8 Inks (squares marked 1) and 8 Paper colours (P) available. You can 
+also set Bright and Flash with the blue and yellow strip beneath the Inks and 
+Papers: from left to right, the four bars allow you to set Normal, Bright, 
+Flashing and Bright Flashing.
+
+On entering COLOUR mode, you're given an arrow which can be used to select one 
+of the two COLOUR tools, or the COLOUR options (see later).
+
+The COLOUR   tools are:
+
+PEN
+when this is selected, you can use it to fill In squares of colour on top of 
+your design, the Pen will fill In using the Current Colour - on entering COLOUR 
+mode, the Current Pattern Box Is coloured in with the Current Colour, This can, 
+of course, be changed: new
+attributes can be chosen by Pressing the appropriate section of the Palette at 
+the top of the screen with any COLOUR tool.
+
+PUSH-PAGE   tool- this is used the same way as the ordinary Push Page tool, 
+except in COLOUR mode it will push the colour squares around and leave the 
+design where it is. This may be useful to match up colours with a design which 
+has previously been Pushed around the screen.
+
+The COLOUR   options (which you can select with any COLOUR tool) are:
+
+CLS - restores the colours to Black on White, no Flash or Bright, if you wish to 
+start colouring in again from scratch.
+
+UNDO  - Puts back the colours after a CLS or removes the last bit of Pen 
+colouring-in done.
+
+NEW  - pressing the skull-and-crossbones symbol returns you to ordinary drawing 
+mode, saving the coloured overlay of your design in memory. The colour are 
+placed at the correct location next to the
+design in memory so that a SAVED picture can be LOADed back later as a normal, 
+coloured SCREEN $
+
+(Note that NEW does an automatic UNDO unless you 'fix' the colours first by 
+pressing the Pen box).
+
+LOAD and SAVE
+Upon pressing the Load Save box, a menu is given of the different Load/Save 
+options available.
+
+NB. a Picture is equivalent to a SCREEN $ including colour and a Document is a 
+Picture plus any new Patterns you may have created.
+
+Press the option desired - you must now enter a filename with which to SAVE or 
+to LOAD. Type the filename in the space provided (Caps, lower case, numbers and 
+symbols are all allowed. CAPS SHIFT Zero will rub out the last character) and 
+then ENTER. You can still go back and change the Load/Save option at this point 
+if you want. If the filename's no good or you decide not to Load or Save you can 
+press Undo at any point to return to the main program.
+
+Hit OK to actually do the LOAD or Save: -
+
+CASSETTE OWNERS
+Load:   Position the tape before the file you want to load - press OK then PLAY 
+on the tape player.
+
+Save:   Position the tape at an empty section - when you hit OK the program will 
+ask you to 'Start Tape...' as usual,
+
+MICRODRIVE   OWNERS
+Load:   Just hit OK: If the file exists it will be loaded from drive #1.
+
+Save:   OK saves to drive #1: remember to ERASE any old files of the same name 
+first.
+
+If at any time a Load/Save error occurs, or you break out of the program using 
+any key from B to SPACE, you may re-enter the program simply be typing RUN and 
+ENTER.
+
+PROGRAMMING:    Terry Wiley
+GRAPHIC DESIGN:  Ian Elliott
+
+(c)1985 A.S.L./ICON SOFTWARE LTD.
+
+The programs recorded on this cassette and the packaging are copyright. No 
+reproduction of the programs is permitted without the written approval of
+
+A.S.L. and Icon Software Ltd.
+Published and distributed by A.S.L.
+P.O. Box 88, Reading, Berks, England.
+Duplicated and manufactured by Dalagenic Ltd.
+
+

@@ -1,0 +1,46 @@
+Cowl Index
+
+Copyright Cowl Systems 1988
+This is a set of 4 games, each of which based on a popular theme.
+
+Use in +2 mode.
+
+The Loader:
+The loading comprises several parts.  First is the header and initial program block.  This stops use of the Break key - pressing this will hang with a black screen.
+It displayes 'Presenting' as the program name.
+Second is another program block which is the real loading part.
+This displays 'COWL INDEX' as the program name.
+
+Third is the loading screen.  This is loaded into memory, then transferred to the screen in a single piece, hence the screen doesn't 'paint in' as it usually did.  It also has no header thanks to the program block before it.
+
+The final part is the actual games themseleves.  This is an ordinary BASIC program, 37859 bytes long.  
+
+There is a significant pause after loading, during which time a counter is displayed.  The main menu will appear when the counter reaches zero.  For those who are interested, user defined graphics are being created in what is left of the memory.
+
+The choice of game is made from the main menu by pressing 1,2,3 or 4.  You may have to hold the key down for longer than you expect because the keyboard scan routine is somewhat slow.
+
+
+1. Hangman 123
+So named because it contains 123 different words. Press S at the main screen to start the game. After that, Enter starts each session, and letters are pressed to guess. Too many wrong answers and the man will hang in a variety of ways and colours!
+The colours are also different for each word - selected at random.
+To exit this game, you were originally intended to press TrueVideo on the +2. In the emulator, this is CapsShift-3. (TrueVideo was a separate key on the +2 at the top left of the keyboard, but not on earlier models). 
+
+2. Number Smash
+Another well known item, which I originally saw on the TRS-80 and later converted. The instructions are included in the game and are fairly obvious. Space drops the ball. Points are scored by dropping the ball on a number, ball is burst by dropping on a spike. There is also a time limit to the game.
+Much of the scoring depends on luck, as the numbers can combine together when generated. It is also impossible to drop the ball between the spikes, so don't bother trying.
+As an interesting side effect, this program also helps the 'randomness' of the random number generator, which is also used to select words in the Hangman game.
+Playing this game should therefore give more random results in Hangman 123.
+To exit, just select N after the game. 
+
+3. Treasure Chests
+Another one converted from the TRS-80. This is rather cunning, in that the computer usually wins. If you make the first move correctly, you can win. One wrong move and it is impossible to win. The computer making a move first also results in a no-win for you! (On to a loser here for sure!)
+So, there is a line of treasure chests, and you want the last one. You can remove 1,2 or 3 at a time by pressing 1,2 or 3. It IS possible to win - just think of the number 4 and the solution should be obvious. (Email if you can't work it out!)
+The winner gets to make the first move on the next game, so once you lose, you lose forever. What a complete waste of time! 
+
+4. Mirrordraw
+A drawing program. You can use keyboard or Sinclair joystick for this one. (Keys are explained in the game). You draw in the bottom left quadrant of the screen, and the other 3 quadrants are a mirror image. The version on the TRS-80 was similar, except it had no colour, no joysticks and the graphics were hideous. To change the colour, press C and then type the NAME of the colour - e.g. RED, BLUE, CYAN, etc. The highly advanced text processing engine will select the right colour for you!
+Other options just involve pressing the relevant letter, and the effect is applied to the entire screen.
+SPACE exits to the menu. 
+
+
+ORIGINALLY DOWNLOADED FROM http://www.cowl.co.uk/spectrum/

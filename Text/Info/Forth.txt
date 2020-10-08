@@ -1,0 +1,33 @@
+copied from the user's manual:
+
+
+	Spectrum Forth Installation instructions
+
+Load the Forth compiler by:
+
+LOAD "" CODE (CODE = extended mode I)
+
+Stop the tape when it has loaded (or emulator equivalent for TZX files)
+
+The Forth editor is next on the tape. To load it type the following:
+
+	1 LOAD <ENTER>
+
+The computer will respond with:  READY CASSETTE.
+
+Pressing ENTER will initiate the cassette loading routine.
+
+Start the tape and then press ENTER.  The first screen takes a few seconds
+to load.  Stop the tape when the characteristic blue and yellow lines finish.
+Wait for READY CASSETTE to appear and then start the tape and press ENTER.
+There are a total of 3 screens to be loaded.
+If the program does not load properly, re-wind tape to beginning of screen.
+After the third screen has loaded, 'OK' will appear.
+
+N.B. Don't be alarmed by an error MSG #4
+Your editor is now loaded.
+
+Now start programming in Forth.
+
+
+	HAPPY PROGRAMMING & GOOD LUCK

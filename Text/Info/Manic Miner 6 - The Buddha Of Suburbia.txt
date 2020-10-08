@@ -1,0 +1,84 @@
+MANIC MINER: THE BUDDHA OF SUBURBIA (C) 1998 BROADSOFT
+===================================
+
+For the Sinclair ZX Spectrum
+
+Written by Andrew Broad
+Email:     broada@cs.man.ac.uk
+Website:   http://www.cs.man.ac.uk/~broada/
+
+The Game
+--------
+
+Manic Miner: The Buddha Of Suburbia is a redefinition of the screens in Matthew Smith's classic Manic Miner, which I acknowledge as being the copyright of Bug-Byte (1983). It also uses a few bits and pieces from Jet Set Willy (Copyright Software Projects 1984) and Jet Set Willy II (Copyright Software Projects 1985) as detailed in the notes below.
+
+Aficionados of the ongoing Manic Miner series should note that this is *not* Manic Miner 5 - that has just been written by Ignacio Perez Gil, and is probably being released on the Internet as I write this! :-)
+
+As the title suggests, the concept for the game is based on David Bowie's soundtrack album for the BBC2 adaptation of Hanif Kureishi's novel. However, only the back ten rooms are based on The Buddha Of Suburbia (a room for each track on the album), the first ten being a motley crue of early Manic Miner experiments, which turned out to be good enough to keep. This game was originally written in 1994, with no plans to release it on the Internet (which I had not heard of at the time), but in 1998 I hacked it slightly to bring it up to my current standards, and here it is!
+
+The Buddha Of Suburbia is a pretty impressive Manic Miner game, because it was written using my own Manic Miner Screen Editor, which was recently released on the Internet for the first time. While MMSE did not quite have all the functionality then as it does now (notably the capability to edit vertical guardians), I was still able to create rooms which are indistinguishable from the original caverns, unlike some MM rewrites I could mention! ;-) While most of the rooms are not as difficult as those in Manic Miner 4, they still provide the experienced Manic Miner player with an adequate challenge, especially due to the severe time limits in the second half! :->
+
+The music that plays after the game has loaded is a rather crappy rendition of the brilliant title track from David's album - "Buddha Of Suburbia".
+
+Many thanks to Richard Hallas (Richard@hallas.demon.co.uk) for rescuing this game off audio cassette for me and creating the TAP file!
+
+The Caverns
+-----------
+
+ROOM 0: "The Terminator". Based on this awesome movie I once saw in which a robot which looked just like a man on the outside was sent back in time from 2029 to 1984 to destroy the leader of the resistance by killing his mother before he was born, this was (as far as I can remember) the first Manic Miner room I ever wrote, which was back in 1992 using an early prototype of my Manic Miner Screen Editor. In it, you have to get past the terminator (which has been stripped down to its metal endoskeleton after being blown up in a truck) to collect the dynamite stick from the high ledge. Watch out for the rapid falling-away floor! (This effect was unintentional, due to a bug in the graphic, but I liked it so I left it in :-) ).
+
+ROOM 1: "Terminator 2 : Judgement Day". A follow-up to the previous cavern, based on the film's sequel, which I renamed slightly to get rid of that awful Americanised spelling of 'judgement'! You have to dodge the morphing T1000 terminators (notice the clever way the one on the left walks through a solid wall when it comes on - this was achieved by defining the wall graphic to be blank) and collect the two chips so that they can be destroyed. The cyan static nasties are arms ripped off from T800s like on the previous screen.
+
+ROOM 2: "Andrew's Hall". A grand chamber in honour of myself, in which you have to avoid the giant spirit-level-effort and collect the hanging droplets. I've given you a couple of tricky jumps over static nasties at the top, combined with a conveyor!
+
+ROOM 3: "The Off Licence". A room in Jet Set Willy II, converted to the Manic Miner room format! Unfortunately, I could only have five flashing cola bottles, due to the Manic Miner's limit on the number of items per room, and vertical guardians are not possible in room 3.
+
+ROOM 4: "Zane Zane Zane - Ouvre le Chien!" A surreal, narrow cavern, named for the refrain that features on two David Bowie songs: "All The Madmen" and "Buddha Of Suburbia", featuring the robots from "Central Cavern" and a badly-drawn pterodactyl that behaves like Eugene Jarvis in the original Manic Miner. Don't be fooled by the floor that is animated and the conveyors that aren't!
+
+ROOM 5: "Screen for Monica Seles". A tribute to the greatest tennis player of all time. I figured that if David Bowie could write a song called "Song for Bob Dylan", then I could do likewise for my heroine! This room was written in 1994, after the Stabbing (30th April 1993) and before the Comeback (29th July 1995). The screen, with its knives, rackets, nets and balls, symbolises my obsessive hope that she would return, at a time when it seemed increasingly likely that she would not. The portal represents the ladies's Wimbledon trophy - it has always been my biggest dream for Monica to one day hold it aloft!
+
+ROOM 6: "Dalek Invasion". A tribute to the wonderful creatures from Dr Who, encapsulated in giant pepperpots - I used to be one when I was a little boy! I saw the graphics on Teletext in low resolution, liked them, and decided to use them in a Manic Miner room! Cleverly designed so that you have to go along that tricky conveyor twice (or three times, depending on the route you take through the screen) to collect all the items and exit via the Tardis (my spellchecker didn't know the word "Tardis" - it suggested "turds" as a replacement!).
+
+ROOM 7: "[". A tribute to room 47 in Jet Set Willy, using the ill-defined block graphics from there to make a real room. The graphics for the saw and the bog are also ripped from Jet Set Willy. Also based on "Miner Willy meets the Kong Beast" - this time, flicking the left switch will /block/ your way!
+
+ROOM 8: "The Girl From Tomorrow". A tribute to a TV series that was shown in the late spring of 1993, about a girl called Alana from the year 3000 who gets hauled back to the 1990s. The items are transducers - amazing devices from the future, controlled by psychokinetic energy that allow she who wears it on the head to move objects around, heal wounds, zap people etc. I've also added Maria's feet from Jet Set Willy to increase the sex appeal ;->. The portal graphic is my logo from my Dalek days: the death star from Star Wars!
+
+ROOM 9: "Tomorrow's End". A tribute to the follow-up series, in which Alana and her friends from 1990, Jenny and Petey, spend most of their time traipsing around in the year 2500 (a time when the world is devastated by greed, lack of natural resources, war and fear) in a failed attempt to prevent the northern hemisphere being wiped out :-( (although they do save the southern hemisphere - it's an Australian series). Featuring Jet Set Willies, fast-crumbling floors and more transducers.
+
+ROOM 10: "The BUDDHA OF SUBURBIA : suburbs". This room marks the start of ten rooms corresponding to the ten tracks on David Bowie's album, The Buddha Of Suburbia. The first track is called "Buddha Of Suburbia", hence the capitalised part of the title. The subtitle "suburbs" is due to the fact that Hanif Kureishi's novel The Buddha Of Suburbia is in two parts, the first of which is called "In the Suburbs". You have to collect the strange symbols from around Eva Kay's house, while avoiding the barrels (blagged from Jet Set Willy) and the kneeling Buddhists (I know they're crap graphics, but they were difficult to draw, and if you think those are bad, you should have seen them in the original 1994 version! ;-) ).
+
+ROOM 11: "Sex And The Church". The song, and hence this room, symbolises the union of the flesh and the spirit. Collect the flashing (in more ways than one ;-> ) statuettes, flick the left switch to unblock your way and the right switch to down Maria (from Jet Set Willy). The horizontal guardian is a harmless shadow. There's an awkward jump at the top which requires you to walk the wrong way along the conveyor, and then suddenly stop dead and jump straight up!
+
+ROOM 12: "South Horizon". A fairly indescribable room which requires good timing and to see which blocks are which (e.g. there are floor blocks hidden in the wall). The weird bone efforts are again pinched from Jet Set Willy.
+
+ROOM 13: "The Mysteries". An easy room based on "Skylab Landing Bay", because I couldn't figure out how to make a difficult room out of it (but wait till you see room 13 of The Hobbit! :-> ). The only thing that makes it difficult at all is the tiny air supply! The guardians are the boot graphic from Manic Miner, which explode into that weird platform at the end of that game (in The Buddha Of Suburbia, the Game Over sequence features Willy being decapitated by a guillotine!). The items are supposed to be palm trees, inspired by a David Bowie quote between songs on the Santa Monica '72 live album that sounds like: "Plainty on the courtesy of a piece of palm tree that I asked a lobster tail, and they sent me a palm tree, piece of palm tree..."
+
+ROOM 14: "Bleed Like A Craze, Dad". A pretty tough room, requiring good timing and accurate jumping under pressure, with the vertical guardians being solid 16x16 pixel blocks. It's almost as tough as trying to work out the lyrics to this bizarre rap song: "Easy come, come, coming back on the barley where the dead man walks on his right from the jice"?
+
+ROOM 15: "Strangers When We Meet". A surreal interpretation of the song which went on to be a hit single in 1995 (but in my opinion, the version on The Buddha Of Suburbia is far superior to the one on Outside, even though Outside is my favourite Bowie album). Featuring the flying pigs from Jet Set Willy, one of them swimming through a vat of blank floor. Can you spot the item?
+
+ROOM 16: "Dead Against It". Looking for all the world like a hunting gallery with it's mousse's heads and the general atmosphere, this is the hardest room in the game, requiring pixel-perfect jumping, frame-perfect timing and nerves of steel (or judicious use of the pause button) to collect the two items at the top-left of the screen, guarded by a fearsome horizontal guardian!
+
+ROOM 17: "Untitled No. 1". Ladders, levels and lollipops - yes, David really did write an untitled song (and peculiar, impressive-sounding lyrics it has too!). The items are placed over crumbling floor, to stop you from jumping up for them from the platform below, a failing of the original 1994 version!
+
+ROOM 18: "Ian Fish, U.K. Heir". Time is of the essence here, as I've combined a low air supply with an air-sapping beam of light. At least I've had the decency to keep it still, by not having any horizontal guardians walking through it, but it'll still take you several lives to clear this room!
+
+ROOM 19: "The BUDDHA OF SUBURBIA : city". On the album, this was simply a repeat of the title track, featuring Lenny Kravitz on guitar but sounding almost identical nevertheless. This room is very different from room 10 though, apart from reusing the Buddhist graphics, featuring skyscrapers and another strange symbol (I can't remember what it's supposed to be!). It's a really easy room, with the only real danger of death coming when you have to jump the red Buddhist at the bottom of the screen. Like the final room of Manic Miner 4, I've given you an infinite air supply, causing the Spectrum to lock up when you complete the game. The subtitle "city" is due to the fact that Hanif Kureishi's novel The Buddha Of Suburbia is in two parts, the second of which is called "In the City". The top half of the screen, which also appears on the title screen, is supposed to vaguely resemble the background on the album cover.
+
+Internet
+--------
+
+I have a Spectrum page on the World Wide Web, at http://www.cs.man.ac.uk/~broada/spectrum/.
+
+There's a page dedicated to Manic Miner and Jet Set Willy games at http://www.cs.man.ac.uk/~broada/spectrum/willy/.
+
+Games I have written (such as this one) can be downloaded from http://www.cs.man.ac.uk/~broada/spectrum/download/. This page also has news and previews of any future games I'm planning to release, including projected release dates (which may change over time according to my progress).
+
+Whenever I release something, I announce it on the comp.sys.sinclair newsgroup, so Manic Miner and Jet Set Willy fans should regularly look through this newsgroup and/or periodically check my website.
+
+Copyright Notice
+----------------
+
+MANIC MINER: THE BUDDHA OF SUBURBIA is of course my copyright, but I don't mind you putting it on your own website, or reusing some of the screens, graphics etc. in your own games. However, such material must state that (the appropriate parts of) it are the copyright of Broadsoft - failure to do so may be construed as plagiarism!
+
+Please let me know if you do put MM:TBOS on your website or reuse bits of it - it's not that I'd have any objections, I'd just be very interested to know what follows from releasing my game!

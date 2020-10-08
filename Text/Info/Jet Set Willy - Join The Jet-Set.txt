@@ -1,0 +1,352 @@
+Join the Jet-Set! starring Miner Willy
+-=-=-=-=-=-=-=-=-
+
+Created by Richard Hallas (Richard@hallas.demon.co.uk)
+
+Plot:
+-----
+
+Having woken up from his deep sleep, our intrepid hero is keen to
+explore the surrounding countryside. Whilst Willy would dearly love
+to join the jet-set, funding the upkeep of a mansion is no mean feat,
+and Willy needs more resources if he is going to hobnob with royalty.
+Therefore, he buys himself a crash helmet (not that it's very effective)
+and sails off to a nearby island with a central mountain. The game
+starts with Willy in the palace of the mountain's royal resident.
+He must collect all the valuables from inside the mountain, the
+surrounding trees and gardens, and from the local town. He must also
+fly through the sky, go to sea, and even take a trip to hell and back!
+
+Background information:
+-----------------------
+
+This game was created using the truly outstanding (Software
+Projects-approved) "JetSet Editor" which was written by Paul Rhodes
+and published by Spectrum Electronics. This editor is much better than
+the 'Softricks Mark II Jet Set Willy Editor' which has been available
+for a long time on the various FTP sites. I do still have the original
+tape of JetSet Editor, and thanks to the efforts of Barry Plewa, it
+has now been made into a snapshot (plus TAP file with some demo rooms).
+It's available in a zip archive for downloading, complete with OCRed and
+corrected documentation. Sincere thanks to the author, Paul Rhodes, for
+agreeing to its free distribution.
+
+Join the Jet-Set! was intended to be very much in the style of Jet Set
+Willy, with a similar atmosphere and collection of awful puns, etc.
+(Sorry if some of the jokes are a bit bad, but remember I was only 14
+or 15 when I thought them up!) Most of the rooms in the game are
+original, but a handful of JSW rooms remain, in an edited form.
+
+An important source of inspiration was a letter which appeared in Your
+Spectrum magazine (or was in Your Sinclair by then?) - I no longer have
+the magazine, so can't look it up. The letter caused much excitement
+amongst my Spectrum-owning school-friends, as it contained many exciting
+claims about Jet Set Willy (all of which were fictitious). As I recall,
+it said that if you were standing on The Bow (of the Yacht) at 7:30pm
+(I /think/ that was the time - or was it midnight?), a raft would appear
+and take you to a desert island (which I think was called Crusoe Corner,
+though I may have invented that name myself). You could climb a tree on
+the island to reach "Tree Tops - the sequel". The letter also mentioned
+an "Ice Volcano" below Hades.
+
+Although the letter was a piece of pure invention, and none of the
+things it mentioned existed in JSW, it caused a lot of excitement; and
+the fact that the yacht does sail away to a desert island in JSW II
+probably owes something to it, as might the fact that there's a raft
+in Dynamite Dan. Anyway, I took many of the ideas in that letter and
+made them reality in this game; so you really can visit the ice volcano
+(has hell frozen over?) and go to that desert island.
+
+I play-tested this game extensively all those years ago (and since
+retrieving it for the emulators!), and it's definitely possible to
+complete all the rooms and collect all the objects. Some rooms are very
+tricky, but most are quite easy, and the game overall is probably easier
+to complete than JSW itself. Have fun!
+
+Tunes:
+------
+
+The game features a choice of ten tunes, which must be poked into memory
+before the game starts. The ones I can remember are as follows:
+
+0 - Tambourin, by Gossec
+1 - Unknown
+2 - If I were a rich man, from Fiddler on the Roof (original JSW tune)
+3 - In the Hall of the Mountain-King, by Grieg (original Manic Miner tune)
+4 - Unknown
+5 - Whistle Song (original)
+6 - Unknown
+7 - Unknown
+8 - Unknown
+9 - American Patrol
+
+Sorry I can't remember half of them! I do recognise two or three of
+them, but can't put a name to them; the others may have been ones I
+thought up (like number 5) or adaptations of TV themes, etc.
+
+Guided tour of rooms (in alphabetical order):
+---------------------------------------------
+
+(*SPOILER!* If you want to 'preserve the magic' and discover all the
+rooms yourself, come back and read this section later after you've spent
+some time playing the game!)
+
+'A Big HELLO from Richard Hallas!' - A very bad joke which I couldn't
+resist...
+
+'A far cry from Hades' - This tranquil, sunny and pleasant scene is far
+removed from the hellish screens next to it.
+
+'All at sea' - en route to the desert island. Watch out for the
+submarine!
+
+'Below Hades' - directly below hell, you must navigate through the
+furnace to collect the flames, avoiding the evil scroll and the devil.
+Note the rather nice dancing-flame effect of the conveyor belt.
+
+'Branch' - this "branch of the tree" is a pun: you must collect the
+railway train's eggs from the nest, as well as the baby engine which
+is learning to fly. Branch = railway branch-line. GWR on the side of
+the engine = Great Western Railways.
+
+'Bug-Bytten' - Named for Bug-Byte software, original publishers of Manic
+Miner and publishers of Stay Kool, subject of the adjacent room
+(see 'Who is Luke Warm anyway?').
+
+'Cliff walk' - walk through a secret passage to reach the cliff.
+
+'Courtyard' - a tricky room; collect the cutlery from the battlements.
+
+'Crusoe Corner' - the fabled, fictitious desert island from JSW.
+Collect the coconuts.
+
+'Entrance to Hades' - at last, this screen is a real part of the game.
+Collect the crucifixes and avoid the evil god.
+
+'Eugene's Lair' - an adaptation of one of my favourite caverns from
+Manic Miner. The old-style toilets have been replaced by the Jet Set
+Willy ones, though.
+
+'Hades' - you can actually go there in this game! There's no special
+significance to the words "Live or let die" except that they're similar
+to the title of the James Bond film, and seemed appropriate to this
+location.
+
+'How on earth did you get here ?!' - Well, if JSW can have an unreachable
+room in it, why can't I?
+
+'If I were a rich man ...' - This is the name of the music from Jet Set
+Willy. Collect all the money bags.
+
+'In mid air' - Jump from aircraft to aircraft, but avoid the smutty
+fumes, and don't get too close to the sun!
+
+'Inside the trunk' - halfway up the tree. There's a subtle exclamation
+mark built into the trunk, which is made out of lethal blocks, just
+ready to catch you if you ascend the wrong side of the trunk...
+
+'In the Hall of the Mountain-King' - This is the name of the music from
+Manic Miner. The Mountain-King floats up the middle of the screen. The
+object at the bottom-right (for the end of the game sequence) is an RH
+monogram.
+
+'Into the sky' - Watch out for the black rain-clouds! This room is
+notable because it features a non-central rope. Note that there's a
+bug associated with this - you get picked up by the rope as if it were
+positioned in the centre of the the screen, if you try to approach it
+from the right!
+
+'Into the wide blue yonder' - leading from 'Up in the clouds' (see
+entry). I /told/ you to watch out for birds! Collect the bird's eye.
+(Hmm, now I wish I'd included a fish's finger!)
+
+'Is this Pacman or Caterpiller?' - a very attractive room which requires
+pixel-perfect jumping and exact timing to traverse.
+
+'Library' - the red/yellow blocks are meant to look like rows of books.
+Collect the Bible. Note the machine bouncing the ball at the bottom of
+the screen - it's not possible to jump over this.
+
+'Maria's Hideout' - A redecorated Master Bedroom
+
+'M*E*S*H' - The title was taken from one of my favourite TV programmes,
+M*A*S*H. This room is easy, except for the fact that the details are
+hard to make out because you see them through a mesh. Seeing this screen
+on a computer monitor makes it rather too clear; it was much harder to
+make things out on a normal TV set!
+
+'Mountain Peak' - the tip of the Mountain-King's home.
+
+'Mules Pong' - a joke based on Donkey Kong. Jump the barrels, avoid the
+flames, collect the broken heart at the top to rescue the damsel in
+distress.
+
+'My Old Flame' - This is the title of a song, here represented by the
+collectable flame on top of a candle.
+
+'Nelli Secundus' - A "Nomen Luni"-style pun on A&F Software (also known
+as A'n'F), who were responsible for Chuckie Egg. The A and F letters are
+built into the floor, and you have to collect the ampersand (&). Watch
+out for the rolling (chuckie) egg... A&F Software used to subtitle
+themselves "Nulli Secundus" - "Second to none"; hence the title of this
+room.
+
+'Off to town!' - jump the skyscrapers and collect the satellite dishes.
+Be careful when entering this room from the right.
+
+'Out on a limb' - slightly modified room from JSW.
+
+'Outskirts of town' - this room forms a pair with 'Under the mansion',
+and you must cross sets of platforms through both rooms just to get a
+single object. Doing so is extremely difficult - this is probably the
+most demanding object to collect in the whole game.
+
+'Over Dover' - It's always raining over the white cliffs. Jump on the
+driving rain to collect the object.
+
+'Over the harbour' - Collect the flag from the top of the ship's mast.
+
+'Over the ocean' - You're in fluffy white cumulus clouds, attempting to
+collect a flag which has blown away. Watch out for the bird and the
+raindrop, and be careful not to fall from the clouds, which are only
+partially solid! If you jump left off this screen to get back to "Tree
+Tops - the sequel", be *very* careful about how you do it!
+
+'Plinth' - A "Monty Python"-inspired room, like the end-game foot from
+both MM and JSW. Collect the foot, but don't allow yourself to be
+stamped upon! Easier than it looks.
+
+'Sweet dreams!' - a rather unnerving development from JSW's 'Nightmare
+Room'! Note that it's not possible to exit to the left of this room.
+Collect Maria's frowning eyes. Note that if you jump up from Maria's
+hairpiece, you end up in 'Wigfalls'. This was supposed to be amusing.
+
+'The Aviary' - Ascend the parrots' backs to collect the ostrich,
+watching out for the other flying birds.
+
+'The Book Tower' - named after the children's TV programme hosted by
+Tom "Dr Who" Baker. The room takes the form of a castellated tower made
+from Bibles. Collect the glowing books, avoiding the lethal bookworms!
+The bookworms are a little tribute to Bill the Worm from Mined Out!
+(Quicksilva) and Splat! (Incentive), both of which were written by
+Ian Andrew.
+
+'The Bow' - Thanks to a new pair of boots, Willy can now walk on water!
+The letter in Your Spectrum mentioned that a raft would appear and take
+you to a desert island at 7:30pm(?). Whilst this was not true, in this
+game it is possible to reach that desert island.
+
+'The Cess Pool' - at the bottom of the garden... This is a tricky jump,
+especially from right to left. It's very easy to land right in it. Oh,
+you do have to collect one rather unpleasant object!
+
+'The Gaping Pit' - in JSW, this was the original title for the room 'We
+must perform a Quirkafleeg'.
+
+'The Garden' - jump over the plant pots to collect the flower in this
+alpine garden. Watch out! Most flowers are deadly.
+
+'The Greenhouse' - lives up to its name...
+
+'The Ice Volcano' - A fictitious screen of this name was mentioned in
+the letter in Your Spectrum. In this game, it really exists. The
+ice-cubes erupting from the volcano are actually undefined guardians
+from the original JSW game - I thought they looked quite suitably icy
+without any editing!
+
+'The Object Shop' - surely the most objects you've ever seen all
+together in one place! An easy room, but watch out for the bird!
+
+'The Off Licence' - modified version of the room from JSW.
+
+'The On Licence' - compare with 'The Off Licence'. I know this joke is
+awful, but I couldn't resist it; sorry!
+
+'The Plumber is incompetent' - a joke focussed on the end-game animation
+from JSW. Quite a tricky room.
+
+'The Smithy' - named for Matthew Smith, creater of this wonderful Miner
+Willy series. As he was (is!) considered a bit of a demi-god by Spectrum
+games-players, the room contains a couple of 'god' guardians.
+
+'The Terrace' - don't spend too much time trying to get the object if
+you've entered the room from the left...
+
+'The TV Room' - Collect the TV aerial, avoiding the TV sets and joystick.
+I don't know who the TV presenter is, but he must be a bore!
+
+'The wide blue yonder' - collect the "B" for "blue". This room is quite
+tricky because of the combination of wide jumps which need to be timed
+carefully with the firing of arrows. NB You can't cross this room from
+the right; you need to enter it from 'Into the wide blue yonder'.
+
+'The Yacht' - Willy has moored his yacht at the foot of the cliff.
+
+'Top of the cliff' - rescue the stranded man who's reaching out for
+help, and avoid the fish.
+
+'Tree trunk' - The bottom of a three-screen-high tree, situated at the
+side of the mountain.
+
+'Tree Top' - slightly modified room from JSW.
+
+'Tree Tops - the sequel' - As far as I can recall eleven+ years on, the
+Your Spectrum letter mentioned that climbing the tree on the desert
+island led to a screen called 'Tree Tops - the sequel'. So here it is.
+
+'Under the mansion' - see entry for 'Outskirts of town'; this room is
+half of a pair, with a very hard-to-reach object in it. The object is an
+arrow pointing upwards, indicating the direction of the mansion.
+
+'Up in the clouds' - you're high up in the sky. Watch out for birds...
+
+'Use "WRITETYPER" in this room!' - a fairly unsubtle clue as to how to
+turn on the cheat mode!
+
+'WC' - an outdoor privy of no special significance.
+
+'What shall I do with this room?' - I ran out of ideas for naming this
+one! It's a moderately taxing challenge, though. Watch out for the
+Microdrive cartridges!
+
+'Who is Luke Warm anyway?' - This refers to a very obscure game called
+Stay Kool, which featured a main character called Luke Warm. Stay Kool
+was a mediocre platformer which was very much in the Manic Miner/JSW
+style, and which was written by a friend of my best school-friend's
+elder brother. Stay Kool was published by Bug-Byte (see 'Bug-Bytten').
+It was never successful. I played it once in a shop, but didn't buy it.
+
+'Wigfalls' - named after a chain of shops which, I think, no longer
+exists. (As I recall, they sold DIY stuff.) In this room, you must
+collect the flashing "W", whilst avoiding the falling wigs.
+
+'[' - A tribute to the spare room in JSW.
+
+Distribution terms:
+-------------------
+
+I release this game as freeware, since its whole purpose is to be
+played and enjoyed, but I retain copyright on those parts which were
+created by me. The room designs from this game form half of the rooms
+in John Elliott's Jet Set Willy 128 (the other half being the original
+JSW screens); anyone wishing to make use of elements of this game in
+other ways (such as extracting some of the tunes, graphics, room designs
+or whatever) may do so as long as they attempt to ask my permission
+first. I will almost certainly grant permission; I would just like to
+know what's happening to my game. Copies may be distributed freely in
+an unmodified form (if you wish to make any modifications, please ask
+me first). If the game is to be distributed on a medium other than an
+Internet FTP site or Web page (e.g. a CD-ROM) then I would appreciate
+being notified of the fact, and if a copy of the relevant publication
+could be arranged, then that would be even more appreciated. The bottom
+line, though, is that this is a free game. Do whatever you like with it;
+but, above all, enjoy it!
+
+Richard G. Hallas
+31 Skelton Crescent
+Crosland Moor
+Huddersfield
+West Yorkshire
+HD4 5PN
+Tel./Fax 01484 460280
+Email Richard@hallas.demon.co.uk

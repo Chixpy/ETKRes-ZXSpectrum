@@ -1,0 +1,138 @@
+   time to put word wrap on!
+
+================================
+jet set willy - part 48539481231
+================================
+      willy to the rescue!
+================================
+            credits:
+
+matthew smith:
+                     game engine
+                   16x16 sprites
+           many of the 8x8 tiles
+             the game concept :)
+
+paul rhodes:
+             the jsw game editor
+
+sendy:
+                 new game layout
+================================
+
+--------
+firstly:
+--------
+
+okay, i am not going to beat about the bush here. this is just a straightforward re-arrangement of the screens that make up jet set willy. i found a whole bunch of fansites and editors for the game about a month or two ago and this just re-triggered my interest in the game, and subsequently in retro-gaming and emulation. hell knows they don't know how to make a decent platform game nowdays ;(
+
+so this, my first crack at the jsw whip, was created mostly within a one week binging period, in two hour sessions, with occasional breaks for sunlight, nutrition, excersise, and other basic bodily functions. i must point out that it was a bit of a rush job - i wanted to make a game and i wanted to make it now!, but i have also taken a great deal of care and have experimented a fair bit with the layouts and graphics. i also feel that the 'rushing' has given the game a rhapsodic, stream-of-consiousness kind of quality, which i quite like :)
+
+one thing which is worth noting is that *none* of the guardian sprites, or their patrol paths, were redefined by me - i have not worked that part of the editor out yet (probably explains how i finished it so quikly). so every attack path in the game can be found in the original jet set willy, i have just moved them to different locations to make them fit in with the levels.
+
+also you might recognise alot of the platform tiles and flashing objects from the original jsw too. this was partly me being lazy, and partly because it's interesting to see them fit together in a different way from the original.
+
+------
+story:
+------
+
+oh my god, am i really bothering with this?!?! :> okay... we all know that maria was no good for willy, far too dominating and frigid and to be honest a bit frumpy. so finally seeing sense, willy leaves her, and his old (and quite frankly, rather impractical) mansion behind for a life of adventure with his best friend from school, adam. adam is not a square like maria and likes to go off and do different things, he has an interest in amateur archeology (but he can't spell it) and is often away, giving willy plenty of living space.
+
+all is going well, when during one particularly long period of abscence, willy gets a rather alarming call on his nokia cellphone. on the line is a rather distressed-sounding adam, who claims that he has been locked away deep in the long-lost underwater catacombs of xojad (yes, xojad) by a bizarre creature which looks identical to maria, and who is demanding that willy comes over, right now, and collects all 256 flashing objects from the tombs and caverns before midnight, or the chamber will give way, causing the ocean to come flooding in killing them both, and also causing the worldwide sea-level to drop by a staggering 0.0000012mm, which may have disasterous effects to certain wildlife *gasp*!
+
+so, willy hires a boat to the island of xojad (there goes the last of his funds) and is dropped off on a sandy beach, in front of a huge pyramid. on the side of the structure is a horizontal entrance shaft, over which is an inscription "here lies the entrance to the long-lost tomb of xojad", so he guesses he's in the right place. he also wonders why nobody else has spotted the pyramid before, and why everybody had referred to it as 'long-lost' when he had found it in under an hour by reading a map. he deduces that the name is merely for effect.
+
+that is where the story ends and the game begins. to the left lies the vast (nameless) ocean, and to the right, the entrance to the pyramid. willy can't walk around the pyramid since he lives in a reality with only 2 spatial dimensions. this also means that technically he would run into problems ingesting and excreting matter in a continouous bodily system without falling apart, but we won't go into that here - far better just to get on with playing the game :D
+
+----------
+locations:
+----------
+
+i'm not going to do a room by room evaluation, and tell you every single detail of the game here in notepad, since i think that would ruin it. but i will tell you about some of the general locations so you can try and find them.
+
+* the molten core of the earth. don't go swimming in the red stuff ;)
+
+* the golden palace. a nice shiny, tricky screen with lots of objects and guardians.
+
+* the top of the pyramid. collect the items at the tip and then clamber down without (losing a life :)
+
+* the two flashing headache screens. they flash. and try to give you a headache.
+
+* the cheese chamber. it's a stinker, so you might want to take the obvious shortcut. but then you won't get the objects :)
+
+* the bathroom. this bath is huge, designed for orgies and wotnot. you know the ancients really knew how to have a good time...
+
+------
+hints:
+------
+
+* the rooms are connected in a fairly stable fashion, apart from a few dodgy connections which were implememted to make things slightly confusing.
+
+* don't go down a hole unless (a) you know it's safe because you've seen the screen below, or (b) you don't have to fall very far before you flick down a screen. this means don't fall a space of 1 or maybe 2 squares if you're feeling lucky.
+
+* you can actually drop down from the left side of 'inside and outside' down to 'anybody home'. i mention this because (a) it looks like it would kill you, and (b) you may want to backtrack after taking that route (although 'headz' really isn't as hard as it looks!).
+
+* don't go jumping into an unfamiliar room, unless you are fond of the multiple death scenario ;)
+
+* i've made it quite clear what the deadly blocks are (spikes, lava, stuff like that) but on occasions you will have to look closely at a room and use your powers of deduction.
+
+* you do not have to sacrafice any lives in this game. so i will *not* be issuing any special pokes a few months down the line to make the game possible :)
+
+---------
+in future
+---------
+
+more jsw games!!! possibly with a different editor or for jsw128...
+
+i am also redesigning manic miner, using andrew broad's manic miner screen editor, so this will likely be finished in the not too distant future.
+
+i also started work on redesigning the levels for super mario brothers 3 on the nes, using abe's mario 3 improvement tool (which lets you break into the rom and change the objects in the game and move them around). this was going *extremely* well, and i had what i believed was an improvement on the level design (completely new levels and they took ages to build) until i accidentally created a bug in the rom. unless i can get this fixed this project is going nowhere. if anyone can help (i.e they know anything about hacking roms) please get in touch!!
+
+i've also nearly finished a 99 level game for diamond caves ii, which is basically a remake of boulderdash, with loads of extra features. this has not been worked on for almost a year now, so i may just release it.
+
+as you can probably tell i am very much into game design, especially platform, puzzle, and shootem up games. so if you know of any other projects where i may be of assistance, please let me know :)
+
+-----
+links
+-----
+
+http://home.onet.co.uk/~cornhill/sendy.htm
+
+my homepage, mostly dedicated to my own 'music' productions
+
+
+http://home.onet.co.uk/~cornhill/retro.htm
+
+the retro-gaming branch of my website (not made yet, but that is where it will/may already be)
+
+
+http://www.cs.man.ac.uk/~broada/spectrum/willy/
+
+andrew broad's mm/jsw pages, contain lots of useful information, links and downloads.
+
+
+http://members.xoom.com/erix1/mm/mm.htm
+
+manic miner technologies. excellent and good-looking site.
+
+
+http://clubs.yahoo.com/clubs/manicminerandjetsetwilly
+
+the yahoo! club for mm/jsw fans, where you can meet other people who share your fetish :>
+
+-------
+finally
+-------
+
+if anyone has any comments about this game, please address them to:
+
+sendy@btinternet.com
+alex.c@onet.co.uk
+or
+sendy@x-stream.co.uk
+
+i retain the copyright to the levels in this file, so using them in your own game/project without permission will result in a giant cat scratching your eyes out at some point in the future. however if you want to include my game in a compilation or remake of jsw, then i would be honoured, provided that (a) you ask me first!, and (b) this documentation is included in the package as either a text file or a screen in the program.
+
+finally, i will be releasing an update to this rom with the scrolly message changed, just as soon as i work out how to do it! :)
+
+you read this to the bottom. are you okay???

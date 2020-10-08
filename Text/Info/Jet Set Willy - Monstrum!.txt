@@ -1,0 +1,224 @@
+Monstrum!
+=========
+
+A set of new rooms for Jet Set Willy! Hurrah!
+
+====
+
+Before we begin...
+
+Jet Set Willy is Copyright 1984 by Software Projects. JetSet Editor is Copyright 1984 by Paul Rhodes. As far as I understand the current situation, Matthew Smith and Paul Rhodes have given permission to distribute their software in a non-profit way. Monstrum! is based on the autobiography of Tony 'Doc' Shiels, which was published by Fortean Tomes in 1990.
+
+Got that? Good...
+
+====
+
+Tony Shiels is a painter who, for the past forty years or so, has worked in the Cubist, Rheotist, Abstract and Surrealist traditions. He has exhibited widely and has been described as "the finest painter of abstract seascapes" within the St. Ives' School. He has also worked in the spheres of theater, music and conjuring.
+
+NOT a very good basis for a wacky JSW game, is it? That would be so if it weren't for Tony's 'alter-ego', the genuinely bizarre 'Doc' Shiels. Imagine the scene - Doc is standing on a cliff top, overlooking the mighty Helford River. While his assistant fires out a Celtic tune on a button accordion, Doc violently shakes what seems to be a cow skull, shouting at the top of his lungs, "Morgawr! Morgawr!" He is attempting to summon the famous Cornish sea-serpent.
+
+Doc did a lot of this, mainly in the late seventies, and claims to have aided in the summoning of Morgawr, The Loch Ness Monster (which he photographed), a bizarre winged-entity called The Owlman, and a Marine Pieste (a type of Irish sea-serpent). He describes all this in his autobiography, 'Monstrum!', which is well worth a read. What exactly Doc Shiels was attempting to accomplish during this period is 'complex' to say the least, and only one author, Jonathan Downes, has attempted to get to the bottom of it; his book, 'The Owlman and Others', is also worth a read.
+
+When writing my previous Willy game, I included a secret room called 'Doc Shiels' Sea-Head Factory' (Sea-Heads are an artistic symbol Doc uses). The room was created mainly because of the similarity between Willy's top hat and Doc's (slightly taller) stove-pipe hat; this lead to my contemplation of an entire game based on Doc's weird adventures - Andrew Broad has proved conclusively that the subject matter for a Willy game can be decidedly non-Willy. So I did do this, and here is the result.
+
+====
+
+So, the instructions for the game?
+
+Recreate Doc's adventures while collecting various 'goodies' on the way; after all they're there, so why shouldn't you grab them? Maybe they'll help you at some point.
+
+====
+
+I've listed the rooms in the vague order you will encounter them (although the game isn't entirely sequential). Good luck!
+
+The Red Lion Pub
+Doc reckons that booze (particularly stout) is an important factor in monster-spotting. As he says: "It's amazing what you can see when you've had a couple of these." Beware the clientele; they tend to fling their beer glasses about the place.
+
+The Room Behind the Bar
+I'm sure I stole this title from another JSW game, but I can't remember which one. Sorry! (Update 29/8/2000: The answer is 'The Gaping Pit', by Russ Juckes, which has a room called 'Behind the Bar'.)
+
+The Upstairs Lounge
+Watch you don't trip over a handbag on the dance-floor.
+
+On the Way Out the Door
+A rather tricky jump here.
+
+Norman Crocodilidine
+Doc describes (in a Sunday Independent interview) how he and a friend, John Gordon, were on the way to the pub one night when an alien called Norman Crocodilidine made them Custodians of the Entire Universe. As Jonathan Downes says: "Tony has never really cared whether people take him seriously or not, except as a painter."
+
+Foot of the Steep Hill
+A hill with various cavernous regions embedded within.
+
+The Top
+of the hill. The spinning star Guardians turned out quite well, considering the general difficulties of doing animation.
+
+Somewhere Below, Above
+This room is actually above Norman's lair, but you get to it by going down from the hole below Norman. This wrap-around weirdness is also employed to the left of this room. Methinks a bit of a hack to get the layout workable.
+
+The Layby
+As Jonathan Downes relates in his book: "(Doc) passed me back my telephone, and John Gordon told me a garbled and mildly incoherent tale about how he and Tony had been walking to the pub in Ponsanooth one night when suddenly someone leaped out of a lay-by and offered to sell them lemonade. I thanked him politely and switched off the telephone."
+
+The Lemonade Man
+Two Guardians, placed one on top of the other, creating the tallest hat in any JSW game so far!
+
+West Ponsanooth
+I've never been in Ponsanooth, so I can't vouch for the accuracy of the architecture! Getting from the right-hand edge to the bottom can be tricky, but is necessary only if you have to return the way you came for some reason.
+
+East Ponsanooth
+Lots of stars here, marching across the screen in a nicely regimented fashion.
+
+Parson's Beach
+Parson's beach isn't as close to Ponsanooth as I make out here, but the rooms are arranged according to narrative rather than real geography. The Guardians here SO do not look like beach balls.
+
+The Lethal Tides of the Helford
+My colour code is cyan for lethal water and blue for safe water. I've applied this consistently throughout the game. Can you see how to make progress here?
+
+Funny Tunnels in the Sand
+The Jelly Fish worked out quite well, and the crabs are nicked from Matthew Smith's original game. The original game is jam-packed full of great graphics.
+
+Tunnels Leading Under the River
+The items in this and the previous room are supposed to be supports to keep the sand tunnels from collapsing. Don't worry - just take them anyway.
+
+Under the Helford River
+Crabs! Based on Matthew's 'The Beach' graphic, mentioned previously, doubled up, then animated.
+
+Under a Sand Bank
+The usual walking and jumping affair.
+
+Aquatic Lair of the Morgawr
+Morgawr (Cornish for 'sea giant') can be found here, resting in her secret lair. The water effect is the standard water block and ramp combination to permit Doc to swim.
+
+More of the Aquatic Lair
+A very tricky jump to escape from the passageway in the center of the mini-island. I'm sure you'll make it.
+
+Cubist Dream
+Cubism is one of the styles Tony Shiels, the artist, has employed. Because all JSW rooms are representations made within a geometric 32x16 array of squares, perhaps JSW room design is a form of Cubism. Well, it isn't, but it would be nice to think it was art.
+
+Descent into Dream
+A nice 'Forgotten Abbey' arrangement of Guardians at the bottom of this screen.
+
+Exit, or Continue the Cycle
+Are dreams cycles? No, but the four screens that make up the dream have to be navigated according to a spiral-ish path.
+
+Revolution of the Dream Cycle
+Once you get to the centre, pick up the eight items. You've deserved them!
+
+Atop Mawnan Old Church
+A feathery frightener called The Owlman has been seen in the vicinity of this Cornish church. Naturally, Doc was on the scene. You'll have to be extremely careful as falling from the tree could lead to an infinite death syndrome. I could not use the 'invisible fire blocks' technique as they were already spoken for.
+
+The Owlman
+Although Doc never saw The Owlman, we can alter 'history' for this encounter. You can walk through the cross to drop down into the church.
+
+Entrance to the Church
+It's a shame I had to include the block and conveyor floating in the middle of space, but you have to get down some way.
+
+Inside the Church
+This is the place where Doc infamously attempted to summon The Owlman. It was originally reported that he had "wandered about the inside of the church, smoking and incomprehensibly shouting, ending up on top of the altar threatening God" and saying he would smack Him in the gob. This initially got Doc in trouble with the Bishop of Truro, but it turned out that none of these events had actually happened at all.
+
+Pitch Black Crypt
+An attempt to do something interesting with the 'Nightmare Room'. Avoid the bones, collect the skull and watch out for the monk, shuffling about in the darkness.
+
+Deep within Mawnan Woods
+The Owlman was also seen in the woods around the church. Doc decided to camp out, on Easter Saturday, 1976, to hopefully snap a picture: "Alert and expectant for the first half hour, I soon nodded off into slumberland." Some tasty apples here for you to crunch.
+
+Further into Mawnan Woods
+Yes, sir!
+
+An Eerie Cave
+Some subtle rope manipulation will be required here if you are to get in and out without losing a life. This room isn't really eerie, is it?
+
+The Tower of Urquhart Castle
+Moving from the South-West tip of England to Scotland in the blink of a room, we find ourselves in Urquhart castle, which is on the banks of Loch Ness.
+
+Tourist Trap
+I don't think Urquhart castle has that many visitors, but I couldn't resist the 'pun' - will Doc be trapped between the wandering tourists?
+
+A Lower Floor of Urquhart Castle
+A nice long ramp here - very satisfying.
+
+A Good View of the Loch
+Tricky to get the item here - watch out for the visual cue that will tell you when to jump. To make progress, drop onto the surface of the Loch.
+
+Loch Ness
+A trio of Nessies. How many monsters are there in Loch Ness? Three, one, none? To get all the items you'll have to traverse this room first from right to left, then from left to right.
+
+The Far Bank of the Loch
+Watch out for the buoy - it comes at you pretty fast. You can descend into the Loch via the water logged tunnel.
+
+Watery Tunnels/The Loch
+Two rooms in one. Either exit left, or head right into the Loch proper. I wonder how Doc can breathe? The Guardians were an attempt to do some kind of wriggling eel, but they just ended up as sine waves.
+
+Submerged in Loch Ness
+What is the Great Unknown IN NESS? Make your way up the platforms, back and forth, in the standard JSW style. 
+
+Puck Fair
+Which is held in Killorglin, County Kerry, every year. Doc Shiels is a frequent visitor.
+
+The True King of Ireland
+At the fair, a goat is crowned the 'True Kind of Ireland'. This dates back to pre-Christian times, when people worshipped Puck (among other Pagan deities). The Puck Guardian here looks more like a Satyr than anything else! I think the items are supposed to represent the Sidh (you know, fairies - ever played Tir Na Nog?). As Doc says: "I know the fairy race exists, and anyone who denies the fact is, for sure, a ignorant blind fool."
+
+West Killorglin
+Collect the booze glasses here; tricky as there's not much room.
+
+East Killorglin
+The three sphere arrangement looks tricky to negotiate, but it's easy when you know how.
+
+Typical Irish Countryside
+A tad hilly. Getting over the bush at the top of the hill can be enjoyable.
+
+Peat Bog
+With authentic peat bog man (preserved from ancient times - well, at least 1984). Careful, even going near the peat bog man can be hazardous to your heath. 
+
+On the Green at the Ninth Hole
+Doc has described himself as a shamanic surrealist golfer.
+
+Marine Peiste
+A pieste is an Irish sea-serpent. From Doc: "I met up with a pair of elderly American golfers, and we stood chatting on O'Brian's Bridge, looking across to Liscannor Bay. Then it appeared, in the estuary of the Dealegh River, a black sinuous shape. 'What's that?' asked one of my American friends. 'It's a marine peiste,' I replied, very casually. 'Is that a common animal here?' he asked. 'Quite a lot of them in the West', said I, aiming my camera at the thing."
+
+Me and Tam Tower
+Arrows...arrows...arrows. I think arrows are the hardest type of Guardian to employ in JSW. Rather idiosyncratic things. They feature a lot in this tower structure.
+
+on top of his buzzer
+It's interesting to note how much JSW has been influenced by the 'Hunchback' lampoon on the roof of Willy's mansion, giving us arrows *and* ropes.
+
+Coogan Barray his arrow of song
+The room titles? Taken from 'Finnegans Wake' by James Joyce. I searched for tower, top, arrow, and exit and found the phrases.
+
+the moment we exit
+I'm sure you'll be glad to leave.
+
+The Pictish Beast
+Pictish Beasts are odd entities that crop up as carvings on ancient stones. They don't seem to represent any biological creature.
+
+The Rodney Stones
+An ancient stone. Doc Shiels has argued that the beasts are actually a form of squid, that may exhibit sea-serpent-like behavior.
+
+Sea-Heads
+The Heads look rather sinister in this room. I don't think they're meant to be. It will take careful timing to get under the sextet of Heads, to cross to the other side of the room (for what purpose?).
+
+Alf O'Coders - This Heady Case
+This is a copy of the screen from 'Utility Cubicles'. It's nice to be back, and you can say hello to Willy.
+
+Rheotist Dream
+Rheotism is a painting technique whereby one draws with a single continuous line; another style employed by Tony Shiels. The blocks here are line-like, but hardly one continuous line! I particularly like the (admittedly obvious) Willy and Periscope Guardian combination here.
+
+Ascent into Dream
+Various Guardians from the game come back to haunt you here. Interesting stylings, eh? O.K., I admit it - I had run out of Guardians at this point.
+
+Exit, or Continue Wandering
+I recommend exiting; once you collect all the items, of course.
+
+Wandering Through a Dream Maze
+Featuring the S.H. barrel. Everyone needs to sign their games in some way.
+
+On the Way In the Door
+Back round again. Where you begin is where you end. There are some subtle variations between this and 'On the Way Out the Door', which may (not) confuse you.
+
+Dermot Maguire's Public House
+Which is actually 'The Stag Hunt'. Get the last item!
+
+I Know What I Like...
+This room, the message within, and the end game graphic that occurs here are meaningless, as far as I know.
+
+The Nnidnid Chamber
+As Doc says, "I deliberately experimented with psychic automatism and produced the word Nnidnid." If you've collected all the items then you can get in here, otherwise...

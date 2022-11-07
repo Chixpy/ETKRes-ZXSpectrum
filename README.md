@@ -56,7 +56,7 @@ After extracting the icon image with transparent background, a border is added: 
 
 [Emuteca](https://github.com/chixpy/emuteca) has [ETKIconBorder](https://github.com/Chixpy/Emuteca/blob/master/bin/Tools/ETKIconBorder.exe) tool in its distribution. A simple image editor to cut, extract, make transparency in images and apply filters to original image.
 
-Altenatively, there is a GIMP's script too, that can add the border automatically after transparent background is created. But it's slooooow.
+Alternatively, there is a [GIMP's script](https://github.com/Chixpy/Emuteca/tree/master/bin/Tools/Icon%20Border%20Gimp%20script) too, that can add the border automatically after transparent background is created. But it's slooooow.
 
 ## About Texts
 
